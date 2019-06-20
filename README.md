@@ -4,22 +4,22 @@ This is a paper list about deep learning for graphs.
 ## Unsupervised Node Representation Learning
 1. [**DeepWalk: Online Learning of Social Representations.**](https://arxiv.org/pdf/1403.6652.pdf) \
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.* \
-**KDD 2014**
+**KDD 2014** \
 *Node Classification, Random Walk, Skip-gram.*
 
 1. [**LINE: Large-scale Information Network Embedding.**](https://arxiv.org/pdf/1503.03578.pdf) \
 *Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei.* \
-**WWW 2015**
+**WWW 2015** \
 *First-order, Second-order, Node Classification.*
 
 1. [**GraRep: Learning Graph Representations with Global Structural Information.**](https://dl.acm.org/citation.cfm?id=2806512) \
 *Shaosheng Cao, Wei Lu,Qiongkai Xu.* \
-**CIKM 2015**
+**CIKM 2015** \
 *High-order, SVD.*
 
 1. [**node2vec: Scalable Feature Learning for Networks.**](https://arxiv.org/pdf/1607.00653.pdf) \
 *Aditya Grover, Jure Leskovec.* \
-**KDD 2016**
+**KDD 2016** \
 *Breadth-first Search, Depth-first Search, Node Classification, Link Prediction.*
 
 1. [**Scalable Graph Embedding for Asymmetric Proximity.**](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696) \
@@ -32,7 +32,7 @@ This is a paper list about deep learning for graphs.
 
 1. [**struc2vec: Learning Node Representations from Structural Identity.**](https://arxiv.org/pdf/1704.03165.pdf) \
 *Leonardo F. R. Ribeiro, Pedro H. P. Savarese, Daniel R. Figueiredo.* \
-**KDD 2017**
+**KDD 2017** \
 *Structural Identity.*
 
 1. [**Poincaré Embeddings for Learning Hierarchical Representations.**](https://arxiv.org/pdf/1705.08039.pdf) \
