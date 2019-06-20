@@ -13,7 +13,7 @@ This is a paper list about deep learning for graphs.
 *First-order, Second-order, Node Classification.*
 
 1. [**GraRep: Learning Graph Representations with Global Structural Information.**](https://dl.acm.org/citation.cfm?id=2806512) \
-*Shaosheng Cao, Wei Lu,Qiongkai Xu.* \
+*Shaosheng Cao, Wei Lu, Qiongkai Xu.* \
 **CIKM 2015** \
 *High-order, SVD.*
 
@@ -64,7 +64,7 @@ This is a paper list about deep learning for graphs.
 **WSDM 2019**
 
 1. [**NetSMF: Large-Scale Network Embedding as Sparse Matrix Factorization.**](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/www19netsmf.pdf) \
-*Jiezhong Qiu Yuxiao Dong Hao Ma Jian Li Chi Wang Kuansan Wang Jie Tang.* \
+*Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Chi Wang, Kuansan Wang, Jie Tang.* \
 **WWW 2019**
 
 1. [**Adversarial Training Methods for Network Embedding.**](https://dl.acm.org/citation.cfm?id=3313445) \
@@ -85,7 +85,7 @@ This is a paper list about deep learning for graphs.
 
 ## Graph Neural Networks for Recommender Systems
 
-## Other Topics of Applications of Graph Neural Networks
+## Other Topics or Applications of Graph Neural Networks
 
 ### Link Prediction
 
