@@ -85,7 +85,7 @@ This is a paper list about deep learning for graphs.
 
 ## Graph Neural Networks for Recommender Systems
 
-## Other applications of Graph Neural Networks
+## Other Topics of Applications of Graph Neural Networks
 
 ### Link Prediction
 
