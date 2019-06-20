@@ -1,6 +1,33 @@
 # Literature of Deep Learning for Graphs
 This is a paper list about deep learning for graphs.
 
+## Contents
+- [Unsupervised Node Representation Learning](#unrl)
+- [Node Representation Learning in Heterogeneous Graphs](#HIN)
+- [Node Representation Learning in Dynamic Graphs](#dynamic)
+- [Knowledge Graph Embedding](#kge)
+- [Graph Neural Networks](#gnn)
+- [Graph Generation](#gen)
+- [Graph Layout and High-dimensional Data Visualization](#vis)
+- [Graph Representation Learning Systems](#sys)
+- [Applications of Graph Neural Networks](#gnnapp)
+   - [Natural Language Processing](#gnn4nlp)
+   - [Computer Vision](#gnn4cv)
+   - [Recommender Systems](#gnn4rs)
+   - [Link Prediction](#gnn4lp)
+   - [Influence Prediction](#gnn4ip)
+   - [Neural Architecture Search](#gnn4nas)
+   - [Reinforcement Learning](#gnn4rl)
+   - [Combinatorial Optimization](#gnn4co)
+   - [Adversarial Attack](#gnn4aa)
+   - [Meta Learning](#gnn4ml)
+   - [Structure Learning](#gnn4sl)
+   - [Bioinformatics](#gnn4bio)
+   - [Theorem Proving](#gnn4tp)
+- [Datasets](#dat)
+
+<a name="unrl" />
+
 ## Unsupervised Node Representation Learning
 1. [**DeepWalk: Online Learning of Social Representations.**](https://arxiv.org/pdf/1403.6652.pdf) \
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.* \
@@ -71,46 +98,104 @@ This is a paper list about deep learning for graphs.
 *Quanyu Dai, Xiao Shen, Liang Zhang, Qiang Li, Dan Wang.* \
 **WWW 2019**
 
+<a name="HIN" />
+
 ## Node Representation Learning in Heterogeneous Graphs
+
+<a name="dynamic" />
 
 ## Node Representation Learning in Dynamic Graphs
 
+<a name="kge" />
+
 ## Knowledge Graph Embedding
+
+
+<a name="gnn" />
 
 ## Graph Neural Networks
 
-## Graph Neural Networks for Natural Language Processing
-
-## Graph Neural Networks for Computer Vision
-
-## Graph Neural Networks for Recommender Systems
-
-## Other Topics or Applications of Graph Neural Networks
-
-### Link Prediction
-
-### Influence Prediction
-
-### Neural Architecture Search
-
-### Reinforcement Learning
-
-### Combinatorial Optimization
-
-### Adversarial Attack
-
-### Meta Learning
-
-### Structure Learning
-
-### Bioinformatics
-
-### Theorem Proving
+<a name="gen" />
 
 ## Graph Generation
 
-## Graph Layout and High-dimensional Visualization
+<a name="vis" />
+
+## Graph Layout and High-dimensional Data Visualization
+
+<a name="sys" />
 
 ## Graph Representation Learning Systems
 
+<a name="gnnapp" />
+
+## Applications of Graph Neural Networks
+
+<a name="gnn4nlp" />
+
+### Natural Language Processing
+
+
+<a name="gnn4cv" />
+
+### Computer Vision
+
+<a name="gnn4rs" />
+
+### Recommender Systems
+1. [**Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**](https://arxiv.org/pdf/1806.01973.pdf)\
+*Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* \
+**KDD 2018**
+*PinSage*
+
+
+<a name="gnn4lp" />
+
+### Link Prediction
+
+<a name="gnn4ip" />
+
+### Influence Prediction
+
+<a name="gnn4nas" />
+
+### Neural Architecture Search
+
+<a name="gnn4rl" />
+
+### Reinforcement Learning
+
+<a name="gnn4co" />
+
+### Combinatorial Optimization
+
+
+<a name="gnn4aa" />
+
+### Adversarial Attack
+
+
+<a name="gnn4ml" />
+
+### Meta Learning
+
+<a name="gnn4sl" />
+
+### Structure Learning
+
+<a name="gnn4bio" />
+
+### Bioinformatics
+
+<a name="gnn4tp" />
+
+### Theorem Proving
+
+
+<a name="dat" />
+
 ## Datasets
+
+
+
+
