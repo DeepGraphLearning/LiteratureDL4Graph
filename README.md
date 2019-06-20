@@ -2,8 +2,8 @@
 This is a paper list about deep learning for graphs.
 
 ## Unsupervised Node Representation Learning
-1. [**DeepWalk: Online Learning of Social Representations.**](https://arxiv.org/pdf/1812.08434.pdf) \\
-*Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* \\
+1. [**DeepWalk: Online Learning of Social Representations.**](https://arxiv.org/pdf/1812.08434.pdf) \
+*Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* \
 KDD 2014
 
 ## Node Representation Learning in Heterogeneous Graphs
