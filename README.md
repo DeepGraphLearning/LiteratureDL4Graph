@@ -8,7 +8,7 @@ This is a paper list about deep learning for graphs.
    - [Node Representation Learning in Dynamic Graphs](#dynamic)
 - [Knowledge Graph Embedding](#kge)
 - [Graph Neural Networks](#gnn)
-   - [Applications of Graph Neural Networks](#gnnapp)
+- [Applications of Graph Neural Networks](#gnnapp)
    - [Natural Language Processing](#gnn4nlp)
    - [Computer Vision](#gnn4cv)
    - [Recommender Systems](#gnn4rs)
