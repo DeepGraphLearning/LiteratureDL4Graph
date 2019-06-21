@@ -681,7 +681,7 @@ Recommender Systems
 -------------------
 
 `Graph Convolutional Neural Networks for Web-Scale Recommender Systems
-<https://arxiv.org/pdf/1806.01973.pdf)\
+<https://arxiv.org/pdf/1806.01973.pdf>`\
     | :author:`Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec`
     | :venue:`KDD 2018`
     | :keyword:`PinSage`
