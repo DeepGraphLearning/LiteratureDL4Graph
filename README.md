@@ -229,35 +229,35 @@ This is a paper list about deep learning for graphs.
 **ICML 2017**
 
 1. [**Dyngem: Deep embedding method for dynamic graphs.**](https://arxiv.org/pdf/1805.11273.pdf) \
-*Palash Goyal, Nitin Kamra, Xinran He, Yan Liu.*
+*Palash Goyal, Nitin Kamra, Xinran He, Yan Liu.* \
 **ICLR 2017 Workshop**
 
 1. [**Attributed network embedding for learning in a dynamic environment.**](https://arxiv.org/pdf/1706.01860.pdf) \
-*Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.*
+*Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* \
 **CIKM 2017**
 
 1. [**Dynamic Network Embedding by Modeling Triadic Closure Process.**](http://yangy.org/works/dynamictriad/dynamic_triad.pdf) \
-*Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang.*
+*Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang.* \
 **AAAI 2018**
 
 1. [**DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks.**](https://pdfs.semanticscholar.org/9499/b38866b1eb87ae43fa5be02f9d08cd3c20a8.pdf?_ga=2.6780794.935636364.1561139530-1831876308.1523264869) \
-*Jianxin Ma, Peng Cui, Wenwu Zhu.*
+*Jianxin Ma, Peng Cui, Wenwu Zhu.* \
 **AAAI 2018**
 
 1. [**TIMERS: Error-Bounded SVD Restart on Dynamic Networks.**](https://arxiv.org/pdf/1711.09541.pdf) \
-*Ziwei Zhang, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu.*
+*Ziwei Zhang, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu.* \
 **AAAI 2018**
 
 1. [**Dynamic Embeddings for User Profiling in Twitter.**](https://dl.acm.org/citation.cfm?id=3219819.3220043) \
-*Shangsong Liang, Xiangliang Zhang, Zhaochun Ren, Evangelos Kanoulas.*
+*Shangsong Liang, Xiangliang Zhang, Zhaochun Ren, Evangelos Kanoulas.* \
 **KDD 2018**
 
 1. [**Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding.**](https://www.ijcai.org/proceedings/2018/0288.pdf) \
-*Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang.*
+*Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang.* \
 **IJCAI 2018**
 
 1. [**DyRep: Learning Representations over Dynamic Graphs.**](https://openreview.net/pdf?id=HyePrhR5KX)
-*Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha.*
+*Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha.* \
 **ICLR 2019**
 
 
@@ -412,108 +412,107 @@ This is a paper list about deep learning for graphs.
 **CoNLL 2017**
 
 1. [**QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.**](https://arxiv.org/pdf/1804.09541.pdf) \
-*Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, Quoc V. Le.*
+*Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, Quoc V. Le.* \
 **ICLR 2018**
 
 1. [**A Structured Self-attentive Sentence Embedding.**](https://arxiv.org/pdf/1703.03130.pdf) \
-*Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio.*
+*Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio.* \
 **ICLR 2018**
 
 1. [**Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering.**](https://aclweb.org/anthology/C18-1280) \
-*Daniil Sorokin, Iryna Gurevych.*
+*Daniil Sorokin, Iryna Gurevych.* \
 **COLING 2018**
 
 1. [**Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks.**](https://www.aclweb.org/anthology/N18-2078) \
-*Diego Marcheggiani, Joost Bastings, Ivan Titov.*
+*Diego Marcheggiani, Joost Bastings, Ivan Titov.* \
 **NAACL 2018**
 
 1. [**Linguistically-Informed Self-Attention for Semantic Role Labeling.**](https://www.aclweb.org/anthology/D18-1548) \
-*Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, Andrew McCallum.*
+*Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, Andrew McCallum.* \
 **EMNLP 2018**
 
-
 1. [**Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**](https://aclweb.org/anthology/D18-1244) \
-*Yuhao Zhang, Peng Qi, Christopher D. Manning.*
+*Yuhao Zhang, Peng Qi, Christopher D. Manning.* \
 **EMNLP 2018**
 
 1. [**A Graph-to-Sequence Model for AMR-to-Text Generation.**](https://www.aclweb.org/anthology/P18-1150) \
-*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.*
+*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* \
 **ACL 2018**
 
 1. [**Graph-to-Sequence Learning using Gated Graph Neural Networks.**](https://www.aclweb.org/anthology/P18-1026) \
-*Daniel Beck, Gholamreza Haffari, Trevor Cohn.*
+*Daniel Beck, Gholamreza Haffari, Trevor Cohn.* \
 **ACL 2018**
 
 1. [**Graph Convolutional Networks for Text Classification.**](https://arxiv.org/pdf/1809.05679.pdf) \
-*Liang Yao, Chengsheng Mao, Yuan Luo*
+*Liang Yao, Chengsheng Mao, Yuan Luo* \
 **AAAI 2019**
 
 1. [**Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder.**](https://openreview.net/pdf?id=BJlgNh0qKQ) \
-*Caio Corro, Ivan Titov.*
+*Caio Corro, Ivan Titov.* \
 **ICLR 2019.**
 
 1. [**Structured Neural Summarization.**](https://arxiv.org/pdf/1811.01824.pdf) \
-*Patrick Fernandes, Miltiadis Allamanis, Marc Brockschmid*
+*Patrick Fernandes, Miltiadis Allamanis, Marc Brockschmid.* \
 **ICLR 2019**
 
 1. [**Multi-task Learning over Graph Structures.**](https://arxiv.org/pdf/1811.10211.pdf)
-*Pengfei Liu, Jie Fu, Yue Dong, Xipeng Qiu, Jackie Chi Kit Cheung.*
+*Pengfei Liu, Jie Fu, Yue Dong, Xipeng Qiu, Jackie Chi Kit Cheung.* \
 **AAAI 2019**
 
 1. [**Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing.**](https://arxiv.org/pdf/1903.02591.pdf) \
-*Wenhan Xiong, Jiawei Wu, Deren Lei, Mo Yu, Shiyu Chang, Xiaoxiao Guo, William Yang Wang.*
+*Wenhan Xiong, Jiawei Wu, Deren Lei, Mo Yu, Shiyu Chang, Xiaoxiao Guo, William Yang Wang.* \
 **NAACL 2019**
 
 1. [**Single Document Summarization as Tree Induction.**](https://www.aclweb.org/anthology/N19-1173) \
-*Yang Liu, Ivan Titov, Mirella Lapata.*
+*Yang Liu, Ivan Titov, Mirella Lapata.* \
 **NAACL 2019**
 
 1. [**Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks.**](https://arxiv.org/pdf/1903.01306.pdf) \
-*Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.*
+*Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.* \
 **NAACL 2019**
 
 1. [**Graph Neural Networks with Generated Parameters for Relation Extraction.**](https://arxiv.org/pdf/1902.00756.pdf) \
-*Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, Maosong Sun.*
+*Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, Maosong Sun.* \
 **ACL 2019**
 
 1. [**Dynamically Fused Graph Network for Multi-hop Reasoning.**](https://arxiv.org/pdf/1905.06933.pdf) \
-*Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu.*
+*Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu.* \
 **ACL 2019**
 
 1. [**Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media.**](https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf) \
-*Chang Li, Dan Goldwasser*
+*Chang Li, Dan Goldwasser* \
 **ACL 2019**
 
 1. [**Attention Guided Graph Convolutional Networks for Relation Extraction.**](https://arxiv.org/pdf/1906.07510.pdf) \
-*Zhijiang Guo, Yan Zhang, Wei Lu.*
+*Zhijiang Guo, Yan Zhang, Wei Lu.* \
 **ACL 2019**
 
 1. [**Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks.**](https://arxiv.org/pdf/1809.04283.pdf) \
-*Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya, Partha Talukdar.*
+*Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya, Partha Talukdar.* \
 **ACL 2019**
 
 1. [**GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction.**](https://tsujuifu.github.io/pubs/acl19_graph-rel.pdf) \
-*Tsu-Jui Fu, Peng-Hsuan Li, Wei-Yun Ma.*
+*Tsu-Jui Fu, Peng-Hsuan Li, Wei-Yun Ma.* \
 **ACL 2019**
 
 1. [**Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.**](https://arxiv.org/pdf/1905.07374.pdf) \
-*Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.*
+*Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, Bowen Zhou.* \
 **ACL 2019**
 
 1. [**Cognitive Graph for Multi-Hop Reading Comprehension at Scale.**](https://arxiv.org/pdf/1905.05460.pdf) \
-*Ming Ding, Chang Zhou, Qibin Chen, Hongxia Yang, Jie Tang.*
+*Ming Ding, Chang Zhou, Qibin Chen, Hongxia Yang, Jie Tang.* \
 **ACL 2019**
 
 1. [**Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model.**](https://arxiv.org/pdf/1906.01231.pdf) \
-*Wei Li, Jingjing Xu, Yancheng He, Shengli Yan, Yunfang Wu, Xu Sun.*
+*Wei Li, Jingjing Xu, Yancheng He, Shengli Yan, Yunfang Wu, Xu Sun.* \
 **ACL 2019**
 
 1. [**Matching Article Pairs with Graphical Decomposition and Convolutions.**](https://arxiv.org/pdf/1802.07459.pdf) \
-*Bang Liu, Di Niu, Haojie Wei, Jinghong Lin, Yancheng He, Kunfeng Lai, Yu Xu.*
+*Bang Liu, Di Niu, Haojie Wei, Jinghong Lin, Yancheng He, Kunfeng Lai, Yu Xu.* \
 **ACL 2019**
 
 1. [**Embedding Imputation with Grounded Language Information.**](https://arxiv.org/pdf/1906.03753.pdf) \
-*Ziyi Yang, Chenguang Zhu, Vin Sachidananda, Eric Darve.*
+*Ziyi Yang, Chenguang Zhu, Vin Sachidananda, Eric Darve.* \
 **ACL 2019**
 
 
@@ -529,46 +528,46 @@ This is a paper list about deep learning for graphs.
 ### Recommender Systems
 1. [**Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**](https://arxiv.org/pdf/1806.01973.pdf)\
 *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* \
-**KDD 2018**
+**KDD 2018** \
 *PinSage*
 
 1. [**SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation.**](https://arxiv.org/pdf/1811.02815.pdf) \
-*Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang, Meng Wang.*
+*Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang, Meng Wang.* \
 **AAAI 2018** \
 **GCN, Social recommendation**
 
 1. [**Session-based Social Recommendation via Dynamic Graph Attention Networks.**](https://arxiv.org/pdf/1902.09362.pdf) \
-*Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang, Jian Tang.*
-**WSDM 2019**
+*Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang, Jian Tang.* \
+**WSDM 2019** \
 **Social recommendation, session-based, GAT**
 
 1. [**Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems.**](https://arxiv.org/pdf/1903.10433.pdf) \
-*Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen.*
-**WWW 2019**
+*Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen.* \
+**WWW 2019** \
 **Social recommendation, GAT**
 
 1. [**Graph Neural Networks for Social Recommendation.**](https://arxiv.org/pdf/1902.07243.pdf) \
-*Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin.*
-**WWW 2019**
+*Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin.* \
+**WWW 2019** \
 **Social recommendation, GNN**
 
 1. [**Session-based Recommendation with Graph Neural Networks.**](https://arxiv.org/pdf/1811.00855.pdf) \
-*Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.*
-**AAAI 2019**
+*Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.* \
+**AAAI 2019** \
 **Session-based recommendation, GNN**
 
 1. [**A Neural Influence Diffusion Model for Social Recommendation.**](https://arxiv.org/pdf/1904.10322.pdf) \
-*Le Wu, Peijie Sun, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang.*
-**SIGIR 2019**
-**Social Recommendation, diffusion**
+*Le Wu, Peijie Sun, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang.* \
+**SIGIR 2019** \
+**Social Recommendation, diffusion** 
 
 1. [**Neural Graph Collaborative Filtering.**](https://arxiv.org/pdf/1905.08108.pdf) \
-*Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua.*
-**SIGIR 2019**
+*Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua.* \
+**SIGIR 2019** \
 **Collaborative Filtering, GNN**
 
 1. [**Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.**](https://arxiv.org/pdf/1906.01829.pdf) \
-*Haoyu Wang, Defu Lian, Yong Ge.*
+*Haoyu Wang, Defu Lian, Yong Ge.* \
 **IJCAI 2019**
 
 
@@ -577,15 +576,15 @@ This is a paper list about deep learning for graphs.
 ### Link Prediction
 
 1. [**Link Prediction Based on Graph Neural Networks.**](https://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks.pdf) \
-*Muhan Zhang, Yixin Chen.*
+*Muhan Zhang, Yixin Chen.* \
 **NeurIPS 2018**
 
 1. [**Link Prediction via Subgraph Embedding-Based Convex Matrix Completion.**](http://iiis.tsinghua.edu.cn/~weblt/papers/link-prediction-subgraphembeddings.pdf) \
-*Zhu Cao, Linlin Wang, Gerard de Melo.*
+*Zhu Cao, Linlin Wang, Gerard de Melo.* \
 **AAAI 2018** 
 
 1. [**Graph Convolutional Matrix Completion.**](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf) \
-*Rianne van den Berg, Thomas N. Kipf, Max Welling.*
+*Rianne van den Berg, Thomas N. Kipf, Max Welling.* \
 **KDD 2018 Workshop**
 
 
@@ -594,11 +593,11 @@ This is a paper list about deep learning for graphs.
 ### Influence Prediction
 
 1. [**DeepInf: Social Influence Prediction with Deep Learning.**](https://arxiv.org/pdf/1807.05560.pdf) \
-*Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.*
+*Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.* \
 **KDD 2018**
 
 1. [**Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks.**](https://arxiv.org/pdf/1905.08865.pdf) \
-*Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao, Christos Faloutsos.*
+*Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao, Christos Faloutsos.* \
 **KDD 2019**
 
 <a name="gnn4nas" />
@@ -606,7 +605,7 @@ This is a paper list about deep learning for graphs.
 ### Neural Architecture Search
 
 1. [**Graph HyperNetworks for Neural Architecture Search.**](https://openreview.net/pdf?id=rkgW0oA9FX) \
-*Chris Zhang, Mengye Ren, Raquel Urtasun.*
+*Chris Zhang, Mengye Ren, Raquel Urtasun.* \
 **ICLR 2019**
 
 <a name="gnn4rl" />
@@ -614,31 +613,31 @@ This is a paper list about deep learning for graphs.
 ### Reinforcement Learning
 
 1. [**Action Schema Networks: Generalised Policies with Deep Learning.**](https://arxiv.org/pdf/1709.04271.pdf) \
-*Sam Toyer, Felipe Trevizan, Sylvie Thiebaux, Lexing Xie.*
+*Sam Toyer, Felipe Trevizan, Sylvie Thiebaux, Lexing Xie.* \
 **AAAI 2018**
 
 1. [**NerveNet: Learning Structured Policy with Graph Neural Networks.**](https://openreview.net/pdf?id=S1sqHMZCb) \
-*Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.*
+*Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.* \
 **ICLR 2018**
 
 1. [**Graph Networks as Learnable Physics Engines for Inference and Control.**](https://arxiv.org/pdf/1806.01242.pdf) \
-*Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller.*
+*Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller.* \
 **ICML 2018**
 
 1. [**Learning Policy Representations in Multiagent Systems.**](https://arxiv.org/pdf/1806.06464.pdf) \
-*Aditya Grover, Maruan Al-Shedivat, Jayesh K. Gupta, Yura Burda, Harrison Edwards.*
+*Aditya Grover, Maruan Al-Shedivat, Jayesh K. Gupta, Yura Burda, Harrison Edwards.* \
 **ICML 2018**
 
 1. [**Relational recurrent neural networks.**](https://papers.nips.cc/paper/7960-relational-recurrent-neural-networks.pdf) \
-*Adam Santoro,  Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski,Théophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap.*
+*Adam Santoro,  Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski,Théophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap.* \
 **NeurIPS 2018**
 
 1. [**Transfer of Deep Reactive Policies for MDP Planning.**](http://www.cse.iitd.ac.in/~mausam/papers/nips18.pdf) \
-*Aniket Bajpai, Sankalp Garg, Mausam.*
-**NeurIPS 2018**
+*Aniket Bajpai, Sankalp Garg, Mausam.* \
+**NeurIPS 2018** 
 
 1. [**Neural Graph Evolution: Towards Efficient Automatic Robot Design.**](https://openreview.net/pdf?id=BkgWHnR5tm) \
-*Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba.*
+*Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba.* \
 **ICLR 2019**
 
 <a name="gnn4co" />
