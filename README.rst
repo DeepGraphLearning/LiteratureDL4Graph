@@ -41,7 +41,7 @@ Unsupervised Node Representation Learning
 
 `node2vec: Scalable Feature Learning for Networks
 <https://arxiv.org/pdf/1607.00653>`_
-    | :author: `Aditya Grover, Jure Leskovec`
+    | :author:`Aditya Grover, Jure Leskovec`
     | :venue:`KDD 2016`
     | :keyword:`Breadth-first Search, Depth-first Search, Node Classification, Link Prediction`
 
