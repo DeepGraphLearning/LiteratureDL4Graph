@@ -233,44 +233,44 @@ This is a paper list about deep learning for graphs.
 
 ## Graph Neural Networks
 
-1. [**Revisiting Semi-supervised Learning with Graph Embeddings.**]() \
-*XXX* \
+1. [**Revisiting Semi-supervised Learning with Graph Embeddings.**](https://arxiv.org/abs/1603.08861) \
+*Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* \
 **ICML 2016**
 
-1. [**Semi-Supervised Classification with Graph Convolutional Networks.**]() \
-*XXX* \
+1. [**Semi-Supervised Classification with Graph Convolutional Networks.**](https://arxiv.org/abs/1609.02907) \
+*Thomas N. Kipf, Max Welling.* \
 **ICLR 2017**
 
-1. [**Neural Message Passing for Quantum Chemistry.**]() \
-*XXX* \
+1. [**Neural Message Passing for Quantum Chemistry.**](https://arxiv.org/abs/1704.01212) \
+*Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl.* \
 **ICML 2017**
 
-1. [**Motif-Aware Graph Embeddings.**]() \
-*XXX* \
+1. [**Motif-Aware Graph Embeddings.**](http://gearons.org/assets/docs/motif-aware-graph-final.pdf) \
+*Hoang Nguyen, Tsuyoshi Murata.* \
 **IJCAI 2017**
 
-1. [**Learning Graph Representations with Embedding Propagation.**]() \
-*XXX* \
+1. [**Learning Graph Representations with Embedding Propagation.**](https://arxiv.org/abs/1710.03059) \
+*Alberto Garcia-Duran, Mathias Niepert.* \
 **NeurIPS 2017**
 
-1. [**Inductive Representation Learning on Large Graphs.**]() \
-*XXX* \
+1. [**Inductive Representation Learning on Large Graphs.**](https://arxiv.org/abs/1706.02216) \
+*William L. Hamilton, Rex Ying, Jure Leskovec.* \
 **NeurIPS 2017**
 
-1. [**Graph Attention Networks.**]() \
-*XXX* \
+1. [**Graph Attention Networks.**](https://arxiv.org/abs/1710.10903) \
+*Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.* \
 **ICLR 2018**
 
-1. [**FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**]() \
-*XXX* \
+1. [**FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**](https://arxiv.org/abs/1801.10247) \
+*Jie Chen, Tengfei Ma, Cao Xiao.* \
 **ICLR 2018**
 
-1. [**Representation Learning on Graphs with Jumping Knowledge Networks.**]() \
-*XXX* \
+1. [**Representation Learning on Graphs with Jumping Knowledge Networks.**](https://arxiv.org/abs/1806.03536) \
+*Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka.* \
 **ICML 2018**
 
-1. [**Stochastic Training of Graph Convolutional Networks with Variance Reduction.**]() \
-*XXX* \
+1. [**Stochastic Training of Graph Convolutional Networks with Variance Reduction.**](https://arxiv.org/abs/1710.10568) \
+*Jianfei Chen, Jun Zhu, Le Song.* \
 **ICML 2018**
 
 1. [**Large-Scale Learnable Graph Convolutional Networks.**]() \
