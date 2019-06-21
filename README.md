@@ -107,6 +107,115 @@ This is a paper list about deep learning for graphs.
 
 ### Node Representation Learning in Heterogeneous Graphs
 
+1. [**Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks.**](https://dl.acm.org/citation.cfm?id=2556225) \
+*Yann Jacob, Ludovic Denoyer, Patrick Gallinari.* \
+**WSDM 2014**
+
+1. [**PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks.**](https://arxiv.org/pdf/1508.00200.pdf) \
+*Jian Tang, Meng Qu, Qiaozhu Mei.* \
+**KDD 2015** \
+*Text Embedding, Heterogeneous Text Graphs.*
+
+1. [**Heterogeneous Network Embedding via Deep Architectures.**](https://dl.acm.org/citation.cfm?id=2783296) \
+*Shiyu Chang, Wei Han, Jiliang Tang, Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang.* \
+**KDD 2015**
+
+1. [**Network Representation Learning with Rich Text Information.**](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/view/11098) \
+*Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Chang.* \
+**AAAI 2015**
+
+1. [**Max-Margin DeepWalk: Discriminative Learning of Network Representation.**](https://www.ijcai.org/Proceedings/16/Papers/547.pdf) \
+*Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.* \
+**IJCAI 2016**
+
+1. [**metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**](https://dl.acm.org/citation.cfm?id=3098036) \
+*Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.* \
+**KDD 2017**
+
+1. [**Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks.**](https://arxiv.org/pdf/1610.09769.pdf) \
+*Jingbo Shang, Meng Qu, Jialu Liu, Lance M. Kaplan, Jiawei Han, Jian Peng.* \
+**arXiv 2016**
+
+1. [**HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**](https://dl.acm.org/citation.cfm?id=3132953) \
+*Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* \
+**CIKM 2017**
+
+1. [**An Attention-based Collaboration Framework for Multi-View Network Representation Learning.**](https://arxiv.org/pdf/1709.06636.pdf) \
+*Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* \
+**CIKM 2017**
+
+1. [**Multi-view Clustering with Graph Embedding for Connectome Analysis.**](https://dl.acm.org/citation.cfm?id=3132909) \
+*Guixiang Ma, Lifang He, Chun-Ta Lu, Weixiang Shao, Philip S. Yu, Alex D. Leow, Ann B. Ragin.* \
+**CIKM 2017**
+
+1. [**CANE: Context-Aware Network Embedding for Relation Modeling.**](https://aclweb.org/anthology/papers/P/P17/P17-1158/) \
+*Cunchao Tu, Han Liu, Zhiyuan Liu, Maosong Sun.* \
+**ACL 2017**
+
+1. [**PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction.**](https://dl.acm.org/citation.cfm?id=3219986) \
+*Hongxu Chen, Hongzhi Yin, Weiqing Wang, Hao Wang, Quoc Viet Hung Nguyen, Xue Li.* \
+**KDD 2018**
+
+1. [**BiNE: Bipartite Network Embedding.**](https://dl.acm.org/citation.cfm?id=3209978.3209987) \
+*Ming Gao, Leihui Chen, Xiangnan He, Aoying Zhou.* \
+**SIGIR 2018**
+
+1. [**StarSpace: Embed All The Things!**](https://arxiv.org/abs/1709.03856) \
+*Ledell Wu, Adam Fisch, Sumit Chopra, Keith Adams, Antoine Bordes, Jason Weston.* \
+**AAAI 2018**
+
+1. [**Exploring Expert Cognition for Attributed Network Embedding.**](https://dl.acm.org/citation.cfm?id=3159655) \
+*Xiao Huang, Qingquan Song, Jundong Li, Xia Hu.* \
+**WSDM 2018**
+
+1. [**SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction.**](https://arxiv.org/abs/1712.00732) \
+*Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.* \
+**WSDM 2018**
+
+1. [**Multidimensional Network Embedding with Hierarchical Structures.**](https://dl.acm.org/citation.cfm?id=3159680) \
+*Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin.* \
+**WSDM 2018**
+
+1. [**Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.**](https://dl.acm.org/citation.cfm?id=3159711) \
+*Meng Qu, Jian Tang, Jiawei Han.* \
+**WSDM 2018**
+
+1. [**Generative Adversarial Network based Heterogeneous Bibliographic Network Representation for Personalized Citation Recommendation.**](https://www.semanticscholar.org/paper/Generative-Adversarial-Network-Based-Heterogeneous-Cai-Han/1596d6487012696ba400fb69904a2c372a08a2be) \
+*Xiaoyan Cai, Junwei Han, Libin Yang.* \
+**AAAI 2018**
+
+1. [**ANRL: Attributed Network Representation Learning via Deep Neural Networks.**](https://www.ijcai.org/proceedings/2018/438) \
+*Zhen Zhang, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, Can Wang.* \
+**AAAI 2018**
+
+1. [**Efficient Attributed Network Embedding via Recursive Randomized Hashing.**](https://www.ijcai.org/proceedings/2018/397) \
+*Wei Wu, Bin Li, Ling Chen, Chengqi Zhang.* \
+**IJCAI 2018**
+
+1. [**Deep Attributed Network Embedding.**](https://www.ijcai.org/proceedings/2018/467) \
+*Hongchang Gao, Heng Huang.* \
+**IJCAI 2018**
+
+1. [**Co-Regularized Deep Multi-Network Embedding.**](https://dl.acm.org/citation.cfm?id=3186113) \
+*Jingchao Ni, Shiyu Chang, Xiao Liu, Wei Cheng, Haifeng Chen, Dongkuan Xu, Xiang Zhang.* \
+**WWW 2018**
+
+1. [**Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks.**](https://arxiv.org/abs/1807.03490) \
+*Yu Shi, Qi Zhu, Fang Guo, Chao Zhang, Jiawei Han.* \
+**KDD 2018**
+
+1. [**Meta-Graph Based HIN Spectral Embedding: Methods, Analyses, and Insights.**](https://www.semanticscholar.org/paper/Meta-Graph-Based-HIN-Spectral-Embedding%3A-Methods%2C-Yang-Feng/4d5f4d6785d550383e3f3afb04c3015bf0d28405) \
+*Carl Yang, Yichen Feng, Pan Li, Yu Shi, Jiawei Han.* \
+**ICDM 2018**
+
+1. [**SIDE: Representation Learning in Signed Directed Networks.**](https://dl.acm.org/citation.cfm?id=3186117) \
+*Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* \
+**WWW 2018**
+
+1. [**Deep Graph Infomax.**](https://arxiv.org/abs/1809.10341) \
+*Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* \
+**ICLR 2019**
+
 <a name="dynamic" />
 
 ### Node Representation Learning in Dynamic Graphs
