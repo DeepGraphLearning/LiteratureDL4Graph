@@ -2,15 +2,13 @@
 This is a paper list about deep learning for graphs.
 
 ## Contents
-- [Unsupervised Node Representation Learning](#unrl)
-- [Node Representation Learning in Heterogeneous Graphs](#HIN)
-- [Node Representation Learning in Dynamic Graphs](#dynamic)
+- [Node Representation Learning](#node)
+   - [Unsupervised Node Representation Learning](#unrl)
+   - [Node Representation Learning in Heterogeneous Graphs](#hin)
+   - [Node Representation Learning in Dynamic Graphs](#dynamic)
 - [Knowledge Graph Embedding](#kge)
 - [Graph Neural Networks](#gnn)
-- [Graph Generation](#gen)
-- [Graph Layout and High-dimensional Data Visualization](#vis)
-- [Graph Representation Learning Systems](#sys)
-- [Applications of Graph Neural Networks](#gnnapp)
+   - [Applications of Graph Neural Networks](#gnnapp)
    - [Natural Language Processing](#gnn4nlp)
    - [Computer Vision](#gnn4cv)
    - [Recommender Systems](#gnn4rs)
@@ -24,11 +22,18 @@ This is a paper list about deep learning for graphs.
    - [Structure Learning](#gnn4sl)
    - [Bioinformatics](#gnn4bio)
    - [Theorem Proving](#gnn4tp)
+- [Graph Generation](#gen)
+- [Graph Layout and High-dimensional Data Visualization](#vis)
+- [Graph Representation Learning Systems](#sys)
 - [Datasets](#dat)
+
+<a name="node" />
+
+## Node Representation Learning
 
 <a name="unrl" />
 
-## Unsupervised Node Representation Learning
+### Unsupervised Node Representation Learning
 1. [**DeepWalk: Online Learning of Social Representations.**](https://arxiv.org/pdf/1403.6652.pdf) \
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.* \
 **KDD 2014** \
@@ -98,13 +103,13 @@ This is a paper list about deep learning for graphs.
 *Quanyu Dai, Xiao Shen, Liang Zhang, Qiang Li, Dan Wang.* \
 **WWW 2019**
 
-<a name="HIN" />
+<a name="hin" />
 
-## Node Representation Learning in Heterogeneous Graphs
+### Node Representation Learning in Heterogeneous Graphs
 
 <a name="dynamic" />
 
-## Node Representation Learning in Dynamic Graphs
+### Node Representation Learning in Dynamic Graphs
 
 <a name="kge" />
 
@@ -114,18 +119,6 @@ This is a paper list about deep learning for graphs.
 <a name="gnn" />
 
 ## Graph Neural Networks
-
-<a name="gen" />
-
-## Graph Generation
-
-<a name="vis" />
-
-## Graph Layout and High-dimensional Data Visualization
-
-<a name="sys" />
-
-## Graph Representation Learning Systems
 
 <a name="gnnapp" />
 
@@ -190,6 +183,18 @@ This is a paper list about deep learning for graphs.
 <a name="gnn4tp" />
 
 ### Theorem Proving
+
+<a name="gen" />
+
+## Graph Generation
+
+<a name="vis" />
+
+## Graph Layout and High-dimensional Data Visualization
+
+<a name="sys" />
+
+## Graph Representation Learning Systems
 
 
 <a name="dat" />
