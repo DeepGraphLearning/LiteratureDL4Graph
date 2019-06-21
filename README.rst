@@ -1,5 +1,5 @@
 Literature of Deep Learning for Graphs
-    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:`    | :venue:``
+**************************************
 This is a paper list about deep learning for graphs.
 
 .. contents::
