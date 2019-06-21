@@ -148,6 +148,10 @@ This is a paper list about deep learning for graphs.
 *Guixiang Ma, Lifang He, Chun-Ta Lu, Weixiang Shao, Philip S. Yu, Alex D. Leow, Ann B. Ragin.* \
 **CIKM 2017**
 
+1. [**Attributed Signed Network Embedding.**](https://dl.acm.org/citation.cfm?id=3132847.3132905) \
+*Suhang Wang, Charu Aggarwal, Jiliang Tang, Huan Liu.* \
+**CIKM 2017**
+
 1. [**CANE: Context-Aware Network Embedding for Relation Modeling.**](https://aclweb.org/anthology/papers/P/P17/P17-1158/) \
 *Cunchao Tu, Han Liu, Zhiyuan Liu, Maosong Sun.* \
 **ACL 2017**
@@ -228,6 +232,127 @@ This is a paper list about deep learning for graphs.
 <a name="gnn" />
 
 ## Graph Neural Networks
+
+1. [**Revisiting Semi-supervised Learning with Graph Embeddings.**]() \
+*XXX* \
+**ICML 2016**
+
+1. [**Semi-Supervised Classification with Graph Convolutional Networks.**]() \
+*XXX* \
+**ICLR 2017**
+
+1. [**Neural Message Passing for Quantum Chemistry.**]() \
+*XXX* \
+**ICML 2017**
+
+1. [**Motif-Aware Graph Embeddings.**]() \
+*XXX* \
+**IJCAI 2017**
+
+1. [**Learning Graph Representations with Embedding Propagation.**]() \
+*XXX* \
+**NeurIPS 2017**
+
+1. [**Inductive Representation Learning on Large Graphs.**]() \
+*XXX* \
+**NeurIPS 2017**
+
+1. [**Graph Attention Networks.**]() \
+*XXX* \
+**ICLR 2018**
+
+1. [**FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**]() \
+*XXX* \
+**ICLR 2018**
+
+1. [**Representation Learning on Graphs with Jumping Knowledge Networks.**]() \
+*XXX* \
+**ICML 2018**
+
+1. [**Stochastic Training of Graph Convolutional Networks with Variance Reduction.**]() \
+*XXX* \
+**ICML 2018**
+
+1. [**Large-Scale Learnable Graph Convolutional Networks.**]() \
+*XXX* \
+**KDD 2018**
+
+1. [**Adaptive Sampling Towards Fast Graph Representation Learning.**]() \
+*XXX* \
+**NeurIPS 2018**
+
+1. [**Hierarchical Graph Representation Learning with Differentiable Pooling.**]() \
+*XXX* \
+**NeurIPS 2018**
+
+1. [**Bayesian Semi-supervised Learning with Graph Gaussian Processes.**]() \
+*XXX* \
+**NeurIPS 2018**
+
+1. [**Pitfalls of Graph Neural Network Evaluation.**]() \
+*XXX* \
+**arXiv 1811**
+
+1. [**Heterogeneous Graph Attention Network.**]() \
+*XXX* \
+**WWW 2019**
+
+1. [**How Powerful are Graph Neural Networks?**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**LanczosNet: Multi-Scale Deep Graph Convolutional Networks.**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**Graph Wavelet Neural Network.**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**Supervised Community Detection with Line Graph Neural Networks.**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**Predict then Propagate: Graph Neural Networks meet Personalized PageRank.**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**Invariant and Equivariant Graph Networks.**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**Capsule Graph Neural Network.**]() \
+*XXX* \
+**ICLR 2019**
+
+1. [**MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing.**]() \
+*XXX* \
+**ICML 2019**
+
+1. [**Graph U-Nets.**]() \
+*XXX* \
+**ICML 2019**
+
+1. [**Disentangled Graph Convolutional Networks.**]() \
+*XXX* \
+**ICML 2019**
+
+1. [**GMNN: Graph Markov Neural Networks.**]() \
+*XXX* \
+**ICML 2019**
+
+1. [**Simplifying Graph Convolutional Networks.**]() \
+*XXX* \
+**ICML 2019**
+
+1. [**Position-aware Graph Neural Networks.**]() \
+*XXX* \
+**ICML 2019**
+
+1. [**Self-Attention Graph Pooling.**]() \
+*XXX* \
+**ICML 2019**
+
 
 <a name="gnnapp" />
 
