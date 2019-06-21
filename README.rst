@@ -586,7 +586,7 @@ Natural Language Processing
 
 `Graph Convolutional Networks for Text Classification
 <https://arxiv.org/pdf/1809.05679.pdf>`_
-    | :author:`Liang Yao, Chengsheng Mao, Yuan Luo*
+    | :author:`Liang Yao, Chengsheng Mao, Yuan Luo`
     | :venue:`AAAI 2019`
 
 `Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder
@@ -631,7 +631,7 @@ Natural Language Processing
 
 `Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
 <https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf>`_
-    | :author:`Chang Li, Dan Goldwasser*
+    | :author:`Chang Li, Dan Goldwasser`
     | :venue:`ACL 2019`
 
 `Attention Guided Graph Convolutional Networks for Relation Extraction
