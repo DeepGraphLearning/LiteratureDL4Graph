@@ -256,6 +256,74 @@ Node Representation Learning in Dynamic Graphs
 Knowledge Graph Embedding
 =========================
 
+`Translating Embeddings for Modeling Multi-relational Data
+<https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf>`_
+    | :author:`Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko`
+    | :venue:`NIPS 2013`
+
+`Knowledge Graph Embedding by Translating on Hyperplanes
+<https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546>`_
+    | :author:`Zhen Wang, Jianwen Zhang, Jianlin Feng, Zheng Chen`
+    | :venue:`AAAI 2014`
+
+`Learning Entity and Relation Embeddings for Knowledge Graph Completion
+<https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523>`_
+    | :author:`Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu`
+    | :venue:`AAAI 2015`
+
+`Knowledge Graph Embedding via Dynamic Mapping Matrix
+<https://www.aclweb.org/anthology/P15-1067>`_
+    | :author:`Guoliang Ji, Shizhu He, Liheng Xu, Kang Liu, Jun Zha`
+    | :venue:`ACL 2015`
+
+`Modeling Relation Paths for Representation Learning of Knowledge Bases
+<https://arxiv.org/pdf/1506.00379>`_
+    | :author:`Yankai Lin, Zhiyuan Liu, Huanbo Luan, Maosong Sun, Siwei Rao, Song Liu`
+    | :venue:`EMNLP 2015`
+
+`Embedding Entities and Relations for Learning and Inference in Knowledge Bases
+<https://arxiv.org/pdf/1412.6575>`_
+    | :author:`Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, Li Deng`
+    | :venue:`ICLR 2015`
+
+`Holographic Embeddings of Knowledge Graphs
+<https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12484/11828>`_
+    | :author:`Maximilian Nickel, Lorenzo Rosasco, Tomaso Poggio`
+    | :venue:`AAAI 2016`
+
+`Complex Embeddings for Simple Link Prediction
+<http://www.jmlr.org/proceedings/papers/v48/trouillon16.pdf>`_
+    | :author:`Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard`
+    | :venue:`ICML 2016`
+
+`Modeling Relational Data with Graph Convolutional Networks
+<https://arxiv.org/pdf/1703.06103>`_
+    | :author:`Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne Van Den Berg, Ivan Titov, Max Welling`
+    | :venue:`arXiv 2017.03`
+
+`Fast Linear Model for Knowledge Graph Embeddings
+<https://arxiv.org/pdf/1710.10881>`_
+    | :author:`Armand Joulin, Edouard Grave, Piotr Bojanowski, Maximilian Nickel, Tomas Mikolov`
+    | :venue:`arXiv 2017.10`
+
+`Convolutional 2D Knowledge Graph Embeddings
+<https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17366/15884>`_
+    | :author:`Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel`
+    | :venue:`AAAI 2018`
+
+`Knowledge Graph Embedding With Iterative Guidance From Soft Rules
+<https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16369/16011>`_
+    | :author:`Shu Guo, Quan Wang, Lihong Wang, Bin Wang, Li Guo`
+    | :venue:`AAAI 2018`
+
+KBGAN: Adversarial Learning for Knowledge Graph Embeddings. NAACL 2018.
+Improving Knowledge Graph Embedding Using Simple Constraints. ACL 2018.
+SimplE Embedding for Link Prediction in Knowledge Graphs. NeurIPS 2018.
+A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network. NAACL 2018.
+Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning. WWW 2019.
+RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space. ICLR 2019. RotatE, Rotation, Complex Spaces.
+Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs. ACL 2019.
+
 Graph Neural Networks
 =====================
 
