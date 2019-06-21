@@ -586,7 +586,7 @@ Natural Language Processing
 
 `Graph Convolutional Networks for Text Classification
 <https://arxiv.org/pdf/1809.05679.pdf>`_
-    | :author:`Liang Yao, Chengsheng Mao, Yuan Luo* \
+    | :author:`Liang Yao, Chengsheng Mao, Yuan Luo*
     | :venue:`AAAI 2019`
 
 `Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder
@@ -631,7 +631,7 @@ Natural Language Processing
 
 `Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
 <https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf>`_
-    | :author:`Chang Li, Dan Goldwasser* \
+    | :author:`Chang Li, Dan Goldwasser*
     | :venue:`ACL 2019`
 
 `Attention Guided Graph Convolutional Networks for Relation Extraction
@@ -683,49 +683,49 @@ Recommender Systems
 `Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 <https://arxiv.org/pdf/1806.01973.pdf)\
     | :author:`Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec`
-    | :venue:`KDD 2018    | :venue:` \
-    | :author:`PinSage*
+    | :venue:`KDD 2018`
+    | :keyword:`PinSage`
 
 `SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation
 <https://arxiv.org/pdf/1811.02815.pdf>`_
     | :author:`Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang, Meng Wang`
-    | :venue:`AAAI 2018    | :venue:` \
+    | :venue:`AAAI 2018`
     | :keyword:`GCN, Social recommendation`
 
 `Session-based Social Recommendation via Dynamic Graph Attention Networks
 <https://arxiv.org/pdf/1902.09362.pdf>`_
     | :author:`Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang, Jian Tang`
-    | :venue:`WSDM 2019    | :venue:` \
+    | :venue:`WSDM 2019`
     | :keyword:`Social recommendation, session-based, GAT`
 
 `Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
 <https://arxiv.org/pdf/1903.10433.pdf>`_
     | :author:`Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen`
-    | :venue:`WWW 2019    | :venue:` \
+    | :venue:`WWW 2019`
     | :keyword:`Social recommendation, GAT`
 
 `Graph Neural Networks for Social Recommendation
 <https://arxiv.org/pdf/1902.07243.pdf>`_
     | :author:`Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin`
-    | :venue:`WWW 2019    | :venue:` \
+    | :venue:`WWW 2019`
     | :keyword:`Social recommendation, GNN`
 
 `Session-based Recommendation with Graph Neural Networks
 <https://arxiv.org/pdf/1811.00855.pdf>`_
     | :author:`Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan`
-    | :venue:`AAAI 2019    | :venue:` \
+    | :venue:`AAAI 2019`
     | :keyword:`Session-based recommendation, GNN`
 
 `A Neural Influence Diffusion Model for Social Recommendation
 <https://arxiv.org/pdf/1904.10322.pdf>`_
     | :author:`Le Wu, Peijie Sun, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang`
-    | :venue:`SIGIR 2019    | :venue:` \
+    | :venue:`SIGIR 2019`
     | :keyword:`Social Recommendation, diffusion`
 
 `Neural Graph Collaborative Filtering
 <https://arxiv.org/pdf/1905.08108.pdf>`_
     | :author:`Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua`
-    | :venue:`SIGIR 2019    | :venue:` \
+    | :venue:`SIGIR 2019`
     | :keyword:`Collaborative Filtering, GNN`
 
 `Binarized Collaborative Filtering with Distilling Graph Convolutional Networks
