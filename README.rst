@@ -661,7 +661,8 @@ Natural Language Processing
     | :author:`Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu`
     | :venue:`ACL 2019`
 
-`Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
+`Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection
+in News Media
 <https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf>`_
     | :author:`Chang Li, Dan Goldwasser`
     | :venue:`ACL 2019`
@@ -836,7 +837,8 @@ Computer Vision
 
 `Flexible Neural Representation for Physics Prediction
 <https://arxiv.org/abs/1806.08047>`_
-    | :author:`Damian Mrowca, Chengxu Zhuang, Elias Wang, Nick Haber, Li Fei-Fei, Joshua B. Tenenbaum, Daniel L. K. Yamins`
+    | :author:`Damian Mrowca, Chengxu Zhuang, Elias Wang, Nick Haber, Li Fei-Fei,
+        Joshua B. Tenenbaum, Daniel L. K. Yamins`
     | :venue:`NeurIPS 2018`
 
 `Learning Localized Generative Models for 3D Point Clouds via Graph Convolution
@@ -865,7 +867,8 @@ Computer Vision
     | :venue:`CVPR 2019`
 
 `Masked Graph Attention Network for Person Re-Identification
-<http://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Bao_Masked_Graph_Attention_Network_for_Person_Re-Identification_CVPRW_2019_paper.html>`_
+<http://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Bao_Masked_Graph_Attention_Network_
+for_Person_Re-Identification_CVPRW_2019_paper.html>`_
     | :author:`Liqiang Bao, Bingpeng Ma, Hong Chang, Xilin Chen`
     | :venue:`CVPR 2019`
 
@@ -905,7 +908,8 @@ Recommender Systems
     | :venue:`WSDM 2019`
     | :keyword:`Social recommendation, session-based, GAT`
 
-`Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
+`Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in
+Recommender Systems
 <https://arxiv.org/pdf/1903.10433.pdf>`_
     | :author:`Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen`
     | :venue:`WWW 2019`
@@ -1126,7 +1130,8 @@ Bioinformatics
     | :author:`Marinka Zitnik, Monica Agrawal, Jure Leskovec`
     | :venue:`Bioinformatics 2018`
 
-`NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new drug–target interactions
+`NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new
+drug–target interactions
 <https://academic.oup.com/bioinformatics/article-abstract/35/1/104/5047760?redirectedFrom=fulltext>`_
     | :author:`Fangping Wan, Lixiang Hong, An Xiao, Tao Jiang, Jianyang Zeng`
     | :venue:`Bioinformatics 2018`
@@ -1220,16 +1225,16 @@ Graph Layout and High-dimensional Data Visualization
 Graph Representation Learning Systems
 =====================================
 
+`GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding
+<https://arxiv.org/pdf/1903.00757>`_
+    | :author:`Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang`
+    | :venue:`WWW 2019`
+
 `PyTorch-BigGraph: A Large-scale Graph Embedding System
 <https://arxiv.org/pdf/1903.12287>`_
     | :author:`Adam Lerer, Ledell Wu, Jiajun Shen, Timothee Lacroix, Luca Wehrstedt,
         Abhijit Bose, Alex Peysakhovich`
     | :venue:`SysML 2019`
-
-`GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding
-<https://arxiv.org/pdf/1903.00757>`_
-    | :author:`Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang`
-    | :venue:`WWW 2019`
 
 `AliGraph: A Comprehensive Graph Neural Network Platform
 <https://arxiv.org/pdf/1902.08730>`_
