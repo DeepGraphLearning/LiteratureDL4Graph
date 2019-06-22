@@ -704,6 +704,181 @@ Natural Language Processing
 Computer Vision
 ---------------
 
+`3D Graph Neural Networks for RGBD Semantic Segmentation
+<http://www.cs.toronto.edu/~rjliao/papers/iccv_2017_3DGNN.pdf>`_
+| :author:`Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun`
+    | :venue:`ICCV 2017`
+
+`Situation Recognition With Graph Neural Networks
+<https://arxiv.org/abs/1708.04320>`_
+    | :author:`Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler`
+    | :venue:`ICCV 2017`
+
+`Graph-Based Classification of Omnidirectional Images
+<https://arxiv.org/abs/1707.08301>`_
+    | :author:`Renata Khasanova, Pascal Frossard`
+    | :venue:`ICCV 2017`
+
+`Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
+<https://arxiv.org/abs/1801.07455>`_
+    | :author:`Sijie Yan, Yuanjun Xiong, Dahua Lin`
+    | :venue:`AAAI 2018`
+
+`Image Generation from Scene Graphs
+<https://arxiv.org/abs/1804.01622>`_
+    | :author:`Justin Johnson, Agrim Gupta, Li Fei-Fei`
+    | :venue:`CVPR 2018`
+
+`FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation
+<https://arxiv.org/abs/1712.07262>`_
+    | :author:`Yaoqing Yang, Chen Feng, Yiru Shen, Dong Tian`
+    | :venue:`CVPR 2018`
+
+`PPFNet: Global Context Aware Local Features for Robust 3D Point Matching
+<https://arxiv.org/abs/1802.02669>`_
+    | :author:`Haowen Deng, Tolga Birdal, Slobodan Ilic`
+    | :venue:`CVPR 2018`
+
+`Iterative Visual Reasoning Beyond Convolutions
+<https://arxiv.org/abs/1803.11189>`_
+    | :author:`Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta`
+    | :venue:`CVPR 2018`
+
+`Surface Networks
+<https://arxiv.org/abs/1705.10819>`_
+    | :author:`Ilya Kostrikov, Zhongshi Jiang, Daniele Panozzo, Denis Zorin, Joan Bruna`
+    | :venue:`CVPR 2018`
+
+`FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis
+<https://arxiv.org/abs/1706.05206>`_
+    | :author:`Nitika Verma, Edmond Boyer, Jakob Verbeek`
+    | :venue:`CVPR 2018`
+
+`Learning to Act Properly: Predicting and Explaining Affordances From Images
+<https://arxiv.org/abs/1712.07576>`_
+    | :author:`Ching-Yao Chuang, Jiaman Li, Antonio Torralba, Sanja Fidler`
+    | :venue:`CVPR 2018`
+
+`Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling
+<https://arxiv.org/abs/1712.06760>`_
+    | :author:`Yiru Shen, Chen Feng, Yaoqing Yang, Dong Tian`
+    | :venue:`CVPR 2018`
+
+`Deformable Shape Completion With Graph Convolutional Autoencoders
+<https://arxiv.org/abs/1712.00268>`_
+    | :author:`Or Litany, Alex Bronstein, Michael Bronstein, Ameesh Makadia`
+    | :venue:`CVPR 2018`
+
+`Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
+<https://arxiv.org/abs/1804.01654>`_
+    | :author:`Nanyang Wang, Yinda Zhang, Zhuwen Li, Yanwei Fu, Wei Liu, Yu-Gang Jiang`
+    | :venue:`ECCV 2018`
+
+`Learning Human-Object Interactions by Graph Parsing Neural Networks
+<https://arxiv.org/abs/1808.07962>`_
+    | :author:`Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu`
+    | :venue:`ECCV 2018`
+
+`Generating 3D Faces using Convolutional Mesh Autoencoders
+<https://arxiv.org/abs/1807.10267>`_
+    | :author:`Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, Michael J. Black`
+    | :venue:`ECCV 2018`
+
+`Learning SO(3) Equivariant Representations with Spherical CNNs
+<https://arxiv.org/abs/1711.06721>`_
+    | :author:`Carlos Esteves, Christine Allen-Blanchette, Ameesh Makadia, Kostas Daniilidis`
+    | :venue:`ECCV 2018`
+
+`Neural Graph Matching Networks for Fewshot 3D Action Recognition
+<http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf>`_
+| :author:`Michelle Guo, Edward Chou, De-An Huang, Shuran Song, Serena Yeung, Li Fei-Fei`
+    | :venue:`ECCV 2018`
+
+`Multi-Kernel Diffusion CNNs for Graph-Based Learning on Point Clouds
+<https://arxiv.org/abs/1809.05370>`_
+    | :author:`Lasse Hansen, Jasper Diesel, Mattias P. Heinrich`
+    | :venue:`ECCV 2018`
+
+`Hierarchical Video Frame Sequence Representation with Deep Convolutional Graph Network
+<https://arxiv.org/abs/1906.00377>`_
+    | :author:`Feng Mao, Xiang Wu, Hui Xue, Rong Zhang`
+    | :venue:`ECCV 2018`
+
+`Graph R-CNN for Scene Graph Generation
+<https://arxiv.org/abs/1808.00191>`_
+    | :author:`Jianwei Yang, Jiasen Lu, Stefan Lee, Dhruv Batra, Devi Parikh`
+    | :venue:`ECCV 2018`
+
+`Exploring Visual Relationship for Image Captioning
+<https://arxiv.org/abs/1809.07041>`_
+    | :author:`Ting Yao, Yingwei Pan, Yehao Li, Tao Mei`
+    | :venue:`ECCV 2018`
+
+`Beyond Grids: Learning Graph Representations for Visual Recognition
+<https://papers.nips.cc/paper/8135-beyond-grids-learning-graph-representations-for-visual-recognition>`_
+    | :author:`Yin Li, Abhinav Gupta`
+    | :venue:`NeurIPS 2018`
+
+`Learning Conditioned Graph Structures for Interpretable Visual Question Answering
+<https://arxiv.org/abs/1806.07243>`_
+    | :author:`Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot`
+    | :venue:`NeurIPS 2018`
+
+`LinkNet: Relational Embedding for Scene Graph
+<https://arxiv.org/abs/1811.06410>`_
+    | :author:`Sanghyun Woo, Dahun Kim, Donghyeon Cho, In So Kweon`
+    | :venue:`NeurIPS 2018`
+
+`Flexible Neural Representation for Physics Prediction
+<https://arxiv.org/abs/1806.08047>`_
+    | :author:`Damian Mrowca, Chengxu Zhuang, Elias Wang, Nick Haber, Li Fei-Fei, Joshua B. Tenenbaum, Daniel L. K. Yamins`
+    | :venue:`NeurIPS 2018`
+
+`Learning Localized Generative Models for 3D Point Clouds via Graph Convolution
+<https://openreview.net/forum?id=SJeXSo09FQ>`_
+    | :author:`Diego Valsesia, Giulia Fracastoro, Enrico Magli`
+    | :venue:`ICLR 2019`
+
+`Graph-Based Global Reasoning Networks
+<https://arxiv.org/abs/1811.12814>`_
+    | :author:`Yunpeng Chen, Marcus Rohrbach, Zhicheng Yan, Shuicheng Yan, Jiashi Feng, Yannis Kalantidis`
+    | :venue:`CVPR 2019`
+
+`Deep Graph Laplacian Regularization for Robust Denoising of Real Images
+<https://arxiv.org/abs/1807.11637>`_
+    | :author:`Jin Zeng, Jiahao Pang, Wenxiu Sun, Gene Cheung`
+    | :venue:`CVPR 2019`
+
+`Learning Context Graph for Person Search
+<https://arxiv.org/abs/1904.01830>`_
+    | :author:`Yichao Yan, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, Xiaokang Yang`
+    | :venue:`CVPR 2019`
+
+`Graphonomy: Universal Human Parsing via Graph Transfer Learning
+<https://arxiv.org/abs/1904.04536>`_
+    | :author:`Ke Gong, Yiming Gao, Xiaodan Liang, Xiaohui Shen, Meng Wang, Liang Lin`
+    | :venue:`CVPR 2019`
+
+`Masked Graph Attention Network for Person Re-Identification
+<http://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Bao_Masked_Graph_Attention_Network_for_Person_Re-Identification_CVPRW_2019_paper.html>`_
+    | :author:`Liqiang Bao, Bingpeng Ma, Hong Chang, Xilin Chen`
+    | :venue:`CVPR 2019`
+
+`Learning to Cluster Faces on an Affinity Graph
+<https://arxiv.org/abs/1904.02749>`_
+    | :author:`Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin`
+    | :venue:`CVPR 2019`
+
+`Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition
+<https://arxiv.org/abs/1904.12659>`_
+    | :author:`Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, Qi Tian`
+    | :venue:`CVPR 2019`
+
+`Adaptively Connected Neural Networks
+<https://arxiv.org/abs/1904.03579>`_
+    | :author:`Guangrun Wang, Keze Wang, Liang Lin`
+    | :venue:`CVPR 2019`
+
 Recommender Systems
 -------------------
 
