@@ -47,8 +47,8 @@ Unsupervised Node Representation Learning
 
 `Variational Graph Auto-Encoders
 <https://arxiv.org/abs/1611.07308>`_
-| :author:`Thomas N. Kipf, Max Welling`
-| :venue:`arXiv 1611`
+    | :author:`Thomas N. Kipf, Max Welling`
+    | :venue:`arXiv 1611`
 
 `Scalable Graph Embedding for Asymmetric Proximity
 <https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696>`_
