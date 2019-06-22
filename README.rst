@@ -712,7 +712,7 @@ Computer Vision
 
 `3D Graph Neural Networks for RGBD Semantic Segmentation
 <http://www.cs.toronto.edu/~rjliao/papers/iccv_2017_3DGNN.pdf>`_
-| :author:`Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun`
+    | :author:`Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun`
     | :venue:`ICCV 2017`
 
 `Situation Recognition With Graph Neural Networks
