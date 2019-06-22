@@ -45,6 +45,11 @@ Unsupervised Node Representation Learning
     | :venue:`KDD 2016`
     | :keyword:`Breadth-first Search, Depth-first Search, Node Classification, Link Prediction`
 
+`Variational Graph Auto-Encoders
+<https://arxiv.org/abs/1611.07308>`_
+| :author:`Thomas N. Kipf, Max Welling`
+| :venue:`arXiv 1611`
+
 `Scalable Graph Embedding for Asymmetric Proximity
 <https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696>`_
     | :author:`Chang Zhou, Yuqiong Liu, Xiaofei Liu, Zhongyi Liu, Jun Gao`
@@ -627,7 +632,7 @@ Natural Language Processing
     | :venue:`ICLR 2019`
 
 `Multi-task Learning over Graph Structures
-<https://arxiv.org/pdf/1811.10211.pdf)
+<https://arxiv.org/pdf/1811.10211.pdf>`_
     | :author:`Pengfei Liu, Jie Fu, Yue Dong, Xipeng Qiu, Jackie Chi Kit Cheung`
     | :venue:`AAAI 2019`
 
@@ -1017,23 +1022,182 @@ Reinforcement Learning
 Combinatorial Optimization
 --------------------------
 
+`Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search
+<https://arxiv.org/abs/1810.10659>`_
+    | :author:`Zhuwen Li, Qifeng Chen, Vladlen Koltun`
+    | :venue:`NeurIPS 2018`
+
+`Reinforcement Learning for Solving the Vehicle Routing Problem
+<https://arxiv.org/abs/1802.04240>`_
+    | :author:`Mohammadreza Nazari, Afshin Oroojlooy, Lawrence V. Snyder, Martin Takáč`
+    | :venue:`NeurIPS 2018`
+
 Adversarial Attack
 ------------------
+
+`Adversarial Attack on Graph Structured Data
+<https://arxiv.org/abs/1806.02371>`_
+    | :author:`Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song`
+    | :venue:`ICML 2018`
+
+`Adversarial Attacks on Neural Networks for Graph Data
+<https://arxiv.org/abs/1805.07984>`_
+    | :author:`Daniel Zügner, Amir Akbarnejad, Stephan Günnemann`
+    | :venue:`KDD 2018`
+
+`Adversarial Attacks on Graph Neural Networks via Meta Learning
+<https://arxiv.org/abs/1902.08412>`_
+    | :author:`Daniel Zügner, Stephan Günnemann`
+    | :venue:`ICLR 2019`
+
 
 Meta Learning
 -------------
 
+`Learning Steady-States of Iterative Algorithms over Graphs
+<http://proceedings.mlr.press/v80/dai18a.html>`_
+    | :author:`Hanjun Dai, Zornitsa Kozareva, Bo Dai, Alex Smola, Le Song`
+    | :venue:`ICML 2018`
+
+
 Structure Learning
 ------------------
+
+`Few-Shot Learning with Graph Neural Networks
+<https://arxiv.org/abs/1711.04043>`_
+    | :author:`Victor Garcia, Joan Bruna`
+    | :venue:`ICLR 2018`
+
+`Neural Relational Inference for Interacting Systems
+<https://arxiv.org/abs/1802.04687>`_
+    | :author:`Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel`
+    | :venue:`ICML 2018`
+
+`Brain Signal Classification via Learning Connectivity Structure
+<https://arxiv.org/abs/1905.11678>`_
+    | :author:`Soobeom Jang, Seong-Eun Moon, Jong-Seok Lee`
+    | :venue:`arXiv 1905`
+
+`A Flexible Generative Framework for Graph-based Semi-supervised Learning
+<https://arxiv.org/abs/1905.10769>`_
+    | :author:`Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei`
+    | :venue:`arXiv 1905`
+
+`Joint embedding of structure and features via graph convolutional networks
+<https://arxiv.org/abs/1905.08636>`_
+    | :author:`Sébastien Lerique, Jacob Levy Abitbol, Márton Karsai`
+    | :venue:`arXiv 1905`
+
+`Variational Spectral Graph Convolutional Networks
+<https://arxiv.org/abs/1906.01852>`_
+    | :author:`Louis Tiao, Pantelis Elinas, Harrison Nguyen, Edwin V. Bonilla`
+    | :venue:`arXiv 1906`
+
+`Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning
+<https://arxiv.org/abs/1805.10002>`_
+    | :author:`Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sung Ju Hwang, Yi Yang`
+    | :venue:`ICLR 2019`
+
+`Graph Learning Network: A Structure Learning Algorithm
+<https://arxiv.org/abs/1905.12665>`_
+    | :author:`Darwin Saire Pilco, Adín Ramírez Rivera`
+    | :venue:`ICML 2019 Workshop`
+
+`Learning Discrete Structures for Graph Neural Networks
+<https://arxiv.org/abs/1903.11960>`_
+    | :author:`Luca Franceschi, Mathias Niepert, Massimiliano Pontil, Xiao He`
+    | :venue:`ICML 2019`
+
+`Graphite: Iterative Generative Modeling of Graphs
+<https://arxiv.org/abs/1803.10459>`_
+    | :author:`Aditya Grover, Aaron Zweig, Stefano Ermon`
+    | :venue:`ICML 2019`
 
 Bioinformatics
 --------------
 
+`Protein Interface Prediction using Graph Convolutional Networks
+<https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf>`_
+    | :author:`Alex Fout, Jonathon Byrd, Basir Shariat, Asa Ben-Hur`
+    | :venue:`NeurIPS 2017`
+
+`Modeling polypharmacy side effects with graph convolutional networks
+<https://arxiv.org/abs/1802.00543>`_
+    | :author:`Marinka Zitnik, Monica Agrawal, Jure Leskovec`
+    | :venue:`Bioinformatics 2018`
+
+`NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new drug–target interactions
+<https://academic.oup.com/bioinformatics/article-abstract/35/1/104/5047760?redirectedFrom=fulltext>`_
+    | :author:`Fangping Wan, Lixiang Hong, An Xiao, Tao Jiang, Jianyang Zeng`
+    | :venue:`Bioinformatics 2018`
+
+
 Theorem Proving
 ---------------
 
+`Premise Selection for Theorem Proving by Deep Graph Embedding
+<https://arxiv.org/abs/1709.09994>`_
+    | :author:`Mingzhe Wang, Yihe Tang, Jian Wang, Jia Deng`
+    | :venue:`NeurIPS 2017`
+
 Graph Generation
 ================
+
+`GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models
+<https://arxiv.org/abs/1802.08773>`_
+    | :author:`Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec`
+    | :venue:`ICML 2018`
+
+`NetGAN: Generating Graphs via Random Walks
+<https://arxiv.org/abs/1803.00816>`_
+    | :author:`Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann`
+    | :venue:`ICML 2018`
+
+`Junction Tree Variational Autoencoder for Molecular Graph Generation
+<https://arxiv.org/abs/1802.04364>`_
+    | :author:`Wengong Jin, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICML 2018`
+
+`MolGAN: An implicit generative model for small molecular graphs
+<https://arxiv.org/abs/1805.11973>`_
+    | :author:`Nicola De Cao, Thomas Kipf`
+    | :venue:`arXiv 1805`
+
+`Generative Modeling for Protein Structures
+<https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf>`_
+    | :author:`Namrata Anand, Po-Ssu Huang`
+    | :venue:`NeurIPS 2018`
+
+`Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders
+<https://arxiv.org/abs/1809.02630>`_
+    | :author:`Tengfei Ma, Jie Chen, Cao Xiao`
+    | :venue:`NeurIPS 2018`
+
+`Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
+<https://arxiv.org/abs/1806.02473>`_
+    | :author:`Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec`
+    | :venue:`NeurIPS 2018`
+
+`Constrained Graph Variational Autoencoders for Molecule Design
+<https://arxiv.org/abs/1805.09076>`_
+    | :author:`Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt`
+    | :venue:`NeurIPS 2018`
+
+`Learning Multimodal Graph-to-Graph Translation for Molecule Optimization
+<https://arxiv.org/abs/1812.01070>`_
+    | :author:`Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICLR 2019`
+
+`DAG-GNN: DAG Structure Learning with Graph Neural Networks
+<https://arxiv.org/abs/1904.10098>`_
+    | :author:`Yue Yu, Jie Chen, Tian Gao, Mo Yu`
+    | :venue:`ICML 2019`
+
+`Graph to Graph: a Topology Aware Approach for Graph Structures Learning and Generation
+<http://proceedings.mlr.press/v89/sun19c.html>`_
+    | :author:`Mingming Sun, Ping Li`
+    | :venue:`AISTATS 2019`
+
 
 Graph Layout and High-dimensional Data Visualization
 ====================================================
