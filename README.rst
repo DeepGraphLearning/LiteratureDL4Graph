@@ -363,38 +363,38 @@ Knowledge Graph Embedding
 
 `KBGAN: Adversarial Learning for Knowledge Graph Embeddings
 <https://arxiv.org/abs/1711.04071>`_
-| :author:`Liwei Cai, William Yang Wang`
-| :venue:`NAACL 2018`
+    | :author:`Liwei Cai, William Yang Wang`
+    | :venue:`NAACL 2018`
 
 `Improving Knowledge Graph Embedding Using Simple Constraints
 <https://arxiv.org/abs/1805.02408>`_
-| :author:`Boyang Ding, Quan Wang, Bin Wang, Li Guo`
-| :venue:`ACL 2018`
+    | :author:`Boyang Ding, Quan Wang, Bin Wang, Li Guo`
+    | :venue:`ACL 2018`
 
 `SimplE Embedding for Link Prediction in Knowledge Graphs
 <https://arxiv.org/abs/1802.04868>`_
-| :author:`Seyed Mehran Kazemi, David Poole`
-| :venue:`NeurIPS 2018`
+    | :author:`Seyed Mehran Kazemi, David Poole`
+    | :venue:`NeurIPS 2018`
 
 `A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network
 <https://aclweb.org/anthology/papers/N/N18/N18-2053/>`_
-| :author:`Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung`
-| :venue:`NAACL 2018`
+    | :author:`Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung`
+    | :venue:`NAACL 2018`
 
 `Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning
 <https://arxiv.org/abs/1903.08948>`_
-| :author:`Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen`
-| :venue:`WWW 2019`
+    | :author:`Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen`
+    | :venue:`WWW 2019`
 
 `RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space
 <https://arxiv.org/abs/1902.10197>`_
-| :author:`Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang`
-| :venue:`ICLR 2019`
+    | :author:`Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang`
+    | :venue:`ICLR 2019`
 
 `Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs
 <https://arxiv.org/abs/1906.01195>`_
-| :author:`Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul`
-| :venue:`ACL 2019`
+    | :author:`Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul`
+    | :venue:`ACL 2019`
 
 Graph Neural Networks
 =====================
