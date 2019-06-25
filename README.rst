@@ -1220,16 +1220,16 @@ Graph Layout and High-dimensional Data Visualization
 Graph Representation Learning Systems
 =====================================
 
+`GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding
+<https://arxiv.org/pdf/1903.00757>`_
+    | :author:`Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang`
+    | :venue:`WWW 2019`
+
 `PyTorch-BigGraph: A Large-scale Graph Embedding System
 <https://arxiv.org/pdf/1903.12287>`_
     | :author:`Adam Lerer, Ledell Wu, Jiajun Shen, Timothee Lacroix, Luca Wehrstedt,
         Abhijit Bose, Alex Peysakhovich`
     | :venue:`SysML 2019`
-
-`GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding
-<https://arxiv.org/pdf/1903.00757>`_
-    | :author:`Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang`
-    | :venue:`WWW 2019`
 
 `AliGraph: A Comprehensive Graph Neural Network Platform
 <https://arxiv.org/pdf/1902.08730>`_
