@@ -707,6 +707,11 @@ in News Media
     | :author:`Ziyi Yang, Chenguang Zhu, Vin Sachidananda, Eric Darve`
     | :venue:`ACL 2019`
 
+`Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations
+<https://arxiv.org/pdf/1901.06965.pdf>`_
+    | :author:`Hongyang Gao, Yongjun Chen, Shuiwang Ji`
+    | :venue:`WWW 2019`
+
 Computer Vision
 ---------------
 
