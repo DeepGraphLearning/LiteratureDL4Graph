@@ -1251,6 +1251,10 @@ Graph Representation Learning Systems
 <https://www.dgl.ai>`_
     | :author:`DGL Team`
 
+`AmpliGraph
+<https://github.com/Accenture/AmpliGraph>`_
+    | :author:`Luca Costabello, Sumit Pai, Chan Le Van, Rory McGrath, Nicholas McCarthy, Pedro Tabacof`
+
 `Euler
 <https://github.com/alibaba/euler>`_
     | :author:`Alimama Engineering Platform Team, Alimama Search Advertising Algorithm Team`
