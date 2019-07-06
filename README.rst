@@ -901,7 +901,7 @@ for_Person_Re-Identification_CVPRW_2019_paper.html>`_
 <https://arxiv.org/pdf/1809.05910.pdf>`_
     | :author:`Rana Hanocka, Amir Hertz, Noa Fish, Raja Giryes, Shachar Fleishman, Daniel Cohen-Or`
     | :venue:`SIGGRAPH 2019`
-    | :keyword:`Project Page <https://ranahanocka.github.io/MeshCNN>`_
+    | :keyword:`https://ranahanocka.github.io/MeshCNN/`
 
 Recommender Systems
 -------------------
