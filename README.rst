@@ -901,13 +901,13 @@ for_Person_Re-Identification_CVPRW_2019_paper.html>`_
 <https://arxiv.org/pdf/1809.05910.pdf>`_
     | :author:`Rana Hanocka, Amir Hertz, Noa Fish, Raja Giryes, Shachar Fleishman, Daniel Cohen-Or`
     | :venue:`SIGGRAPH 2019`
-    | :keyword:`Project Page<https://ranahanocka.github.io/MeshCNN>`
+    | :keyword:`Project Page <https://ranahanocka.github.io/MeshCNN>`_
 
 Recommender Systems
 -------------------
 
 `Graph Convolutional Neural Networks for Web-Scale Recommender Systems
-<https://arxiv.org/pdf/1806.01973.pdf>`\
+<https://arxiv.org/pdf/1806.01973.pdf>`_
     | :author:`Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec`
     | :venue:`KDD 2018`
     | :keyword:`PinSage`
