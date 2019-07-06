@@ -303,6 +303,11 @@ Node Representation Learning in Dynamic Graphs
     | :author:`Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha`
     | :venue:`ICLR 2019`
 
+`Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks
+<https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf>`_
+    | :author: `Srijan Kumar, Xikun Zhang, Jure Leskovec`
+    | :venue: `KDD2019`
+
 Knowledge Graph Embedding
 =========================
 
