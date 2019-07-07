@@ -499,6 +499,11 @@ Graph Neural Networks
     | :author:`Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye`
     | :venue:`WWW 2019`
 
+`Bayesian graph convolutional neural networks for semi-supervised classification
+<https://arxiv.org/pdf/1811.11103.pdf>`_
+    | :author:`Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay`
+    | :venue:`AAAI 2019`
+
 `How Powerful are Graph Neural Networks?
 <https://arxiv.org/pdf/1810.00826>`_
     | :author:`Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka`
@@ -1256,6 +1261,11 @@ Graph Layout and High-dimensional Data Visualization
 <https://arxiv.org/pdf/1602.00370>`_
     | :author:`Jian Tang, Jingzhou Liu, Ming Zhang, Qiaozhu Mei`
     | :venue:`WWW 2016`
+
+`GraphTSNE: A Visualization Technique for Graph-Structured Data
+<https://arxiv.org/pdf/1904.06915.pdf>`_
+    | :author:`Yao Yang Leow, Thomas Laurent, Xavier Bresson`
+    | :venue:`ICLR 2019 Workshop`
 
 Graph Representation Learning Systems
 =====================================
