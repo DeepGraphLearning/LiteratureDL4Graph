@@ -116,6 +116,11 @@ Unsupervised Node Representation Learning
     | :author:`Quanyu Dai, Xiao Shen, Liang Zhang, Qiang Li, Dan Wang`
     | :venue:`WWW 2019`
 
+`vGraph: A Generative Model for Joint Community Detection and Node Representation Learning
+<https://arxiv.org/pdf/1906.07159.pdf>`_
+    | :author:`Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang`
+    | :venue:`arXiv 1906`
+
 Node Representation Learning in Heterogeneous Graphs
 ----------------------------------------------------
 
@@ -405,6 +410,11 @@ Knowledge Graph Embedding
 <https://arxiv.org/abs/1906.01195>`_
     | :author:`Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul`
     | :venue:`ACL 2019`
+
+`Probabilistic Logic Neural Networks for Reasoning
+<https://arxiv.org/pdf/1906.08495.pdf>`_
+    | :author:`Meng Qu, Jian Tang`
+    | :venue:`arXiv 1906`
 
 Graph Neural Networks
 =====================
@@ -1133,7 +1143,7 @@ Structure Learning
     | :author:`Aditya Grover, Aaron Zweig, Stefano Ermon`
     | :venue:`ICML 2019`
 
-Bioinformatics
+Bioinformatics and Chemistry
 --------------
 
 `Protein Interface Prediction using Graph Convolutional Networks
@@ -1141,17 +1151,26 @@ Bioinformatics
     | :author:`Alex Fout, Jonathon Byrd, Basir Shariat, Asa Ben-Hur`
     | :venue:`NeurIPS 2017`
 
-`Modeling polypharmacy side effects with graph convolutional networks
+`Modeling Polypharmacy Side Effects with Graph Convolutional Networks
 <https://arxiv.org/abs/1802.00543>`_
     | :author:`Marinka Zitnik, Monica Agrawal, Jure Leskovec`
     | :venue:`Bioinformatics 2018`
 
-`NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new
-drug–target interactions
+`NeoDTI: Neural Integration of Neighbor Information from a Heterogeneous Network for Discovering New
+Drug–target Interactions
 <https://academic.oup.com/bioinformatics/article-abstract/35/1/104/5047760?redirectedFrom=fulltext>`_
     | :author:`Fangping Wan, Lixiang Hong, An Xiao, Tao Jiang, Jianyang Zeng`
     | :venue:`Bioinformatics 2018`
 
+`SELFIES: a Robust Representation of Semantically Constrained Graphs with an Example Application in Chemistry
+<https://arxiv.org/pdf/1905.13741.pdf>`_
+    | :author:`Mario Krenn, Florian Häse, AkshatKumar Nigam, Pascal Friederich, Alán Aspuru-Guzik`
+    | :venue:`arXiv 1905`
+
+`Drug-Drug Adverse Effect Prediction with Graph Co-Attention
+<https://arxiv.org/pdf/1905.00534.pdf>`_
+    | :author:`Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang`
+    | :venue:`arXiv 1905`
 
 Theorem Proving
 ---------------
