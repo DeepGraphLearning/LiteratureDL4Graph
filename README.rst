@@ -822,7 +822,7 @@ Computer Vision
 
 `Neural Graph Matching Networks for Fewshot 3D Action Recognition
 <http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf>`_
-| :author:`Michelle Guo, Edward Chou, De-An Huang, Shuran Song, Serena Yeung, Li Fei-Fei`
+    | :author:`Michelle Guo, Edward Chou, De-An Huang, Shuran Song, Serena Yeung, Li Fei-Fei`
     | :venue:`ECCV 2018`
 
 `Multi-Kernel Diffusion CNNs for Graph-Based Learning on Point Clouds
