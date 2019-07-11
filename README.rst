@@ -575,6 +575,11 @@ Graph Neural Networks
     | :author:`Junhyun Lee, Inyeop Lee, Jaewoo Kang`
     | :venue:`ICML 2019`
 
+`Relational Pooling for Graph Representations
+<https://arxiv.org/pdf/1903.02541>`_
+    | :author: `Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro`
+    | :venue:`ICML 2019`
+
 Applications of Graph Neural Networks
 =====================================
 
