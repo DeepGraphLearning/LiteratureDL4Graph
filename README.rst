@@ -580,6 +580,11 @@ Graph Neural Networks
     | :author: `Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro`
     | :venue:`ICML 2019`
 
+`Graph Representation Learning via Hard and Channel-Wise Attention Networks
+<https://arxiv.org/pdf/1907.04652.pdf>`_
+    | :author: `Hongyang Gao, Shuiwang Ji`
+    | :venue:`KDD 2019`
+
 Applications of Graph Neural Networks
 =====================================
 
@@ -915,6 +920,11 @@ for_Person_Re-Identification_CVPRW_2019_paper.html>`_
 `Adaptively Connected Neural Networks
 <https://arxiv.org/abs/1904.03579>`_
     | :author:`Guangrun Wang, Keze Wang, Liang Lin`
+    | :venue:`CVPR 2019`
+
+`Reasoning Visual Dialogs with Structural and Partial Observations
+<https://arxiv.org/abs/1904.03579>`_
+    | :author:`Zilong Zheng, Wenguan Wang, Siyuan Qi, Song-Chun Zhu`
     | :venue:`CVPR 2019`
 
 `MeshCNN: A Network with an Edge
