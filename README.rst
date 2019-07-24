@@ -228,7 +228,7 @@ Node Representation Learning in Heterogeneous Graphs
 `ANRL: Attributed Network Representation Learning via Deep Neural Networks
 <https://www.ijcai.org/proceedings/2018/438>`_
     | :author:`Zhen Zhang, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, Can Wang`
-    | :venue:`AAAI 2018`
+    | :venue:`IJCAI 2018`
 
 `Efficient Attributed Network Embedding via Recursive Randomized Hashing
 <https://www.ijcai.org/proceedings/2018/397>`_
@@ -736,6 +736,12 @@ in News Media
 <https://arxiv.org/pdf/1906.03753.pdf>`_
     | :author:`Ziyi Yang, Chenguang Zhu, Vin Sachidananda, Eric Darve`
     | :venue:`ACL 2019`
+
+`Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution
+<https://arxiv.org/pdf/1905.08868.pdf>`_
+    | :author:`Yinchuan Xu, Junlin Yang`
+    | :venue:`ACL 2019 Workshop`
+    | :keyword:`https://github.com/ianycxu/RGCN-with-BERT`
 
 `Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations
 <https://arxiv.org/pdf/1901.06965.pdf>`_
