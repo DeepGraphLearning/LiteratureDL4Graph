@@ -1219,6 +1219,11 @@ Graph Generation
     | :author:`Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann`
     | :venue:`ICML 2018`
 
+`Learning Deep Generative Models of Graphs
+<https://arxiv.org/abs/1803.03324>`_
+    | :author:`Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia`
+    | :venue:`ICML 2018`
+
 `Junction Tree Variational Autoencoder for Molecular Graph Generation
 <https://arxiv.org/abs/1802.04364>`_
     | :author:`Wengong Jin, Regina Barzilay, Tommi Jaakkola`
@@ -1252,6 +1257,11 @@ Graph Generation
 `Learning Multimodal Graph-to-Graph Translation for Molecule Optimization
 <https://arxiv.org/abs/1812.01070>`_
     | :author:`Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICLR 2019`
+
+`Generative Code Modeling with Graphs
+<https://openreview.net/forum?id=Bke4KsA5FX>`_
+    | :author:`Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov`
     | :venue:`ICLR 2019`
 
 `DAG-GNN: DAG Structure Learning with Graph Neural Networks
