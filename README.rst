@@ -585,6 +585,41 @@ Graph Neural Networks
     | :author: `Hongyang Gao, Shuiwang Ji`
     | :venue:`KDD 2019`
 
+`Conditional Random Field Enhanced Graph Convolutional Neural Networks
+<https://www.kdd.org/kdd2019/accepted-papers/view/conditional-random-field-enhanced-graph-convolutional-neural-networks>`_
+    | :author: `Hongchang Gao, Jian Pei, Heng Huang`
+    | :venue:`KDD 2019`
+
+`Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+<https://arxiv.org/abs/1905.07953>`_
+    | :author: `Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh`
+    | :venue:`KDD 2019`
+
+`DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification
+<https://arxiv.org/abs/1906.02319>`_
+    | :author: `Jun Wu, Jingrui He, Jiejun Xu`
+    | :venue:`KDD 2019`
+
+`Robust Graph Convolutional Networks Against Adversarial Attacks
+<http://pengcui.thumedialab.com/papers/RGCN.pdf>`_
+    | :author: `Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu`
+    | :venue:`KDD 2019`
+
+`HetGNN: Heterogeneous Graph Neural Network
+<https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network>`_
+    | :author: `Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla`
+    | :venue:`KDD 2019`
+
+`Graph Recurrent Networks with Attributed Random Walks
+<https://dl.acm.org/citation.cfm?id=3292500.3330941>`_
+    | :author: `Xiao Huang, Qingquan Song, Yuening Li, Xia Hu`
+    | :venue:`KDD 2019`
+
+`Graph Convolutional Networks with EigenPooling
+<https://arxiv.org/abs/1904.13107>`_
+    | :author: `Yao Ma, Suhang Wang, Charu Aggarwal, Jiliang Tang`
+    | :venue:`KDD 2019`
+
 Applications of Graph Neural Networks
 =====================================
 
@@ -1197,6 +1232,26 @@ Drug–target Interactions
 <https://arxiv.org/pdf/1905.00534.pdf>`_
     | :author:`Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang`
     | :venue:`arXiv 1905`
+
+`GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorization
+<https://www.kdd.org/kdd2019/accepted-papers/view/gcn-mf-disease-gene-association-identification-by-graph-convolutional-netwo>`_
+    | :author:`Peng Han, Peng Yang, Peilin Zhao, Shuo Shang, Yong Liu, Jiayu Zhou, Xin Gao, Panos Kalnis`
+    | :venue:`KDD 2019`
+
+`Detecting drug-drug interactions using artificial neural networks and classic graph similarity measures
+<https://arxiv.org/pdf/1903.04571.pdf>`_
+    | :author:`Guy Shtar, Lior Rokach, Bracha Shapira`
+    | :venue:`arXiv 1903`
+
+`PGCN: Disease gene prioritization by disease and gene embedding through graph convolutional neural networks
+<https://www.biorxiv.org/content/biorxiv/early/2019/01/28/532226.full.pdf>`_
+    | :author:`Yu Li, Hiroyuki Kuwahara, Peng Yang, Le Song, Xin Gao`
+    | :venue:`bioRxiv 2019`
+
+`Identifying Protein-Protein Interaction using Tree LSTM and Structured Attention
+<https://ieeexplore.ieee.org/abstract/document/8665584>`_
+    | :author:`Mahtab Ahmed, Jumayel Islam, Muhammad Rifayat Samee, Robert E. Mercer`
+    | :venue:`ICSC 2019`
 
 Theorem Proving
 ---------------
