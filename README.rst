@@ -577,47 +577,47 @@ Graph Neural Networks
 
 `Relational Pooling for Graph Representations
 <https://arxiv.org/pdf/1903.02541>`_
-    | :author: `Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro`
+    | :author:`Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro`
     | :venue:`ICML 2019`
 
 `Graph Representation Learning via Hard and Channel-Wise Attention Networks
 <https://arxiv.org/pdf/1907.04652.pdf>`_
-    | :author: `Hongyang Gao, Shuiwang Ji`
+    | :author:`Hongyang Gao, Shuiwang Ji`
     | :venue:`KDD 2019`
 
 `Conditional Random Field Enhanced Graph Convolutional Neural Networks
 <https://www.kdd.org/kdd2019/accepted-papers/view/conditional-random-field-enhanced-graph-convolutional-neural-networks>`_
-    | :author: `Hongchang Gao, Jian Pei, Heng Huang`
+    | :author:`Hongchang Gao, Jian Pei, Heng Huang`
     | :venue:`KDD 2019`
 
 `Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
 <https://arxiv.org/abs/1905.07953>`_
-    | :author: `Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh`
+    | :author:`Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh`
     | :venue:`KDD 2019`
 
 `DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification
 <https://arxiv.org/abs/1906.02319>`_
-    | :author: `Jun Wu, Jingrui He, Jiejun Xu`
+    | :author:`Jun Wu, Jingrui He, Jiejun Xu`
     | :venue:`KDD 2019`
 
 `Robust Graph Convolutional Networks Against Adversarial Attacks
 <http://pengcui.thumedialab.com/papers/RGCN.pdf>`_
-    | :author: `Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu`
+    | :author:`Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu`
     | :venue:`KDD 2019`
 
 `HetGNN: Heterogeneous Graph Neural Network
 <https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network>`_
-    | :author: `Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla`
+    | :author:`Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla`
     | :venue:`KDD 2019`
 
 `Graph Recurrent Networks with Attributed Random Walks
 <https://dl.acm.org/citation.cfm?id=3292500.3330941>`_
-    | :author: `Xiao Huang, Qingquan Song, Yuening Li, Xia Hu`
+    | :author:`Xiao Huang, Qingquan Song, Yuening Li, Xia Hu`
     | :venue:`KDD 2019`
 
 `Graph Convolutional Networks with EigenPooling
 <https://arxiv.org/abs/1904.13107>`_
-    | :author: `Yao Ma, Suhang Wang, Charu Aggarwal, Jiliang Tang`
+    | :author:`Yao Ma, Suhang Wang, Charu Aggarwal, Jiliang Tang`
     | :venue:`KDD 2019`
 
 Applications of Graph Neural Networks
