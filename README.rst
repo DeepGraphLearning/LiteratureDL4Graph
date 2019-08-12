@@ -600,11 +600,6 @@ Graph Neural Networks
     | :author:`Jun Wu, Jingrui He, Jiejun Xu`
     | :venue:`KDD 2019`
 
-`Robust Graph Convolutional Networks Against Adversarial Attacks
-<http://pengcui.thumedialab.com/papers/RGCN.pdf>`_
-    | :author:`Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu`
-    | :venue:`KDD 2019`
-
 `HetGNN: Heterogeneous Graph Neural Network
 <https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network>`_
     | :author:`Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla`
@@ -1123,7 +1118,7 @@ Combinatorial Optimization
     | :author:`Mohammadreza Nazari, Afshin Oroojlooy, Lawrence V. Snyder, Martin Takáč`
     | :venue:`NeurIPS 2018`
 
-Adversarial Attack
+Adversarial Attack and Robustness
 ------------------
 
 `Adversarial Attack on Graph Structured Data
@@ -1141,6 +1136,15 @@ Adversarial Attack
     | :author:`Daniel Zügner, Stephan Günnemann`
     | :venue:`ICLR 2019`
 
+`Robust Graph Convolutional Networks Against Adversarial Attacks
+<http://pengcui.thumedialab.com/papers/RGCN.pdf>`_
+    | :author:`Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu`
+    | :venue:`KDD 2019`
+
+`Certifiable Robustness and Robust Training for Graph Convolutional Networks
+<https://arxiv.org/pdf/1906.12269.pdf>`_
+    | :author:`Daniel Zügner, Stephan Günnemann`
+    | :venue:`KDD 2019`
 
 Meta Learning
 -------------
