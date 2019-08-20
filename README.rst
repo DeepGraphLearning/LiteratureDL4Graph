@@ -1333,6 +1333,11 @@ Graph Generation
     | :author:`Mingming Sun, Ping Li`
     | :venue:`AISTATS 2019`
 
+`Graph Normalizing Flows
+<https://arxiv.org/abs/1905.13177>`_
+    | :author:`Jenny Liu, Aviral Kumar, Jimmy Ba, Jamie Kiros, Kevin Swersky`
+    | :venue:`arXiv 1905`
+
 
 Graph Layout and High-dimensional Data Visualization
 ====================================================
