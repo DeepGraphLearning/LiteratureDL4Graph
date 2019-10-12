@@ -640,6 +640,11 @@ Graph Neural Networks
     | :author:`Nima Dehmamy, Albert-László Barabási, Rose Yu`
     | :venue:`NeurIPS 2019`
 
+`DeepGCNs: Can GCNs Go as Deep as CNNs?
+<https://arxiv.org/pdf/1904.03751.pdf>`_
+    | :author:`Guohao Li, Matthias Muller, Ali Thabet, Bernard Ghanem`
+    | :venue:`ICCV 2019`
+
 Applications of Graph Neural Networks
 =====================================
 
