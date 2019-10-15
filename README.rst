@@ -328,6 +328,11 @@ Node Representation Learning in Dynamic Graphs
     | :author:`Ehsan Hajiramezanali, Arman Hasanzadeh, Nick Duffield, Krishna R Narayanan, Mingyuan Zhou, Xiaoning Qian`
     | :venue:`NeurIPS 2019`
 
+`Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks
+<https://arxiv.org/pdf/1907.03395.pdf>`_
+    | :author:`Vineet Kosaraju, Amir Sadeghian, Roberto Martín-Martín, Ian Reid, S. Hamid Rezatofighi, Silvio Savarese`
+    | :venue:`NeurIPS 2019`
+
 Knowledge Graph Embedding
 =========================
 
@@ -430,6 +435,16 @@ Knowledge Graph Embedding
 <https://arxiv.org/pdf/1906.08495.pdf>`_
     | :author:`Meng Qu, Jian Tang`
     | :venue:`arXiv 1906`
+
+`Quaternion Knowledge Graph Embeddings
+<https://arxiv.org/pdf/1904.10281.pdf>`_
+    | :author:`Shuai Zhang, Yi Tay, Lina Yao, Qi Liu`
+    | :venue:`NeurIPS 2019`
+
+`Multi-relational Poincaré Graph Embeddings
+<https://arxiv.org/pdf/1905.09791.pdf>`_
+    | :author:`Ivana Balaževic, Carl Allen, Timothy Hospedales`
+    | :venue:`NeurIPS 2019`
 
 Graph Neural Networks
 =====================
@@ -640,6 +655,26 @@ Graph Neural Networks
     | :author:`Nima Dehmamy, Albert-László Barabási, Rose Yu`
     | :venue:`NeurIPS 2019`
 
+`A Flexible Generative Framework for Graph-based Semi-supervised Learning
+<https://arxiv.org/pdf/1905.10769.pdf>`_
+    | :author:`Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei`
+    | :venue:`NeurIPS 2019`
+
+`Rethinking Kernel Methods for Node Representation Learning on Graphs
+<https://arxiv.org/pdf/1910.02548.pdf>`_
+    | :author:`Yu Tian, Long Zhao, Xi Peng, Dimitris N. Metaxas`
+    | :venue:`NeurIPS 2019`
+
+`Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks
+<https://arxiv.org/pdf/1906.02174.pdf>`_
+    | :author:`Sitao Luan, Mingde Zhao, Xiao-Wen Chang, Doina Precup`
+    | :venue:`NeurIPS 2019`
+
+`N-Gram Graph: A Simple Unsupervised Representation for Molecules
+<https://arxiv.org/pdf/1806.09206.pdf>`_
+    | :author:`Shengchao Liu, Thevaa Chandereng, Yingyu Liang`
+    | :venue:`NeurIPS 2019`
+
 `DeepGCNs: Can GCNs Go as Deep as CNNs?
 <https://arxiv.org/pdf/1904.03751.pdf>`_
     | :author:`Guohao Li, Matthias Muller, Ali Thabet, Bernard Ghanem`
@@ -845,22 +880,22 @@ in News Media
 
 `Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
 <https://arxiv.org/pdf/1909.08211.pdf>`_
-    | :author:`Penghui Wei, Nan Xu, Wenji Mao
+    | :author:`Penghui Wei, Nan Xu, Wenji Mao`
     | :venue:`EMNLP 2019`
 
 `DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation
 <https://arxiv.org/pdf/1908.11540.pdf>`_
-    | :author:`Deepanway Ghosal, Navonil Majumder, Soujanya Poria, Niyati Chhaya, Alexander Gelbukh
+    | :author:`Deepanway Ghosal, Navonil Majumder, Soujanya Poria, Niyati Chhaya, Alexander Gelbukh`
     | :venue:`EMNLP 2019`
 
 `Modeling Graph Structure in Transformer for Better AMR-to-Text Generation
 <https://arxiv.org/pdf/1909.00136.pdf>`_
-    | :author:`Jie Zhu, Junhui Li, Muhua Zhu, Longhua Qian, Min Zhang, Guodong Zhou
+    | :author:`Jie Zhu, Junhui Li, Muhua Zhu, Longhua Qian, Min Zhang, Guodong Zhou`
     | :venue:`EMNLP 2019`
 
 `KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning
 <https://arxiv.org/pdf/1909.02151.pdf>`_
-    | :author:`Bill Yuchen Lin, Xinyue Chen, Jamin Chen, Xiang Ren
+    | :author:`Bill Yuchen Lin, Xinyue Chen, Jamin Chen, Xiang Ren`
     | :venue:`EMNLP 2019`
 
 Computer Vision
@@ -1164,7 +1199,7 @@ Recommender Systems
 `An End-to-End Neighborhood-based Interaction Model for Knowledge-enhanced Recommendation
 <https://arxiv.org/pdf/1908.04032.pdf>`_
     | :author:`Yanru Qu, Ting Bai, Weinan Zhang, Jianyun Nie, Jian Tang`
-    | :venue:`KDD 2019 Workshop
+    | :venue:`KDD 2019 Workshop`
 
 Link Prediction
 ---------------
@@ -1183,6 +1218,11 @@ Link Prediction
 <https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf>`_
     | :author:`Rianne van den Berg, Thomas N. Kipf, Max Welling`
     | :venue:`KDD 2018 Workshop`
+
+`Semi-Implicit Graph Variational Auto-Encoders
+<https://arxiv.org/pdf/1908.07078.pdf>`_
+    | :author:`Arman Hasanzadeh, Ehsan Hajiramezanali, Nick Duffield , Krishna Narayanan, Mingyuan Zhou, Xiaoning Qian`
+    | :venue:`NeurIPS 2019`
 
 Influence Prediction
 --------------------
@@ -1204,6 +1244,11 @@ Neural Architecture Search
 <https://openreview.net/pdf?id=rkgW0oA9FX>`_
     | :author:`Chris Zhang, Mengye Ren, Raquel Urtasun`
     | :venue:`ICLR 2019`
+
+`D-VAE: A Variational Autoencoder for Directed Acyclic Graphs
+<https://arxiv.org/pdf/1904.11088.pdf>`_
+    | :author:`Muhan Zhang, Shali Jiang, Zhicheng Cui, Roman Garnett, Yixin Chen`
+    | :venue:`NeurIPS 2019`
 
 Reinforcement Learning
 ----------------------
@@ -1263,6 +1308,16 @@ Combinatorial Optimization
     | :author:`Mohammadreza Nazari, Afshin Oroojlooy, Lawrence V. Snyder, Martin Takáč`
     | :venue:`NeurIPS 2018`
 
+`Approximation Ratios of Graph Neural Networks for Combinatorial Problems
+<https://arxiv.org/pdf/1905.10261.pdf>`_
+    | :author:`Ryoma Sato, Makoto Yamada, Hisashi Kashima`
+    | :venue:`NeurIPS 2019`
+
+`Exact Combinatorial Optimization with Graph Convolutional Neural Networks
+<https://arxiv.org/pdf/1906.01629.pdf>`_
+    | :author:`Maxime Gasse, Didier Chételat, Nicola Ferroni, Laurent Charlin, Andrea Lodi`
+    | :venue:`NeurIPS 2019`
+
 Adversarial Attack and Robustness
 ------------------
 
@@ -1299,6 +1354,10 @@ Meta Learning
     | :author:`Hanjun Dai, Zornitsa Kozareva, Bo Dai, Alex Smola, Le Song`
     | :venue:`ICML 2018`
 
+`Learning to Propagate for Graph Meta-Learning
+<https://arxiv.org/pdf/1909.05024.pdf>`_
+    | :author:`Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang`
+    | :venue:`NeurIPS 2019`
 
 Structure Learning
 ------------------
@@ -1491,8 +1550,17 @@ Graph Generation
 `Graph Normalizing Flows
 <https://arxiv.org/abs/1905.13177>`_
     | :author:`Jenny Liu, Aviral Kumar, Jimmy Ba, Jamie Kiros, Kevin Swersky`
-    | :venue:`arXiv 1905`
+    | :venue:`NeurIPS 2019`
 
+`Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+<http://jiyang3.web.engr.illinois.edu/files/condgen.pdf>`_
+    | :author:`Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li`
+    | :venue:`NeurIPS 2019`
+
+`Efficient Graph Generation with Graph Recurrent Attention Networks
+<https://arxiv.org/pdf/1910.00760.pdf>`_
+    | :author:`Renjie Liao, Yujia Li, Yang Song, Shenlong Wang, Charlie Nash, William L. Hamilton, David Duvenaud, Raquel Urtasun, Richard Zemel`
+    | :venue:`NeurIPS 2019`
 
 Graph Layout and High-dimensional Data Visualization
 ====================================================
