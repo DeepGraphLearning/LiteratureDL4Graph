@@ -749,7 +749,7 @@ Natural Language Processing
 `Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder
 <https://openreview.net/pdf?id=BJlgNh0qKQ>`_
     | :author:`Caio Corro, Ivan Titov`
-    | :venue:`ICLR 2019.`
+    | :venue:`ICLR 2019`
 
 `Structured Neural Summarization
 <https://arxiv.org/pdf/1811.01824.pdf>`_
