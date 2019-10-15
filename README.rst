@@ -336,6 +336,11 @@ Node Representation Learning in Dynamic Graphs
 Knowledge Graph Embedding
 =========================
 
+`A Three-Way Model for Collective Learning on Multi-Relational Data.
+<http://www.icml-2011.org/papers/438_icmlpaper.pdf>`_
+    | :author:`Maximilian Nickel, Volker Tresp, Hans-Peter Kriegel`
+    | :venue:`ICML 2011`
+
 `Translating Embeddings for Modeling Multi-relational Data
 <https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf>`_
     | :author:`Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko`
@@ -346,10 +351,20 @@ Knowledge Graph Embedding
     | :author:`Zhen Wang, Jianwen Zhang, Jianlin Feng, Zheng Chen`
     | :venue:`AAAI 2014`
 
+`Reducing the Rank of Relational Factorization Models by Including Observable Patterns
+<http://papers.nips.cc/paper/5448-reducing-the-rank-in-relational-factorization-models-by-including-observable-patterns.pdf>`_
+    | :author:`Maximilian Nickel, Xueyan Jiang, Volker Tresp`
+    | :venue:`NIPS 2014`
+
 `Learning Entity and Relation Embeddings for Knowledge Graph Completion
 <https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523>`_
     | :author:`Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu`
     | :venue:`AAAI 2015`
+
+`A Review of Relational Machine Learning for Knowledge Graph
+<https://arxiv.org/pdf/1503.00759.pdf>`_
+    | :author:`Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich`
+    | :venue:`IEEE 2015`
 
 `Knowledge Graph Embedding via Dynamic Mapping Matrix
 <https://www.aclweb.org/anthology/P15-1067>`_
@@ -1619,3 +1634,10 @@ Graph Representation Learning Systems
 
 Datasets
 ========
+
+`ATOMIC: an atlas of machine commonsense for if-then reasoning
+<https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4160/4038>`_
+    | :author:`Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi`
+    | :venue:`AAAI 2019`
+
+
