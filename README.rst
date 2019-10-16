@@ -1,6 +1,12 @@
 Literature of Deep Learning for Graphs
 **************************************
+
 This is a paper list about deep learning for graphs.
+
+.. raw:: html
+
+    <div><a href="README.rst">Sort by topic</a></div>
+    <div><a href="BYVENUE.rst">Sort by venue</a></div>
 
 .. contents::
     :local:
@@ -9,11 +15,11 @@ This is a paper list about deep learning for graphs.
 .. sectnum::
     :depth: 2
 
-.. role:: author(emphasis)
+.. role:: authors(emphasis)
 
 .. role:: venue(strong)
 
-.. role:: keyword(emphasis)
+.. role:: keywords(emphasis)
 
 Node Representation Learning
 ============================
