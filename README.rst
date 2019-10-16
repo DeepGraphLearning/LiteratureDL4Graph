@@ -400,12 +400,12 @@ Knowledge Graph Embedding
 `Modeling Relational Data with Graph Convolutional Networks
 <https://arxiv.org/pdf/1703.06103>`_
     | :authors:`Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne Van Den Berg, Ivan Titov, Max Welling`
-    | :venue:`arXiv 2017.03`
+    | :venue:`arXiv 2017`
 
 `Fast Linear Model for Knowledge Graph Embeddings
 <https://arxiv.org/pdf/1710.10881>`_
     | :authors:`Armand Joulin, Edouard Grave, Piotr Bojanowski, Maximilian Nickel, Tomas Mikolov`
-    | :venue:`arXiv 2017.10`
+    | :venue:`arXiv 2017`
 
 `Convolutional 2D Knowledge Graph Embeddings
 <https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17366/15884>`_
@@ -543,7 +543,7 @@ Graph Neural Networks
 `Pitfalls of Graph Neural Network Evaluation
 <https://arxiv.org/pdf/1811.05868>`_
     | :authors:`Oleksandr Shchur, Maximilian Mumme, Aleksandar Bojchevski, Stephan Günnemann`
-    | :venue:`arXiv 2018.11`
+    | :venue:`arXiv 2018`
 
 `Heterogeneous Graph Attention Network
 <https://arxiv.org/pdf/1903.07293>`_

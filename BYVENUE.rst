@@ -184,6 +184,19 @@ WWW
 2016
 ====
 
+arXiv
+-----
+
+`Variational Graph Auto-encoders
+<https://arxiv.org/abs/1611.07308>`_
+    | :authors:`Thomas, N., Kipf, Max, Welling`
+    | :venue:`arXiv 2016`
+
+`Meta-path Guided Embedding for Similarity Search in Large-scale Heterogeneous Information Networks
+<https://arxiv.org/pdf/1610.09769>`_
+    | :authors:`Jingbo, Shang, Meng, Qu, Jialu, Liu, Lance, M., Kaplan, Jiawei, Han, Jian, Peng`
+    | :venue:`arXiv 2016`
+
 IJCAI
 -----
 
@@ -399,6 +412,19 @@ NeurIPS
 <https://arxiv.org/abs/1709.09994>`_
     | :authors:`Mingzhe, Wang, Yihe, Tang, Jian, Wang, Jia, Deng`
     | :venue:`NeurIPS 2017`
+
+arXiv
+-----
+
+`Modeling Relational Data with Graph Convolutional Networks
+<https://arxiv.org/pdf/1703.06103>`_
+    | :authors:`Michael, Schlichtkrull, Thomas, N., Kipf, Peter, Bloem, Rianne, Van, Den, Berg, Ivan, Titov, Max, Welling`
+    | :venue:`arXiv 2017`
+
+`Fast Linear Model for Knowledge Graph Embeddings
+<https://arxiv.org/pdf/1710.10881>`_
+    | :authors:`Armand, Joulin, Edouard, Grave, Piotr, Bojanowski, Maximilian, Nickel, Tomas, Mikolov`
+    | :venue:`arXiv 2017`
 
 2018
 ====
@@ -951,6 +977,19 @@ WWW
     | :authors:`Junghwan, Kim, Haekyu, Park, Ji-Eun, Lee, U, Kang`
     | :venue:`WWW 2018`
 
+arXiv
+-----
+
+`Pitfalls of Graph Neural Network Evaluation
+<https://arxiv.org/pdf/1811.05868>`_
+    | :authors:`Oleksandr, Shchur, Maximilian, Mumme, Aleksandar, Bojchevski, Stephan, Günnemann`
+    | :venue:`arXiv 2018`
+
+`Molgan: An Implicit Generative Model for Small Molecular Graphs
+<https://arxiv.org/abs/1805.11973>`_
+    | :authors:`Nicola, De, Cao, Thomas, Kipf`
+    | :venue:`arXiv 2018`
+
 2019
 ====
 
@@ -1115,6 +1154,49 @@ WWW
 <https://arxiv.org/pdf/1903.00757>`_
     | :authors:`Zhaocheng, Zhu, Shizhen, Xu, Meng, Qu, Jian, Tang`
     | :venue:`WWW 2019`
+
+arXiv
+-----
+
+`Probabilistic Logic Neural Networks for Reasoning
+<https://arxiv.org/pdf/1906.08495.pdf>`_
+    | :authors:`Meng, Qu, Jian, Tang`
+    | :venue:`arXiv 2019`
+
+`Brain Signal Classification via Learning Connectivity Structure
+<https://arxiv.org/abs/1905.11678>`_
+    | :authors:`Soobeom, Jang, Seong-Eun, Moon, Jong-Seok, Lee`
+    | :venue:`arXiv 2019`
+
+`A Flexible Generative Framework for Graph-based Semi-supervised Learning
+<https://arxiv.org/abs/1905.10769>`_
+    | :authors:`Jiaqi, Ma, Weijing, Tang, Ji, Zhu, Qiaozhu, Mei`
+    | :venue:`arXiv 2019`
+
+`Joint Embedding of Structure and Features via Graph Convolutional Networks
+<https://arxiv.org/abs/1905.08636>`_
+    | :authors:`Sébastien, Lerique, Jacob, Levy, Abitbol, Márton, Karsai`
+    | :venue:`arXiv 2019`
+
+`Variational Spectral Graph Convolutional Networks
+<https://arxiv.org/abs/1906.01852>`_
+    | :authors:`Louis, Tiao, Pantelis, Elinas, Harrison, Nguyen, Edwin, V., Bonilla`
+    | :venue:`arXiv 2019`
+
+`Selfies: a Robust Representation of Semantically Constrained Graphs with an Example Application in Chemistry
+<https://arxiv.org/pdf/1905.13741.pdf>`_
+    | :authors:`Mario, Krenn, Florian, Häse, AkshatKumar, Nigam, Pascal, Friederich, Alán, Aspuru-Guzik`
+    | :venue:`arXiv 2019`
+
+`Drug-drug Adverse Effect Prediction with Graph Co-attention
+<https://arxiv.org/pdf/1905.00534.pdf>`_
+    | :authors:`Andreea, Deac, Yu-Hsiang, Huang, Petar, Veličković, Pietro, Liò, Jian, Tang`
+    | :venue:`arXiv 2019`
+
+`Detecting Drug-drug Interactions Using Artificial Neural Networks and Classic Graph Similarity Measures
+<https://arxiv.org/pdf/1903.04571.pdf>`_
+    | :authors:`Guy, Shtar, Lior, Rokach, Bracha, Shapira`
+    | :venue:`arXiv 2019`
 
 AAAI
 ----
@@ -1724,82 +1806,6 @@ NeurIPS
 <https://arxiv.org/pdf/1910.00760.pdf>`_
     | :authors:`Renjie, Liao, Yujia, Li, Yang, Song, Shenlong, Wang, Charlie, Nash, William, L., Hamilton, David, Duvenaud, Raquel, Urtasun, Richard, Zemel`
     | :venue:`NeurIPS 2019`
-
-2020
-====
-
-arXiv
------
-
-`Variational Graph Auto-encoders
-<https://arxiv.org/abs/1611.07308>`_
-    | :authors:`Thomas, N., Kipf, Max, Welling`
-    | :venue:`arXiv 2020`
-
-`Meta-path Guided Embedding for Similarity Search in Large-scale Heterogeneous Information Networks
-<https://arxiv.org/pdf/1610.09769>`_
-    | :authors:`Jingbo, Shang, Meng, Qu, Jialu, Liu, Lance, M., Kaplan, Jiawei, Han, Jian, Peng`
-    | :venue:`arXiv 2020`
-
-`Modeling Relational Data with Graph Convolutional Networks
-<https://arxiv.org/pdf/1703.06103>`_
-    | :authors:`Michael, Schlichtkrull, Thomas, N., Kipf, Peter, Bloem, Rianne, Van, Den, Berg, Ivan, Titov, Max, Welling`
-    | :venue:`arXiv 2020`
-
-`Fast Linear Model for Knowledge Graph Embeddings
-<https://arxiv.org/pdf/1710.10881>`_
-    | :authors:`Armand, Joulin, Edouard, Grave, Piotr, Bojanowski, Maximilian, Nickel, Tomas, Mikolov`
-    | :venue:`arXiv 2020`
-
-`Probabilistic Logic Neural Networks for Reasoning
-<https://arxiv.org/pdf/1906.08495.pdf>`_
-    | :authors:`Meng, Qu, Jian, Tang`
-    | :venue:`arXiv 2020`
-
-`Pitfalls of Graph Neural Network Evaluation
-<https://arxiv.org/pdf/1811.05868>`_
-    | :authors:`Oleksandr, Shchur, Maximilian, Mumme, Aleksandar, Bojchevski, Stephan, Günnemann`
-    | :venue:`arXiv 2020`
-
-`Brain Signal Classification via Learning Connectivity Structure
-<https://arxiv.org/abs/1905.11678>`_
-    | :authors:`Soobeom, Jang, Seong-Eun, Moon, Jong-Seok, Lee`
-    | :venue:`arXiv 2020`
-
-`A Flexible Generative Framework for Graph-based Semi-supervised Learning
-<https://arxiv.org/abs/1905.10769>`_
-    | :authors:`Jiaqi, Ma, Weijing, Tang, Ji, Zhu, Qiaozhu, Mei`
-    | :venue:`arXiv 2020`
-
-`Joint Embedding of Structure and Features via Graph Convolutional Networks
-<https://arxiv.org/abs/1905.08636>`_
-    | :authors:`Sébastien, Lerique, Jacob, Levy, Abitbol, Márton, Karsai`
-    | :venue:`arXiv 2020`
-
-`Variational Spectral Graph Convolutional Networks
-<https://arxiv.org/abs/1906.01852>`_
-    | :authors:`Louis, Tiao, Pantelis, Elinas, Harrison, Nguyen, Edwin, V., Bonilla`
-    | :venue:`arXiv 2020`
-
-`Selfies: a Robust Representation of Semantically Constrained Graphs with an Example Application in Chemistry
-<https://arxiv.org/pdf/1905.13741.pdf>`_
-    | :authors:`Mario, Krenn, Florian, Häse, AkshatKumar, Nigam, Pascal, Friederich, Alán, Aspuru-Guzik`
-    | :venue:`arXiv 2020`
-
-`Drug-drug Adverse Effect Prediction with Graph Co-attention
-<https://arxiv.org/pdf/1905.00534.pdf>`_
-    | :authors:`Andreea, Deac, Yu-Hsiang, Huang, Petar, Veličković, Pietro, Liò, Jian, Tang`
-    | :venue:`arXiv 2020`
-
-`Detecting Drug-drug Interactions Using Artificial Neural Networks and Classic Graph Similarity Measures
-<https://arxiv.org/pdf/1903.04571.pdf>`_
-    | :authors:`Guy, Shtar, Lior, Rokach, Bracha, Shapira`
-    | :venue:`arXiv 2020`
-
-`Molgan: An Implicit Generative Model for Small Molecular Graphs
-<https://arxiv.org/abs/1805.11973>`_
-    | :authors:`Nicola, De, Cao, Thomas, Kipf`
-    | :venue:`arXiv 2020`
 
 Others
 ======
