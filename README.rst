@@ -1315,6 +1315,11 @@ Reinforcement Learning
 Combinatorial Optimization
 --------------------------
 
+`Learning Combinatorial Optimization Algorithms over Graphs
+<https://arxiv.org/abs/1704.01665>`_
+    | :authors:`Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina, Le Song`
+    | :venue:`NeurIPS 2017`
+
 `Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search
 <https://arxiv.org/abs/1810.10659>`_
     | :authors:`Zhuwen Li, Qifeng Chen, Vladlen Koltun`
@@ -1324,6 +1329,21 @@ Combinatorial Optimization
 <https://arxiv.org/abs/1802.04240>`_
     | :authors:`Mohammadreza Nazari, Afshin Oroojlooy, Lawrence V. Snyder, Martin Takáč`
     | :venue:`NeurIPS 2018`
+    
+`Attention, Learn to Solve Routing Problems!
+<https://arxiv.org/abs/1803.08475>`_
+    | :authors:`Wouter Kool, Herke van Hoof, Max Welling`
+    | :venue:`ICLR 2019`
+    
+`Learning a SAT Solver from Single-Bit Supervision
+<https://arxiv.org/abs/1802.03685>`_
+    | :authors:`Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill`
+    | :venue:`ICLR 2019`
+    
+`An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem
+<https://arxiv.org/abs/1906.01227>`_
+    | :authors:`Chaitanya K. Joshi, Thomas Laurent, Xavier Bresson`
+    | :venue:`arXiv 2019`
 
 `Approximation Ratios of Graph Neural Networks for Combinatorial Problems
 <https://arxiv.org/pdf/1905.10261.pdf>`_
