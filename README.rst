@@ -700,6 +700,11 @@ Graph Neural Networks
     | :authors:`Guohao Li, Matthias Muller, Ali Thabet, Bernard Ghanem`
     | :venue:`ICCV 2019`
 
+`Continuous Graph Neural Networks
+<https://arxiv.org/pdf/1912.00967.pdf>`_
+    | :authors:`Louis-Pascal A. C. Xhonneux, Meng Qu, Jian Tang`
+    | :venue:`arXiv 1912`
+
 Applications of Graph Neural Networks
 =====================================
 
