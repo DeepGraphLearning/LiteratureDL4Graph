@@ -455,7 +455,7 @@ Knowledge Graph Embedding
 `Probabilistic Logic Neural Networks for Reasoning
 <https://arxiv.org/pdf/1906.08495.pdf>`_
     | :authors:`Meng Qu, Jian Tang`
-    | :venue:`arXiv 2019`
+    | :venue:`NeurIPS 2019`
 
 `Quaternion Knowledge Graph Embeddings
 <https://arxiv.org/pdf/1904.10281.pdf>`_
@@ -1359,6 +1359,11 @@ Combinatorial Optimization
 <https://arxiv.org/pdf/1906.01629.pdf>`_
     | :authors:`Maxime Gasse, Didier Chételat, Nicola Ferroni, Laurent Charlin, Andrea Lodi`
     | :venue:`NeurIPS 2019`
+    
+`On Learning Paradigms for the Travelling Salesman Problem
+<https://arxiv.org/pdf/1910.07210.pdf>`_
+    | :authors:`Chaitanya K. Joshi, Thomas Laurent, Xavier Bresson`
+    | :venue:`NeurIPS 2019 Workshop`
 
 Adversarial Attack and Robustness
 ------------------
@@ -1422,7 +1427,7 @@ Structure Learning
 `A Flexible Generative Framework for Graph-based Semi-supervised Learning
 <https://arxiv.org/abs/1905.10769>`_
     | :authors:`Jiaqi Ma, Weijing Tang, Ji Zhu, Qiaozhu Mei`
-    | :venue:`arXiv 2019`
+    | :venue:`NeurIPS 2019`
 
 `Joint embedding of structure and features via graph convolutional networks
 <https://arxiv.org/abs/1905.08636>`_
@@ -1481,7 +1486,7 @@ Drug–target Interactions
 `Drug-Drug Adverse Effect Prediction with Graph Co-Attention
 <https://arxiv.org/pdf/1905.00534.pdf>`_
     | :authors:`Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang`
-    | :venue:`arXiv 2019`
+    | :venue:`ICML 2019 Workshop`
 
 `GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorization
 <https://www.kdd.org/kdd2019/accepted-papers/view/gcn-mf-disease-gene-association-identification-by-graph-convolutional-netwo>`_
