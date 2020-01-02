@@ -467,6 +467,11 @@ Knowledge Graph Embedding
     | :authors:`Shuai Zhang, Yi Tay, Lina Yao, Qi Liu`
     | :venue:`NeurIPS 2019`
 
+`Quantum Embedding of Knowledge for Reasoning
+<https://papers.nips.cc/paper/8797-quantum-embedding-of-knowledge-for-reasoning.pdf>`_
+	| :authors:`Dinesh Garg, Santosh K. Srivastava, Hima Karanam`
+	| :venue:`NeurIPS 2019`
+	
 `Multi-relational Poincaré Graph Embeddings
 <https://arxiv.org/pdf/1905.09791.pdf>`_
     | :authors:`Ivana Balaževic, Carl Allen, Timothy Hospedales`
@@ -1423,7 +1428,7 @@ Graph Matching
 
 `REGAL: Representation Learning-based Graph Alignment
 <https://arxiv.org/pdf/1802.06257.pdf>`_
-	| :authors: `Mark Heimann, Haoming Shen, Tara Safavi, Danai Koutra`
+	| :authors:`Mark Heimann, Haoming Shen, Tara Safavi, Danai Koutra`
 	| :venue:`CIKM 2018`
 
 `Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
