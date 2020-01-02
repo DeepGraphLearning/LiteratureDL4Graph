@@ -184,27 +184,6 @@ WWW
 2016
 ====
 
-arXiv
------
-
-`Variational Graph Auto-encoders
-<https://arxiv.org/abs/1611.07308>`_
-    | :authors:`Thomas, N., Kipf, Max, Welling`
-    | :venue:`arXiv 2016`
-
-`Meta-path Guided Embedding for Similarity Search in Large-scale Heterogeneous Information Networks
-<https://arxiv.org/pdf/1610.09769>`_
-    | :authors:`Jingbo, Shang, Meng, Qu, Jialu, Liu, Lance, M., Kaplan, Jiawei, Han, Jian, Peng`
-    | :venue:`arXiv 2016`
-
-IJCAI
------
-
-`Max-margin Deepwalk: Discriminative Learning of Network Representation
-<https://www.ijcai.org/Proceedings/16/Papers/547.pdf>`_
-    | :authors:`Cunchao, Tu, Weicheng, Zhang, Zhiyuan, Liu, Maosong, Sun`
-    | :venue:`IJCAI 2016`
-
 AAAI
 ----
 
@@ -226,13 +205,13 @@ ICML
     | :authors:`Zhilin, Yang, William, W., Cohen, Ruslan, Salakhutdinov`
     | :venue:`ICML 2016`
 
-WWW
----
+IJCAI
+-----
 
-`Visualizing Large-scale and High-dimensional Data
-<https://arxiv.org/pdf/1602.00370>`_
-    | :authors:`Jian, Tang, Jingzhou, Liu, Ming, Zhang, Qiaozhu, Mei`
-    | :venue:`WWW 2016`
+`Max-margin Deepwalk: Discriminative Learning of Network Representation
+<https://www.ijcai.org/Proceedings/16/Papers/547.pdf>`_
+    | :authors:`Cunchao, Tu, Weicheng, Zhang, Zhiyuan, Liu, Maosong, Sun`
+    | :venue:`IJCAI 2016`
 
 KDD
 ---
@@ -242,6 +221,27 @@ KDD
     | :authors:`Aditya, Grover, Jure, Leskovec`
     | :venue:`KDD 2016`
     | :keywords:`Breadth-first, Search, Depth-first, Search, Node, Classification, Link, Prediction`
+
+WWW
+---
+
+`Visualizing Large-scale and High-dimensional Data
+<https://arxiv.org/pdf/1602.00370>`_
+    | :authors:`Jian, Tang, Jingzhou, Liu, Ming, Zhang, Qiaozhu, Mei`
+    | :venue:`WWW 2016`
+
+arXiv
+-----
+
+`Variational Graph Auto-encoders
+<https://arxiv.org/abs/1611.07308>`_
+    | :authors:`Thomas, N., Kipf, Max, Welling`
+    | :venue:`arXiv 2016`
+
+`Meta-path Guided Embedding for Similarity Search in Large-scale Heterogeneous Information Networks
+<https://arxiv.org/pdf/1610.09769>`_
+    | :authors:`Jingbo, Shang, Meng, Qu, Jialu, Liu, Lance, M., Kaplan, Jiawei, Han, Jian, Peng`
+    | :venue:`arXiv 2016`
 
 2017
 ====
@@ -403,6 +403,11 @@ NIPS
 NeurIPS
 -------
 
+`Learning Combinatorial Optimization Algorithms over Graphs
+<https://arxiv.org/abs/1704.01665>`_
+    | :authors:`Hanjun, Dai, Elias, B., Khalil, Yuyu, Zhang, Bistra, Dilkina, Le, Song`
+    | :venue:`NeurIPS 2017`
+
 `Protein Interface Prediction Using Graph Convolutional Networks
 <https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf>`_
     | :authors:`Alex, Fout, Jonathon, Byrd, Basir, Shariat, Asa, Ben-Hur`
@@ -428,6 +433,259 @@ arXiv
 
 2018
 ====
+
+WSDM
+----
+
+`Network Embedding As Matrix Factorization: Unifying Deepwalk, Line, Pte, and Node2vec
+<https://arxiv.org/pdf/1710.02971>`_
+    | :authors:`Jiezhong, Qiu, Yuxiao, Dong, Hao, Ma, Jian, Li, Kuansan, Wang, Jie, Tang`
+    | :venue:`WSDM 2018`
+
+`Exploring Expert Cognition for Attributed Network Embedding
+<https://dl.acm.org/citation.cfm?id=3159655>`_
+    | :authors:`Xiao, Huang, Qingquan, Song, Jundong, Li, Xia, Hu`
+    | :venue:`WSDM 2018`
+
+`Shine: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
+<https://arxiv.org/pdf/1712.00732>`_
+    | :authors:`Hongwei, Wang, Fuzheng, Zhang, Min, Hou, Xing, Xie, Minyi, Guo, Qi, Liu`
+    | :venue:`WSDM 2018`
+
+`Multidimensional Network Embedding with Hierarchical Structures
+<https://dl.acm.org/citation.cfm?id=3159680>`_
+    | :authors:`Yao, Ma, Zhaochun, Ren, Ziheng, Jiang, Jiliang, Tang, Dawei, Yin`
+    | :venue:`WSDM 2018`
+
+`Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning
+<https://dl.acm.org/citation.cfm?id=3159711>`_
+    | :authors:`Meng, Qu, Jian, Tang, Jiawei, Han`
+    | :venue:`WSDM 2018`
+
+ICLR
+----
+
+`Graph Attention Networks
+<https://arxiv.org/pdf/1710.10903>`_
+    | :authors:`Petar, Veličković, Guillem, Cucurull, Arantxa, Casanova, Adriana, Romero, Pietro, Liò, Yoshua, Bengio`
+    | :venue:`ICLR 2018`
+
+`Fastgcn: Fast Learning with Graph Convolutional Networks via Importance Sampling
+<https://arxiv.org/pdf/1801.10247>`_
+    | :authors:`Jie, Chen, Tengfei, Ma, Cao, Xiao`
+    | :venue:`ICLR 2018`
+
+`Qanet: Combining Local Convolution with Global Self-attention for Reading Comprehension
+<https://arxiv.org/pdf/1804.09541.pdf>`_
+    | :authors:`Adams, Wei, Yu, David, Dohan, Minh-Thang, Luong, Rui, Zhao, Kai, Chen, Mohammad, Norouzi, Quoc, V., Le`
+    | :venue:`ICLR 2018`
+
+`A Structured Self-attentive Sentence Embedding
+<https://arxiv.org/pdf/1703.03130.pdf>`_
+    | :authors:`Zhouhan, Lin, Minwei, Feng, Cicero, Nogueira, dos, Santos, Mo, Yu, Bing, Xiang, Bowen, Zhou, Yoshua, Bengio`
+    | :venue:`ICLR 2018`
+
+`Nervenet: Learning Structured Policy with Graph Neural Networks
+<https://openreview.net/pdf?id=S1sqHMZCb>`_
+    | :authors:`Tingwu, Wang, Renjie, Liao, Jimmy, Ba, Sanja, Fidler`
+    | :venue:`ICLR 2018`
+
+`Few-shot Learning with Graph Neural Networks
+<https://arxiv.org/abs/1711.04043>`_
+    | :authors:`Victor, Garcia, Joan, Bruna`
+    | :venue:`ICLR 2018`
+
+NAACL
+-----
+
+`Kbgan: Adversarial Learning for Knowledge Graph Embeddings
+<https://arxiv.org/abs/1711.04071>`_
+    | :authors:`Liwei, Cai, William, Yang, Wang`
+    | :venue:`NAACL 2018`
+
+`A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network
+<https://aclweb.org/anthology/papers/N/N18/N18-2053/>`_
+    | :authors:`Dai, Quoc, Nguyen, Tu, Dinh, Nguyen, Dat, Quoc, Nguyen, Dinh, Phung`
+    | :venue:`NAACL 2018`
+
+`Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+<https://www.aclweb.org/anthology/N18-2078>`_
+    | :authors:`Diego, Marcheggiani, Joost, Bastings, Ivan, Titov`
+    | :venue:`NAACL 2018`
+
+WWW
+---
+
+`Verse: Versatile Graph Embeddings from Similarity Measures
+<https://arxiv.org/pdf/1803.04742>`_
+    | :authors:`Anton, Tsitsulin, Davide, Mottin, Panagiotis, Karras, Emmanuel, Müller`
+    | :venue:`WWW 2018`
+
+`Co-regularized Deep Multi-network Embedding
+<https://dl.acm.org/citation.cfm?id=3186113>`_
+    | :authors:`Jingchao, Ni, Shiyu, Chang, Xiao, Liu, Wei, Cheng, Haifeng, Chen, Dongkuan, Xu, Xiang, Zhang`
+    | :venue:`WWW 2018`
+
+`Side: Representation Learning in Signed Directed Networks
+<https://dl.acm.org/citation.cfm?id=3186117>`_
+    | :authors:`Junghwan, Kim, Haekyu, Park, Ji-Eun, Lee, U, Kang`
+    | :venue:`WWW 2018`
+
+COLING
+------
+
+`Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering
+<https://aclweb.org/anthology/C18-1280>`_
+    | :authors:`Daniil, Sorokin, Iryna, Gurevych`
+    | :venue:`COLING 2018`
+
+ICML
+----
+
+`Representation Learning on Graphs with Jumping Knowledge Networks
+<https://arxiv.org/pdf/1806.03536>`_
+    | :authors:`Keyulu, Xu, Chengtao, Li, Yonglong, Tian, Tomohiro, Sonobe, Ken-ichi, Kawarabayashi, Stefanie, Jegelka`
+    | :venue:`ICML 2018`
+
+`Stochastic Training of Graph Convolutional Networks with Variance Reduction
+<https://arxiv.org/pdf/1710.10568>`_
+    | :authors:`Jianfei, Chen, Jun, Zhu, Le, Song`
+    | :venue:`ICML 2018`
+
+`Graph Networks As Learnable Physics Engines for Inference and Control
+<https://arxiv.org/pdf/1806.01242.pdf>`_
+    | :authors:`Alvaro, Sanchez-Gonzalez, Nicolas, Heess, Jost, Tobias, Springenberg, Josh, Merel, Martin, Riedmiller`
+    | :venue:`ICML 2018`
+
+`Learning Policy Representations in Multiagent Systems
+<https://arxiv.org/pdf/1806.06464.pdf>`_
+    | :authors:`Aditya, Grover, Maruan, Al-Shedivat, Jayesh, K., Gupta, Yura, Burda, Harrison, Edwards`
+    | :venue:`ICML 2018`
+
+`Adversarial Attack on Graph Structured Data
+<https://arxiv.org/abs/1806.02371>`_
+    | :authors:`Hanjun, Dai, Hui, Li, Tian, Tian, Xin, Huang, Lin, Wang, Jun, Zhu, Le, Song`
+    | :venue:`ICML 2018`
+
+`Learning Steady-states of Iterative Algorithms over Graphs
+<http://proceedings.mlr.press/v80/dai18a.html>`_
+    | :authors:`Hanjun, Dai, Zornitsa, Kozareva, Bo, Dai, Alex, Smola, Le, Song`
+    | :venue:`ICML 2018`
+
+`Neural Relational Inference for Interacting Systems
+<https://arxiv.org/abs/1802.04687>`_
+    | :authors:`Thomas, Kipf, Ethan, Fetaya, Kuan-Chieh, Wang, Max, Welling, Richard, Zemel`
+    | :venue:`ICML 2018`
+
+`Graphrnn: Generating Realistic Graphs with Deep Auto-regressive Models
+<https://arxiv.org/abs/1802.08773>`_
+    | :authors:`Jiaxuan, You, Rex, Ying, Xiang, Ren, William, L., Hamilton, Jure, Leskovec`
+    | :venue:`ICML 2018`
+
+`Netgan: Generating Graphs via Random Walks
+<https://arxiv.org/abs/1803.00816>`_
+    | :authors:`Aleksandar, Bojchevski, Oleksandr, Shchur, Daniel, Zügner, Stephan, Günnemann`
+    | :venue:`ICML 2018`
+
+`Learning Deep Generative Models of Graphs
+<https://arxiv.org/abs/1803.03324>`_
+    | :authors:`Yujia, Li, Oriol, Vinyals, Chris, Dyer, Razvan, Pascanu, Peter, Battaglia`
+    | :venue:`ICML 2018`
+
+`Junction Tree Variational Autoencoder for Molecular Graph Generation
+<https://arxiv.org/abs/1802.04364>`_
+    | :authors:`Wengong, Jin, Regina, Barzilay, Tommi, Jaakkola`
+    | :venue:`ICML 2018`
+
+arXiv
+-----
+
+`Pitfalls of Graph Neural Network Evaluation
+<https://arxiv.org/pdf/1811.05868>`_
+    | :authors:`Oleksandr, Shchur, Maximilian, Mumme, Aleksandar, Bojchevski, Stephan, Günnemann`
+    | :venue:`arXiv 2018`
+
+`Molgan: An Implicit Generative Model for Small Molecular Graphs
+<https://arxiv.org/abs/1805.11973>`_
+    | :authors:`Nicola, De, Cao, Thomas, Kipf`
+    | :venue:`arXiv 2018`
+
+CIKM
+----
+
+`Regal: Representation Learning-based Graph Alignment
+<https://arxiv.org/pdf/1802.06257.pdf>`_
+    | :authors:`Mark, Heimann, Haoming, Shen, Tara, Safavi, Danai, Koutra`
+    | :venue:`CIKM 2018`
+
+CVPR
+----
+
+`Image Generation from Scene Graphs
+<https://arxiv.org/abs/1804.01622>`_
+    | :authors:`Justin, Johnson, Agrim, Gupta, Li, Fei-Fei`
+    | :venue:`CVPR 2018`
+
+`Foldingnet: Point Cloud Auto-encoder via Deep Grid Deformation
+<https://arxiv.org/abs/1712.07262>`_
+    | :authors:`Yaoqing, Yang, Chen, Feng, Yiru, Shen, Dong, Tian`
+    | :venue:`CVPR 2018`
+
+`Ppfnet: Global Context Aware Local Features for Robust 3d Point Matching
+<https://arxiv.org/abs/1802.02669>`_
+    | :authors:`Haowen, Deng, Tolga, Birdal, Slobodan, Ilic`
+    | :venue:`CVPR 2018`
+
+`Iterative Visual Reasoning Beyond Convolutions
+<https://arxiv.org/abs/1803.11189>`_
+    | :authors:`Xinlei, Chen, Li-Jia, Li, Li, Fei-Fei, Abhinav, Gupta`
+    | :venue:`CVPR 2018`
+
+`Surface Networks
+<https://arxiv.org/abs/1705.10819>`_
+    | :authors:`Ilya, Kostrikov, Zhongshi, Jiang, Daniele, Panozzo, Denis, Zorin, Joan, Bruna`
+    | :venue:`CVPR 2018`
+
+`Feastnet: Feature-steered Graph Convolutions for 3d Shape Analysis
+<https://arxiv.org/abs/1706.05206>`_
+    | :authors:`Nitika, Verma, Edmond, Boyer, Jakob, Verbeek`
+    | :venue:`CVPR 2018`
+
+`Learning to Act Properly: Predicting and Explaining Affordances From Images
+<https://arxiv.org/abs/1712.07576>`_
+    | :authors:`Ching-Yao, Chuang, Jiaman, Li, Antonio, Torralba, Sanja, Fidler`
+    | :venue:`CVPR 2018`
+
+`Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling
+<https://arxiv.org/abs/1712.06760>`_
+    | :authors:`Yiru, Shen, Chen, Feng, Yaoqing, Yang, Dong, Tian`
+    | :venue:`CVPR 2018`
+
+`Deformable Shape Completion With Graph Convolutional Autoencoders
+<https://arxiv.org/abs/1712.00268>`_
+    | :authors:`Or, Litany, Alex, Bronstein, Michael, Bronstein, Ameesh, Makadia`
+    | :venue:`CVPR 2018`
+
+SIGIR
+-----
+
+`Bine: Bipartite Network Embedding
+<https://dl.acm.org/citation.cfm?id=3209978.3209987>`_
+    | :authors:`Ming, Gao, Leihui, Chen, Xiangnan, He, Aoying, Zhou`
+    | :venue:`SIGIR 2018`
+
+Bioinformatics
+--------------
+
+`Modeling Polypharmacy Side Effects with Graph Convolutional Networks
+<https://arxiv.org/abs/1802.00543>`_
+    | :authors:`Marinka, Zitnik, Monica, Agrawal, Jure, Leskovec`
+    | :venue:`Bioinformatics 2018`
+
+`Neodti: Neural Integration of Neighbor Information from a Heterogeneous Network for Discovering New
+<https://academic.oup.com/bioinformatics/article-abstract/35/1/104/5047760?redirectedFrom=fulltext>`_
+    | :authors:`Fangping, Wan, Lixiang, Hong, An, Xiao, Tao, Jiang, Jianyang, Zeng`
+    | :venue:`Bioinformatics 2018`
 
 AAAI
 ----
@@ -498,6 +756,29 @@ AAAI
     | :authors:`Sam, Toyer, Felipe, Trevizan, Sylvie, Thiebaux, Lexing, Xie`
     | :venue:`AAAI 2018`
 
+IJCAI
+-----
+
+`Anrl: Attributed Network Representation Learning via Deep Neural Networks
+<https://www.ijcai.org/proceedings/2018/438>`_
+    | :authors:`Zhen, Zhang, Hongxia, Yang, Jiajun, Bu, Sheng, Zhou, Pinggang, Yu, Jianwei, Zhang, Martin, Ester, Can, Wang`
+    | :venue:`IJCAI 2018`
+
+`Efficient Attributed Network Embedding via Recursive Randomized Hashing
+<https://www.ijcai.org/proceedings/2018/397>`_
+    | :authors:`Wei, Wu, Bin, Li, Ling, Chen, Chengqi, Zhang`
+    | :venue:`IJCAI 2018`
+
+`Deep Attributed Network Embedding
+<https://www.ijcai.org/proceedings/2018/467>`_
+    | :authors:`Hongchang, Gao, Heng, Huang`
+    | :venue:`IJCAI 2018`
+
+`Dynamic Network Embedding : An Extended Approach for Skip-gram Based Network Embedding
+<https://www.ijcai.org/proceedings/2018/0288.pdf>`_
+    | :authors:`Lun, Du, Yun, Wang, Guojie, Song, Zhicong, Lu, Junshan, Wang`
+    | :venue:`IJCAI 2018`
+
 ACL
 ---
 
@@ -516,74 +797,54 @@ ACL
     | :authors:`Daniel, Beck, Gholamreza, Haffari, Trevor, Cohn`
     | :venue:`ACL 2018`
 
-Bioinformatics
---------------
+KDD
+---
 
-`Modeling Polypharmacy Side Effects with Graph Convolutional Networks
-<https://arxiv.org/abs/1802.00543>`_
-    | :authors:`Marinka, Zitnik, Monica, Agrawal, Jure, Leskovec`
-    | :venue:`Bioinformatics 2018`
+`Learning Structural Node Embeddings via Diffusion Wavelets
+<https://arxiv.org/pdf/1710.10321>`_
+    | :authors:`Claire, Donnat, Marinka, Zitnik, David, Hallac, Jure, Leskovec`
+    | :venue:`KDD 2018`
 
-`Neodti: Neural Integration of Neighbor Information from a Heterogeneous Network for Discovering New
-<https://academic.oup.com/bioinformatics/article-abstract/35/1/104/5047760?redirectedFrom=fulltext>`_
-    | :authors:`Fangping, Wan, Lixiang, Hong, An, Xiao, Tao, Jiang, Jianyang, Zeng`
-    | :venue:`Bioinformatics 2018`
+`Pme: Projected Metric Embedding on Heterogeneous Networks for Link Prediction
+<https://dl.acm.org/citation.cfm?id=3219986>`_
+    | :authors:`Hongxu, Chen, Hongzhi, Yin, Weiqing, Wang, Hao, Wang, Quoc, Viet, Hung, Nguyen, Xue, Li`
+    | :venue:`KDD 2018`
 
-COLING
-------
+`Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks
+<https://arxiv.org/pdf/1807.03490>`_
+    | :authors:`Yu, Shi, Qi, Zhu, Fang, Guo, Chao, Zhang, Jiawei, Han`
+    | :venue:`KDD 2018`
 
-`Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering
-<https://aclweb.org/anthology/C18-1280>`_
-    | :authors:`Daniil, Sorokin, Iryna, Gurevych`
-    | :venue:`COLING 2018`
+`Dynamic Embeddings for User Profiling in Twitter
+<https://dl.acm.org/citation.cfm?id=3219819.3220043>`_
+    | :authors:`Shangsong, Liang, Xiangliang, Zhang, Zhaochun, Ren, Evangelos, Kanoulas`
+    | :venue:`KDD 2018`
 
-CVPR
-----
+`Large-scale Learnable Graph Convolutional Networks
+<https://arxiv.org/pdf/1808.03965>`_
+    | :authors:`Hongyang, Gao, Zhengyang, Wang, Shuiwang, Ji`
+    | :venue:`KDD 2018`
 
-`Image Generation from Scene Graphs
-<https://arxiv.org/abs/1804.01622>`_
-    | :authors:`Justin, Johnson, Agrim, Gupta, Li, Fei-Fei`
-    | :venue:`CVPR 2018`
+`Graph Convolutional Neural Networks for Web-scale Recommender Systems
+<https://arxiv.org/pdf/1806.01973.pdf>`_
+    | :authors:`Rex, Ying, Ruining, He, Kaifeng, Chen, Pong, Eksombatchai, William, L., Hamilton, Jure, Leskovec`
+    | :venue:`KDD 2018`
+    | :keywords:`P, i, n, S, a, g, e`
 
-`Foldingnet: Point Cloud Auto-encoder via Deep Grid Deformation
-<https://arxiv.org/abs/1712.07262>`_
-    | :authors:`Yaoqing, Yang, Chen, Feng, Yiru, Shen, Dong, Tian`
-    | :venue:`CVPR 2018`
+`Graph Convolutional Matrix Completion
+<https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf>`_
+    | :authors:`Rianne, van, den, Berg, Thomas, N., Kipf, Max, Welling`
+    | :venue:`KDD 2018 Workshop`
 
-`Ppfnet: Global Context Aware Local Features for Robust 3d Point Matching
-<https://arxiv.org/abs/1802.02669>`_
-    | :authors:`Haowen, Deng, Tolga, Birdal, Slobodan, Ilic`
-    | :venue:`CVPR 2018`
+`Deepinf: Social Influence Prediction with Deep Learning
+<https://arxiv.org/pdf/1807.05560.pdf>`_
+    | :authors:`Jiezhong, Qiu, Jian, Tang, Hao, Ma, Yuxiao, Dong, Kuansan, Wang, Jie, Tang`
+    | :venue:`KDD 2018`
 
-`Iterative Visual Reasoning Beyond Convolutions
-<https://arxiv.org/abs/1803.11189>`_
-    | :authors:`Xinlei, Chen, Li-Jia, Li, Li, Fei-Fei, Abhinav, Gupta`
-    | :venue:`CVPR 2018`
-
-`Surface Networks
-<https://arxiv.org/abs/1705.10819>`_
-    | :authors:`Ilya, Kostrikov, Zhongshi, Jiang, Daniele, Panozzo, Denis, Zorin, Joan, Bruna`
-    | :venue:`CVPR 2018`
-
-`Feastnet: Feature-steered Graph Convolutions for 3d Shape Analysis
-<https://arxiv.org/abs/1706.05206>`_
-    | :authors:`Nitika, Verma, Edmond, Boyer, Jakob, Verbeek`
-    | :venue:`CVPR 2018`
-
-`Learning to Act Properly: Predicting and Explaining Affordances From Images
-<https://arxiv.org/abs/1712.07576>`_
-    | :authors:`Ching-Yao, Chuang, Jiaman, Li, Antonio, Torralba, Sanja, Fidler`
-    | :venue:`CVPR 2018`
-
-`Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling
-<https://arxiv.org/abs/1712.06760>`_
-    | :authors:`Yiru, Shen, Chen, Feng, Yaoqing, Yang, Dong, Tian`
-    | :venue:`CVPR 2018`
-
-`Deformable Shape Completion With Graph Convolutional Autoencoders
-<https://arxiv.org/abs/1712.00268>`_
-    | :authors:`Or, Litany, Alex, Bronstein, Michael, Bronstein, Ameesh, Makadia`
-    | :venue:`CVPR 2018`
+`Adversarial Attacks on Neural Networks for Graph Data
+<https://arxiv.org/abs/1805.07984>`_
+    | :authors:`Daniel, Zügner, Amir, Akbarnejad, Stephan, Günnemann`
+    | :venue:`KDD 2018`
 
 ECCV
 ----
@@ -646,6 +907,11 @@ EMNLP
     | :authors:`Yuhao, Zhang, Peng, Qi, Christopher, D., Manning`
     | :venue:`EMNLP 2018`
 
+`Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
+<https://www.aclweb.org/anthology/D18-1032.pdf>`_
+    | :authors:`Zhichun, Wang, Qingsong, Lv, Xiaohan, Lan, Yu, Zhang`
+    | :venue:`EMNLP 2018`
+
 ICDM
 ----
 
@@ -653,187 +919,6 @@ ICDM
 <https://www.semanticscholar.org/paper/Meta-Graph-Based-HIN-Spectral-Embedding%3A-Methods%2C-Yang-Feng/4d5f4d6785d550383e3f3afb04c3015bf0d28405>`_
     | :authors:`Carl, Yang, Yichen, Feng, Pan, Li, Yu, Shi, Jiawei, Han`
     | :venue:`ICDM 2018`
-
-ICLR
-----
-
-`Graph Attention Networks
-<https://arxiv.org/pdf/1710.10903>`_
-    | :authors:`Petar, Veličković, Guillem, Cucurull, Arantxa, Casanova, Adriana, Romero, Pietro, Liò, Yoshua, Bengio`
-    | :venue:`ICLR 2018`
-
-`Fastgcn: Fast Learning with Graph Convolutional Networks via Importance Sampling
-<https://arxiv.org/pdf/1801.10247>`_
-    | :authors:`Jie, Chen, Tengfei, Ma, Cao, Xiao`
-    | :venue:`ICLR 2018`
-
-`Qanet: Combining Local Convolution with Global Self-attention for Reading Comprehension
-<https://arxiv.org/pdf/1804.09541.pdf>`_
-    | :authors:`Adams, Wei, Yu, David, Dohan, Minh-Thang, Luong, Rui, Zhao, Kai, Chen, Mohammad, Norouzi, Quoc, V., Le`
-    | :venue:`ICLR 2018`
-
-`A Structured Self-attentive Sentence Embedding
-<https://arxiv.org/pdf/1703.03130.pdf>`_
-    | :authors:`Zhouhan, Lin, Minwei, Feng, Cicero, Nogueira, dos, Santos, Mo, Yu, Bing, Xiang, Bowen, Zhou, Yoshua, Bengio`
-    | :venue:`ICLR 2018`
-
-`Nervenet: Learning Structured Policy with Graph Neural Networks
-<https://openreview.net/pdf?id=S1sqHMZCb>`_
-    | :authors:`Tingwu, Wang, Renjie, Liao, Jimmy, Ba, Sanja, Fidler`
-    | :venue:`ICLR 2018`
-
-`Few-shot Learning with Graph Neural Networks
-<https://arxiv.org/abs/1711.04043>`_
-    | :authors:`Victor, Garcia, Joan, Bruna`
-    | :venue:`ICLR 2018`
-
-ICML
-----
-
-`Representation Learning on Graphs with Jumping Knowledge Networks
-<https://arxiv.org/pdf/1806.03536>`_
-    | :authors:`Keyulu, Xu, Chengtao, Li, Yonglong, Tian, Tomohiro, Sonobe, Ken-ichi, Kawarabayashi, Stefanie, Jegelka`
-    | :venue:`ICML 2018`
-
-`Stochastic Training of Graph Convolutional Networks with Variance Reduction
-<https://arxiv.org/pdf/1710.10568>`_
-    | :authors:`Jianfei, Chen, Jun, Zhu, Le, Song`
-    | :venue:`ICML 2018`
-
-`Graph Networks As Learnable Physics Engines for Inference and Control
-<https://arxiv.org/pdf/1806.01242.pdf>`_
-    | :authors:`Alvaro, Sanchez-Gonzalez, Nicolas, Heess, Jost, Tobias, Springenberg, Josh, Merel, Martin, Riedmiller`
-    | :venue:`ICML 2018`
-
-`Learning Policy Representations in Multiagent Systems
-<https://arxiv.org/pdf/1806.06464.pdf>`_
-    | :authors:`Aditya, Grover, Maruan, Al-Shedivat, Jayesh, K., Gupta, Yura, Burda, Harrison, Edwards`
-    | :venue:`ICML 2018`
-
-`Adversarial Attack on Graph Structured Data
-<https://arxiv.org/abs/1806.02371>`_
-    | :authors:`Hanjun, Dai, Hui, Li, Tian, Tian, Xin, Huang, Lin, Wang, Jun, Zhu, Le, Song`
-    | :venue:`ICML 2018`
-
-`Learning Steady-states of Iterative Algorithms over Graphs
-<http://proceedings.mlr.press/v80/dai18a.html>`_
-    | :authors:`Hanjun, Dai, Zornitsa, Kozareva, Bo, Dai, Alex, Smola, Le, Song`
-    | :venue:`ICML 2018`
-
-`Neural Relational Inference for Interacting Systems
-<https://arxiv.org/abs/1802.04687>`_
-    | :authors:`Thomas, Kipf, Ethan, Fetaya, Kuan-Chieh, Wang, Max, Welling, Richard, Zemel`
-    | :venue:`ICML 2018`
-
-`Graphrnn: Generating Realistic Graphs with Deep Auto-regressive Models
-<https://arxiv.org/abs/1802.08773>`_
-    | :authors:`Jiaxuan, You, Rex, Ying, Xiang, Ren, William, L., Hamilton, Jure, Leskovec`
-    | :venue:`ICML 2018`
-
-`Netgan: Generating Graphs via Random Walks
-<https://arxiv.org/abs/1803.00816>`_
-    | :authors:`Aleksandar, Bojchevski, Oleksandr, Shchur, Daniel, Zügner, Stephan, Günnemann`
-    | :venue:`ICML 2018`
-
-`Learning Deep Generative Models of Graphs
-<https://arxiv.org/abs/1803.03324>`_
-    | :authors:`Yujia, Li, Oriol, Vinyals, Chris, Dyer, Razvan, Pascanu, Peter, Battaglia`
-    | :venue:`ICML 2018`
-
-`Junction Tree Variational Autoencoder for Molecular Graph Generation
-<https://arxiv.org/abs/1802.04364>`_
-    | :authors:`Wengong, Jin, Regina, Barzilay, Tommi, Jaakkola`
-    | :venue:`ICML 2018`
-
-IJCAI
------
-
-`Anrl: Attributed Network Representation Learning via Deep Neural Networks
-<https://www.ijcai.org/proceedings/2018/438>`_
-    | :authors:`Zhen, Zhang, Hongxia, Yang, Jiajun, Bu, Sheng, Zhou, Pinggang, Yu, Jianwei, Zhang, Martin, Ester, Can, Wang`
-    | :venue:`IJCAI 2018`
-
-`Efficient Attributed Network Embedding via Recursive Randomized Hashing
-<https://www.ijcai.org/proceedings/2018/397>`_
-    | :authors:`Wei, Wu, Bin, Li, Ling, Chen, Chengqi, Zhang`
-    | :venue:`IJCAI 2018`
-
-`Deep Attributed Network Embedding
-<https://www.ijcai.org/proceedings/2018/467>`_
-    | :authors:`Hongchang, Gao, Heng, Huang`
-    | :venue:`IJCAI 2018`
-
-`Dynamic Network Embedding : An Extended Approach for Skip-gram Based Network Embedding
-<https://www.ijcai.org/proceedings/2018/0288.pdf>`_
-    | :authors:`Lun, Du, Yun, Wang, Guojie, Song, Zhicong, Lu, Junshan, Wang`
-    | :venue:`IJCAI 2018`
-
-KDD
----
-
-`Learning Structural Node Embeddings via Diffusion Wavelets
-<https://arxiv.org/pdf/1710.10321>`_
-    | :authors:`Claire, Donnat, Marinka, Zitnik, David, Hallac, Jure, Leskovec`
-    | :venue:`KDD 2018`
-
-`Pme: Projected Metric Embedding on Heterogeneous Networks for Link Prediction
-<https://dl.acm.org/citation.cfm?id=3219986>`_
-    | :authors:`Hongxu, Chen, Hongzhi, Yin, Weiqing, Wang, Hao, Wang, Quoc, Viet, Hung, Nguyen, Xue, Li`
-    | :venue:`KDD 2018`
-
-`Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks
-<https://arxiv.org/pdf/1807.03490>`_
-    | :authors:`Yu, Shi, Qi, Zhu, Fang, Guo, Chao, Zhang, Jiawei, Han`
-    | :venue:`KDD 2018`
-
-`Dynamic Embeddings for User Profiling in Twitter
-<https://dl.acm.org/citation.cfm?id=3219819.3220043>`_
-    | :authors:`Shangsong, Liang, Xiangliang, Zhang, Zhaochun, Ren, Evangelos, Kanoulas`
-    | :venue:`KDD 2018`
-
-`Large-scale Learnable Graph Convolutional Networks
-<https://arxiv.org/pdf/1808.03965>`_
-    | :authors:`Hongyang, Gao, Zhengyang, Wang, Shuiwang, Ji`
-    | :venue:`KDD 2018`
-
-`Graph Convolutional Neural Networks for Web-scale Recommender Systems
-<https://arxiv.org/pdf/1806.01973.pdf>`_
-    | :authors:`Rex, Ying, Ruining, He, Kaifeng, Chen, Pong, Eksombatchai, William, L., Hamilton, Jure, Leskovec`
-    | :venue:`KDD 2018`
-    | :keywords:`P, i, n, S, a, g, e`
-
-`Graph Convolutional Matrix Completion
-<https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf>`_
-    | :authors:`Rianne, van, den, Berg, Thomas, N., Kipf, Max, Welling`
-    | :venue:`KDD 2018 Workshop`
-
-`Deepinf: Social Influence Prediction with Deep Learning
-<https://arxiv.org/pdf/1807.05560.pdf>`_
-    | :authors:`Jiezhong, Qiu, Jian, Tang, Hao, Ma, Yuxiao, Dong, Kuansan, Wang, Jie, Tang`
-    | :venue:`KDD 2018`
-
-`Adversarial Attacks on Neural Networks for Graph Data
-<https://arxiv.org/abs/1805.07984>`_
-    | :authors:`Daniel, Zügner, Amir, Akbarnejad, Stephan, Günnemann`
-    | :venue:`KDD 2018`
-
-NAACL
------
-
-`Kbgan: Adversarial Learning for Knowledge Graph Embeddings
-<https://arxiv.org/abs/1711.04071>`_
-    | :authors:`Liwei, Cai, William, Yang, Wang`
-    | :venue:`NAACL 2018`
-
-`A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network
-<https://aclweb.org/anthology/papers/N/N18/N18-2053/>`_
-    | :authors:`Dai, Quoc, Nguyen, Tu, Dinh, Nguyen, Dat, Quoc, Nguyen, Dinh, Phung`
-    | :venue:`NAACL 2018`
-
-`Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
-<https://www.aclweb.org/anthology/N18-2078>`_
-    | :authors:`Diego, Marcheggiani, Joost, Bastings, Ivan, Titov`
-    | :venue:`NAACL 2018`
 
 NeurIPS
 -------
@@ -923,280 +1008,8 @@ NeurIPS
     | :authors:`Qi, Liu, Miltiadis, Allamanis, Marc, Brockschmidt, Alexander, L., Gaunt`
     | :venue:`NeurIPS 2018`
 
-SIGIR
------
-
-`Bine: Bipartite Network Embedding
-<https://dl.acm.org/citation.cfm?id=3209978.3209987>`_
-    | :authors:`Ming, Gao, Leihui, Chen, Xiangnan, He, Aoying, Zhou`
-    | :venue:`SIGIR 2018`
-
-WSDM
-----
-
-`Network Embedding As Matrix Factorization: Unifying Deepwalk, Line, Pte, and Node2vec
-<https://arxiv.org/pdf/1710.02971>`_
-    | :authors:`Jiezhong, Qiu, Yuxiao, Dong, Hao, Ma, Jian, Li, Kuansan, Wang, Jie, Tang`
-    | :venue:`WSDM 2018`
-
-`Exploring Expert Cognition for Attributed Network Embedding
-<https://dl.acm.org/citation.cfm?id=3159655>`_
-    | :authors:`Xiao, Huang, Qingquan, Song, Jundong, Li, Xia, Hu`
-    | :venue:`WSDM 2018`
-
-`Shine: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
-<https://arxiv.org/pdf/1712.00732>`_
-    | :authors:`Hongwei, Wang, Fuzheng, Zhang, Min, Hou, Xing, Xie, Minyi, Guo, Qi, Liu`
-    | :venue:`WSDM 2018`
-
-`Multidimensional Network Embedding with Hierarchical Structures
-<https://dl.acm.org/citation.cfm?id=3159680>`_
-    | :authors:`Yao, Ma, Zhaochun, Ren, Ziheng, Jiang, Jiliang, Tang, Dawei, Yin`
-    | :venue:`WSDM 2018`
-
-`Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning
-<https://dl.acm.org/citation.cfm?id=3159711>`_
-    | :authors:`Meng, Qu, Jian, Tang, Jiawei, Han`
-    | :venue:`WSDM 2018`
-
-WWW
----
-
-`Verse: Versatile Graph Embeddings from Similarity Measures
-<https://arxiv.org/pdf/1803.04742>`_
-    | :authors:`Anton, Tsitsulin, Davide, Mottin, Panagiotis, Karras, Emmanuel, Müller`
-    | :venue:`WWW 2018`
-
-`Co-regularized Deep Multi-network Embedding
-<https://dl.acm.org/citation.cfm?id=3186113>`_
-    | :authors:`Jingchao, Ni, Shiyu, Chang, Xiao, Liu, Wei, Cheng, Haifeng, Chen, Dongkuan, Xu, Xiang, Zhang`
-    | :venue:`WWW 2018`
-
-`Side: Representation Learning in Signed Directed Networks
-<https://dl.acm.org/citation.cfm?id=3186117>`_
-    | :authors:`Junghwan, Kim, Haekyu, Park, Ji-Eun, Lee, U, Kang`
-    | :venue:`WWW 2018`
-
-arXiv
------
-
-`Pitfalls of Graph Neural Network Evaluation
-<https://arxiv.org/pdf/1811.05868>`_
-    | :authors:`Oleksandr, Shchur, Maximilian, Mumme, Aleksandar, Bojchevski, Stephan, Günnemann`
-    | :venue:`arXiv 2018`
-
-`Molgan: An Implicit Generative Model for Small Molecular Graphs
-<https://arxiv.org/abs/1805.11973>`_
-    | :authors:`Nicola, De, Cao, Thomas, Kipf`
-    | :venue:`arXiv 2018`
-
 2019
 ====
-
-WSDM
-----
-
-`A General View for Network Embedding As Matrix Factorization
-<https://dl.acm.org/citation.cfm?id=3291029>`_
-    | :authors:`Xin, Liu, Tsuyoshi, Murata, Kyoung-Sook, Kim, Chatchawan, Kotarasu, Chenyi, Zhuang`
-    | :venue:`WSDM 2019`
-
-`Session-based Social Recommendation via Dynamic Graph Attention Networks
-<https://arxiv.org/pdf/1902.09362.pdf>`_
-    | :authors:`Weiping, Song, Zhiping, Xiao, Yifan, Wang, Laurent, Charlin, Ming, Zhang, Jian, Tang`
-    | :venue:`WSDM 2019`
-    | :keywords:`Social, recommendation, session-based, GAT`
-
-ICLR
-----
-
-`Deep Graph Infomax
-<https://arxiv.org/pdf/1809.10341>`_
-    | :authors:`Petar, Veličković, William, Fedus, William, L., Hamilton, Pietro, Liò, Yoshua, Bengio, R, Devon, Hjelm`
-    | :venue:`ICLR 2019`
-
-`Dyrep: Learning Representations over Dynamic Graphs
-<https://openreview.net/pdf?id=HyePrhR5KX>`_
-    | :authors:`Rakshit, Trivedi, Mehrdad, Farajtabar, Prasenjeet, Biswal, Hongyuan, Zha`
-    | :venue:`ICLR 2019`
-
-`Rotate: Knowledge Graph Embedding by Relational Rotation in Complex Space
-<https://arxiv.org/abs/1902.10197>`_
-    | :authors:`Zhiqing, Sun, Zhi-Hong, Deng, Jian-Yun, Nie, Jian, Tang`
-    | :venue:`ICLR 2019`
-
-`How Powerful Are Graph Neural Networks?
-<https://arxiv.org/pdf/1810.00826>`_
-    | :authors:`Keyulu, Xu, Weihua, Hu, Jure, Leskovec, Stefanie, Jegelka`
-    | :venue:`ICLR 2019`
-
-`Lanczosnet: Multi-scale Deep Graph Convolutional Networks
-<https://arxiv.org/pdf/1901.01484>`_
-    | :authors:`Renjie, Liao, Zhizhen, Zhao, Raquel, Urtasun, Richard, S., Zemel`
-    | :venue:`ICLR 2019`
-
-`Graph Wavelet Neural Network
-<https://arxiv.org/pdf/1904.07785>`_
-    | :authors:`Bingbing, Xu, Huawei, Shen, Qi, Cao, Yunqi, Qiu, Xueqi, Cheng`
-    | :venue:`ICLR 2019`
-
-`Supervised Community Detection with Line Graph Neural Networks
-<https://openreview.net/pdf?id=H1g0Z3A9Fm>`_
-    | :authors:`Zhengdao, Chen, Xiang, Li, Joan, Bruna`
-    | :venue:`ICLR 2019`
-
-`Predict Then Propagate: Graph Neural Networks Meet Personalized Pagerank
-<https://arxiv.org/pdf/1810.05997>`_
-    | :authors:`Johannes, Klicpera, Aleksandar, Bojchevski, Stephan, Günnemann`
-    | :venue:`ICLR 2019`
-
-`Invariant and Equivariant Graph Networks
-<https://arxiv.org/pdf/1812.09902>`_
-    | :authors:`Haggai, Maron, Heli, Ben-Hamu, Nadav, Shamir, Yaron, Lipman`
-    | :venue:`ICLR 2019`
-
-`Capsule Graph Neural Network
-<https://openreview.net/pdf?id=Byl8BnRcYm>`_
-    | :authors:`Zhang, Xinyi, Lihui, Chen`
-    | :venue:`ICLR 2019`
-
-`Differentiable Perturb-and-parse: Semi-supervised Parsing with a Structured Variational Autoencoder
-<https://openreview.net/pdf?id=BJlgNh0qKQ>`_
-    | :authors:`Caio, Corro, Ivan, Titov`
-    | :venue:`ICLR 2019`
-
-`Structured Neural Summarization
-<https://arxiv.org/pdf/1811.01824.pdf>`_
-    | :authors:`Patrick, Fernandes, Miltiadis, Allamanis, Marc, Brockschmid`
-    | :venue:`ICLR 2019`
-
-`Learning Localized Generative Models for 3d Point Clouds via Graph Convolution
-<https://openreview.net/forum?id=SJeXSo09FQ>`_
-    | :authors:`Diego, Valsesia, Giulia, Fracastoro, Enrico, Magli`
-    | :venue:`ICLR 2019`
-
-`Graph Hypernetworks for Neural Architecture Search
-<https://openreview.net/pdf?id=rkgW0oA9FX>`_
-    | :authors:`Chris, Zhang, Mengye, Ren, Raquel, Urtasun`
-    | :venue:`ICLR 2019`
-
-`Neural Graph Evolution: Towards Efficient Automatic Robot Design
-<https://openreview.net/pdf?id=BkgWHnR5tm>`_
-    | :authors:`Tingwu, Wang, Yuhao, Zhou, Sanja, Fidler, Jimmy, Ba`
-    | :venue:`ICLR 2019`
-
-`Adversarial Attacks on Graph Neural Networks via Meta Learning
-<https://arxiv.org/abs/1902.08412>`_
-    | :authors:`Daniel, Zügner, Stephan, Günnemann`
-    | :venue:`ICLR 2019`
-
-`Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning
-<https://arxiv.org/abs/1805.10002>`_
-    | :authors:`Yanbin, Liu, Juho, Lee, Minseop, Park, Saehoon, Kim, Eunho, Yang, Sung, Ju, Hwang, Yi, Yang`
-    | :venue:`ICLR 2019`
-
-`Learning Multimodal Graph-to-graph Translation for Molecule Optimization
-<https://arxiv.org/abs/1812.01070>`_
-    | :authors:`Wengong, Jin, Kevin, Yang, Regina, Barzilay, Tommi, Jaakkola`
-    | :venue:`ICLR 2019`
-
-`Generative Code Modeling with Graphs
-<https://openreview.net/forum?id=Bke4KsA5FX>`_
-    | :authors:`Marc, Brockschmidt, Miltiadis, Allamanis, Alexander, L., Gaunt, Oleksandr, Polozov`
-    | :venue:`ICLR 2019`
-
-`Graphtsne: A Visualization Technique for Graph-structured Data
-<https://arxiv.org/pdf/1904.06915.pdf>`_
-    | :authors:`Yao, Yang, Leow, Thomas, Laurent, Xavier, Bresson`
-    | :venue:`ICLR 2019 Workshop`
-
-WWW
----
-
-`Netsmf: Large-scale Network Embedding As Sparse Matrix Factorization
-<http://keg.cs.tsinghua.edu.cn/jietang/publications/www19-Qiu-et-al-NetSMF-Large-Scale-Network-Embedding.pdf>`_
-    | :authors:`Jiezhong, Qiu, Yuxiao, Dong, Hao, Ma, Jian, Li, Chi, Wang, Kuansan, Wang, Jie, Tang`
-    | :venue:`WWW 2019`
-
-`Adversarial Training Methods for Network Embedding
-<https://dl.acm.org/citation.cfm?id=3313445>`_
-    | :authors:`Quanyu, Dai, Xiao, Shen, Liang, Zhang, Qiang, Li, Dan, Wang`
-    | :venue:`WWW 2019`
-
-`Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning
-<https://arxiv.org/abs/1903.08948>`_
-    | :authors:`Wen, Zhang, Bibek, Paudel, Liang, Wang, Jiaoyan, Chen, Hai, Zhu, Wei, Zhang, Abraham, Bernstein, Huajun, Chen`
-    | :venue:`WWW 2019`
-
-`Heterogeneous Graph Attention Network
-<https://arxiv.org/pdf/1903.07293>`_
-    | :authors:`Xiao, Wang, Houye, Ji, Chuan, Shi, Bai, Wang, Peng, Cui, P., Yu, Yanfang, Ye`
-    | :venue:`WWW 2019`
-
-`Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations
-<https://arxiv.org/pdf/1901.06965.pdf>`_
-    | :authors:`Hongyang, Gao, Yongjun, Chen, Shuiwang, Ji`
-    | :venue:`WWW 2019`
-
-`Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in
-<https://arxiv.org/pdf/1903.10433.pdf>`_
-    | :authors:`Qitian, Wu, Hengrui, Zhang, Xiaofeng, Gao, Peng, He, Paul, Weng, Han, Gao, Guihai, Chen`
-    | :venue:`WWW 2019`
-    | :keywords:`Social, recommendation, GAT`
-
-`Graph Neural Networks for Social Recommendation
-<https://arxiv.org/pdf/1902.07243.pdf>`_
-    | :authors:`Wenqi, Fan, Yao, Ma, Qing, Li, Yuan, He, Eric, Zhao, Jiliang, Tang, Dawei, Yin`
-    | :venue:`WWW 2019`
-    | :keywords:`Social, recommendation, GNN`
-
-`Graphvite: A High-performance Cpu-gpu Hybrid System for Node Embedding
-<https://arxiv.org/pdf/1903.00757>`_
-    | :authors:`Zhaocheng, Zhu, Shizhen, Xu, Meng, Qu, Jian, Tang`
-    | :venue:`WWW 2019`
-
-arXiv
------
-
-`Probabilistic Logic Neural Networks for Reasoning
-<https://arxiv.org/pdf/1906.08495.pdf>`_
-    | :authors:`Meng, Qu, Jian, Tang`
-    | :venue:`arXiv 2019`
-
-`Brain Signal Classification via Learning Connectivity Structure
-<https://arxiv.org/abs/1905.11678>`_
-    | :authors:`Soobeom, Jang, Seong-Eun, Moon, Jong-Seok, Lee`
-    | :venue:`arXiv 2019`
-
-`A Flexible Generative Framework for Graph-based Semi-supervised Learning
-<https://arxiv.org/abs/1905.10769>`_
-    | :authors:`Jiaqi, Ma, Weijing, Tang, Ji, Zhu, Qiaozhu, Mei`
-    | :venue:`arXiv 2019`
-
-`Joint Embedding of Structure and Features via Graph Convolutional Networks
-<https://arxiv.org/abs/1905.08636>`_
-    | :authors:`Sébastien, Lerique, Jacob, Levy, Abitbol, Márton, Karsai`
-    | :venue:`arXiv 2019`
-
-`Variational Spectral Graph Convolutional Networks
-<https://arxiv.org/abs/1906.01852>`_
-    | :authors:`Louis, Tiao, Pantelis, Elinas, Harrison, Nguyen, Edwin, V., Bonilla`
-    | :venue:`arXiv 2019`
-
-`Selfies: a Robust Representation of Semantically Constrained Graphs with an Example Application in Chemistry
-<https://arxiv.org/pdf/1905.13741.pdf>`_
-    | :authors:`Mario, Krenn, Florian, Häse, AkshatKumar, Nigam, Pascal, Friederich, Alán, Aspuru-Guzik`
-    | :venue:`arXiv 2019`
-
-`Drug-drug Adverse Effect Prediction with Graph Co-attention
-<https://arxiv.org/pdf/1905.00534.pdf>`_
-    | :authors:`Andreea, Deac, Yu-Hsiang, Huang, Petar, Veličković, Pietro, Liò, Jian, Tang`
-    | :venue:`arXiv 2019`
-
-`Detecting Drug-drug Interactions Using Artificial Neural Networks and Classic Graph Similarity Measures
-<https://arxiv.org/pdf/1903.04571.pdf>`_
-    | :authors:`Guy, Shtar, Lior, Rokach, Bracha, Shapira`
-    | :venue:`arXiv 2019`
 
 AAAI
 ----
@@ -1226,215 +1039,6 @@ AAAI
 <https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4160/4038>`_
     | :authors:`Maarten, Sap, Ronan, Le, Bras, Emily, Allaway, Chandra, Bhagavatula, Nicholas, Lourie, Hannah, Rashkin, Brendan, Roof, Noah, A., Smith, Yejin, Choi`
     | :venue:`AAAI 2019`
-
-ICML
-----
-
-`Mixhop: Higher-order Graph Convolutional Architectures via Sparsified Neighborhood Mixing
-<https://arxiv.org/pdf/1905.00067>`_
-    | :authors:`Sami, Abu-El-Haija, Bryan, Perozzi, Amol, Kapoor, Nazanin, Alipourfard, Kristina, Lerman, Hrayr, Harutyunyan, Greg, Ver, Steeg, Aram, Galstyan`
-    | :venue:`ICML 2019`
-
-`Graph U-nets
-<https://arxiv.org/pdf/1905.05178>`_
-    | :authors:`Hongyang, Gao, Shuiwang, Ji`
-    | :venue:`ICML 2019`
-
-`Disentangled Graph Convolutional Networks
-<http://proceedings.mlr.press/v97/ma19a/ma19a.pdf>`_
-    | :authors:`Jianxin, Ma, Peng, Cui, Kun, Kuang, Xin, Wang, Wenwu, Zhu`
-    | :venue:`ICML 2019`
-
-`Gmnn: Graph Markov Neural Networks
-<https://arxiv.org/pdf/1905.06214>`_
-    | :authors:`Meng, Qu, Yoshua, Bengio, Jian, Tang`
-    | :venue:`ICML 2019`
-
-`Simplifying Graph Convolutional Networks
-<https://arxiv.org/pdf/1902.07153>`_
-    | :authors:`Felix, Wu, Tianyi, Zhang, Amauri, Holanda, de, Souza, Jr., Christopher, Fifty, Tao, Yu, Kilian, Q., Weinberger`
-    | :venue:`ICML 2019`
-
-`Position-aware Graph Neural Networks
-<https://arxiv.org/pdf/1906.04817>`_
-    | :authors:`Jiaxuan, You, Rex, Ying, Jure, Leskovec`
-    | :venue:`ICML 2019`
-
-`Self-attention Graph Pooling
-<https://arxiv.org/pdf/1904.08082>`_
-    | :authors:`Junhyun, Lee, Inyeop, Lee, Jaewoo, Kang`
-    | :venue:`ICML 2019`
-
-`Relational Pooling for Graph Representations
-<https://arxiv.org/pdf/1903.02541>`_
-    | :authors:`Ryan, L., Murphy, Balasubramaniam, Srinivasan, Vinayak, Rao, Bruno, Ribeiro`
-    | :venue:`ICML 2019`
-
-`Graph Learning Network: A Structure Learning Algorithm
-<https://arxiv.org/abs/1905.12665>`_
-    | :authors:`Darwin, Saire, Pilco, Adín, Ramírez, Rivera`
-    | :venue:`ICML 2019 Workshop`
-
-`Learning Discrete Structures for Graph Neural Networks
-<https://arxiv.org/abs/1903.11960>`_
-    | :authors:`Luca, Franceschi, Mathias, Niepert, Massimiliano, Pontil, Xiao, He`
-    | :venue:`ICML 2019`
-
-`Graphite: Iterative Generative Modeling of Graphs
-<https://arxiv.org/abs/1803.10459>`_
-    | :authors:`Aditya, Grover, Aaron, Zweig, Stefano, Ermon`
-    | :venue:`ICML 2019`
-
-`Dag-gnn: Dag Structure Learning with Graph Neural Networks
-<https://arxiv.org/abs/1904.10098>`_
-    | :authors:`Yue, Yu, Jie, Chen, Tian, Gao, Mo, Yu`
-    | :venue:`ICML 2019`
-
-NAACL
------
-
-`Imposing Label-relational Inductive Bias for Extremely Fine-grained Entity Typing
-<https://arxiv.org/pdf/1903.02591.pdf>`_
-    | :authors:`Wenhan, Xiong, Jiawei, Wu, Deren, Lei, Mo, Yu, Shiyu, Chang, Xiaoxiao, Guo, William, Yang, Wang`
-    | :venue:`NAACL 2019`
-
-`Single Document Summarization As Tree Induction
-<https://www.aclweb.org/anthology/N19-1173>`_
-    | :authors:`Yang, Liu, Ivan, Titov, Mirella, Lapata`
-    | :venue:`NAACL 2019`
-
-`Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks
-<https://arxiv.org/pdf/1903.01306.pdf>`_
-    | :authors:`Ningyu, Zhang, Shumin, Deng, Zhanlin, Sun, Guanying, Wang, Xi, Chen, Wei, Zhang, Huajun, Chen`
-    | :venue:`NAACL 2019`
-
-CVPR
-----
-
-`Graph-based Global Reasoning Networks
-<https://arxiv.org/abs/1811.12814>`_
-    | :authors:`Yunpeng, Chen, Marcus, Rohrbach, Zhicheng, Yan, Shuicheng, Yan, Jiashi, Feng, Yannis, Kalantidis`
-    | :venue:`CVPR 2019`
-
-`Deep Graph Laplacian Regularization for Robust Denoising of Real Images
-<https://arxiv.org/abs/1807.11637>`_
-    | :authors:`Jin, Zeng, Jiahao, Pang, Wenxiu, Sun, Gene, Cheung`
-    | :venue:`CVPR 2019`
-
-`Learning Context Graph for Person Search
-<https://arxiv.org/abs/1904.01830>`_
-    | :authors:`Yichao, Yan, Qiang, Zhang, Bingbing, Ni, Wendong, Zhang, Minghao, Xu, Xiaokang, Yang`
-    | :venue:`CVPR 2019`
-
-`Graphonomy: Universal Human Parsing via Graph Transfer Learning
-<https://arxiv.org/abs/1904.04536>`_
-    | :authors:`Ke, Gong, Yiming, Gao, Xiaodan, Liang, Xiaohui, Shen, Meng, Wang, Liang, Lin`
-    | :venue:`CVPR 2019`
-
-`Masked Graph Attention Network for Person Re-identification
-<http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Bao_Masked_Graph_Attention_Network_for_Person_Re-Identification_CVPRW_2019_paper.pdf>`_
-    | :authors:`Liqiang, Bao, Bingpeng, Ma, Hong, Chang, Xilin, Chen`
-    | :venue:`CVPR 2019`
-
-`Learning to Cluster Faces on an Affinity Graph
-<https://arxiv.org/abs/1904.02749>`_
-    | :authors:`Lei, Yang, Xiaohang, Zhan, Dapeng, Chen, Junjie, Yan, Chen, Change, Loy, Dahua, Lin`
-    | :venue:`CVPR 2019`
-
-`Actional-structural Graph Convolutional Networks for Skeleton-based Action Recognition
-<https://arxiv.org/abs/1904.12659>`_
-    | :authors:`Maosen, Li, Siheng, Chen, Xu, Chen, Ya, Zhang, Yanfeng, Wang, Qi, Tian`
-    | :venue:`CVPR 2019`
-
-`Adaptively Connected Neural Networks
-<https://arxiv.org/abs/1904.03579>`_
-    | :authors:`Guangrun, Wang, Keze, Wang, Liang, Lin`
-    | :venue:`CVPR 2019`
-
-`Reasoning Visual Dialogs with Structural and Partial Observations
-<https://arxiv.org/abs/1904.03579>`_
-    | :authors:`Zilong, Zheng, Wenguan, Wang, Siyuan, Qi, Song-Chun, Zhu`
-    | :venue:`CVPR 2019`
-
-SIGGRAPH
---------
-
-`Meshcnn: A Network with an Edge
-<https://arxiv.org/pdf/1809.05910.pdf>`_
-    | :authors:`Rana, Hanocka, Amir, Hertz, Noa, Fish, Raja, Giryes, Shachar, Fleishman, Daniel, Cohen-Or`
-    | :venue:`SIGGRAPH 2019`
-    | :keywords:`h, t, t, p, s, :, /, /, r, a, n, a, h, a, n, o, c, k, a, ., g, i, t, h, u, b, ., i, o, /, M, e, s, h, C, N, N, /`
-
-SIGIR
------
-
-`A Neural Influence Diffusion Model for Social Recommendation
-<https://arxiv.org/pdf/1904.10322.pdf>`_
-    | :authors:`Le, Wu, Peijie, Sun, Yanjie, Fu, Richang, Hong, Xiting, Wang, Meng, Wang`
-    | :venue:`SIGIR 2019`
-    | :keywords:`Social, Recommendation, diffusion`
-
-`Neural Graph Collaborative Filtering
-<https://arxiv.org/pdf/1905.08108.pdf>`_
-    | :authors:`Xiang, Wang, Xiangnan, He, Meng, Wang, Fuli, Feng, Tat-Seng, Chua`
-    | :venue:`SIGIR 2019`
-    | :keywords:`Collaborative, Filtering, GNN`
-
-IJCAI
------
-
-`Binarized Collaborative Filtering with Distilling Graph Convolutional Networks
-<https://arxiv.org/pdf/1906.01829.pdf>`_
-    | :authors:`Haoyu, Wang, Defu, Lian, Yong, Ge`
-    | :venue:`IJCAI 2019`
-
-bioRxiv
--------
-
-`Pgcn: Disease Gene Prioritization by Disease and Gene Embedding through Graph Convolutional Neural Networks
-<https://www.biorxiv.org/content/biorxiv/early/2019/01/28/532226.full.pdf>`_
-    | :authors:`Yu, Li, Hiroyuki, Kuwahara, Peng, Yang, Le, Song, Xin, Gao`
-    | :venue:`bioRxiv 2019`
-
-ICSC
-----
-
-`Identifying Protein-protein Interaction Using Tree Lstm and Structured Attention
-<https://ieeexplore.ieee.org/abstract/document/8665584>`_
-    | :authors:`Mahtab, Ahmed, Jumayel, Islam, Muhammad, Rifayat, Samee, Robert, E., Mercer`
-    | :venue:`ICSC 2019`
-
-Nature
-------
-
-`Towards Perturbation Prediction of Biological Networks Using Deep Learning
-<https://www.nature.com/articles/s41598-019-48391-y>`_
-    | :authors:`Diya, Li, Jianxi, Gao`
-    | :venue:`Nature 2019`
-
-AISTATS
--------
-
-`Graph to Graph: a Topology Aware Approach for Graph Structures Learning and Generation
-<http://proceedings.mlr.press/v89/sun19c.html>`_
-    | :authors:`Mingming, Sun, Ping, Li`
-    | :venue:`AISTATS 2019`
-
-SysML
------
-
-`Pytorch-biggraph: A Large-scale Graph Embedding System
-<https://arxiv.org/pdf/1903.12287>`_
-    | :authors:`Adam, Lerer, Ledell, Wu, Jiajun, Shen, Timothee, Lacroix, Luca, Wehrstedt, Abhijit, Bose, Alex, Peysakhovich`
-    | :venue:`SysML 2019`
-
-VLDB
-----
-
-`Aligraph: A Comprehensive Graph Neural Network Platform
-<https://arxiv.org/pdf/1902.08730>`_
-    | :authors:`Rong, Zhu, Kun, Zhao, Hongxia, Yang, Wei, Lin, Chang, Zhou, Baole, Ai, Yong, Li, Jingren, Zhou`
-    | :venue:`VLDB 2019`
 
 ACL
 ---
@@ -1530,6 +1134,345 @@ ACL
     | :venue:`ACL 2019 Workshop`
     | :keywords:`h, t, t, p, s, :, /, /, g, i, t, h, u, b, ., c, o, m, /, i, a, n, y, c, x, u, /, R, G, C, N, -, w, i, t, h, -, B, E, R, T`
 
+AISTATS
+-------
+
+`Graph to Graph: a Topology Aware Approach for Graph Structures Learning and Generation
+<http://proceedings.mlr.press/v89/sun19c.html>`_
+    | :authors:`Mingming, Sun, Ping, Li`
+    | :venue:`AISTATS 2019`
+
+CVPR
+----
+
+`Graph-based Global Reasoning Networks
+<https://arxiv.org/abs/1811.12814>`_
+    | :authors:`Yunpeng, Chen, Marcus, Rohrbach, Zhicheng, Yan, Shuicheng, Yan, Jiashi, Feng, Yannis, Kalantidis`
+    | :venue:`CVPR 2019`
+
+`Deep Graph Laplacian Regularization for Robust Denoising of Real Images
+<https://arxiv.org/abs/1807.11637>`_
+    | :authors:`Jin, Zeng, Jiahao, Pang, Wenxiu, Sun, Gene, Cheung`
+    | :venue:`CVPR 2019`
+
+`Learning Context Graph for Person Search
+<https://arxiv.org/abs/1904.01830>`_
+    | :authors:`Yichao, Yan, Qiang, Zhang, Bingbing, Ni, Wendong, Zhang, Minghao, Xu, Xiaokang, Yang`
+    | :venue:`CVPR 2019`
+
+`Graphonomy: Universal Human Parsing via Graph Transfer Learning
+<https://arxiv.org/abs/1904.04536>`_
+    | :authors:`Ke, Gong, Yiming, Gao, Xiaodan, Liang, Xiaohui, Shen, Meng, Wang, Liang, Lin`
+    | :venue:`CVPR 2019`
+
+`Masked Graph Attention Network for Person Re-identification
+<http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Bao_Masked_Graph_Attention_Network_for_Person_Re-Identification_CVPRW_2019_paper.pdf>`_
+    | :authors:`Liqiang, Bao, Bingpeng, Ma, Hong, Chang, Xilin, Chen`
+    | :venue:`CVPR 2019`
+
+`Learning to Cluster Faces on an Affinity Graph
+<https://arxiv.org/abs/1904.02749>`_
+    | :authors:`Lei, Yang, Xiaohang, Zhan, Dapeng, Chen, Junjie, Yan, Chen, Change, Loy, Dahua, Lin`
+    | :venue:`CVPR 2019`
+
+`Actional-structural Graph Convolutional Networks for Skeleton-based Action Recognition
+<https://arxiv.org/abs/1904.12659>`_
+    | :authors:`Maosen, Li, Siheng, Chen, Xu, Chen, Ya, Zhang, Yanfeng, Wang, Qi, Tian`
+    | :venue:`CVPR 2019`
+
+`Adaptively Connected Neural Networks
+<https://arxiv.org/abs/1904.03579>`_
+    | :authors:`Guangrun, Wang, Keze, Wang, Liang, Lin`
+    | :venue:`CVPR 2019`
+
+`Reasoning Visual Dialogs with Structural and Partial Observations
+<https://arxiv.org/abs/1904.03579>`_
+    | :authors:`Zilong, Zheng, Wenguan, Wang, Siyuan, Qi, Song-Chun, Zhu`
+    | :venue:`CVPR 2019`
+
+EMNLP
+-----
+
+`Learning to Create Sentence Semantic Relation Graphs for Multi-document Summarization
+<https://arxiv.org/pdf/1909.12231.pdf>`_
+    | :authors:`Diego, Antognini, Boi, Faltings`
+    | :venue:`EMNLP 2019`
+
+`Dependency-guided Lstm-crf for Named Entity Recognition
+<https://arxiv.org/pdf/1909.10148.pdf>`_
+    | :authors:`Zhanming, Jie, Wei, Lu`
+    | :venue:`EMNLP 2019`
+
+`Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+<https://arxiv.org/pdf/1909.08211.pdf>`_
+    | :authors:`Penghui, Wei, Nan, Xu, Wenji, Mao`
+    | :venue:`EMNLP 2019`
+
+`Dialoguegcn: A Graph Convolutional Neural Network for Emotion Recognition in Conversation
+<https://arxiv.org/pdf/1908.11540.pdf>`_
+    | :authors:`Deepanway, Ghosal, Navonil, Majumder, Soujanya, Poria, Niyati, Chhaya, Alexander, Gelbukh`
+    | :venue:`EMNLP 2019`
+
+`Modeling Graph Structure in Transformer for Better Amr-to-text Generation
+<https://arxiv.org/pdf/1909.00136.pdf>`_
+    | :authors:`Jie, Zhu, Junhui, Li, Muhua, Zhu, Longhua, Qian, Min, Zhang, Guodong, Zhou`
+    | :venue:`EMNLP 2019`
+
+`Kagnet: Knowledge-aware Graph Networks for Commonsense Reasoning
+<https://arxiv.org/pdf/1909.02151.pdf>`_
+    | :authors:`Bill, Yuchen, Lin, Xinyue, Chen, Jamin, Chen, Xiang, Ren`
+    | :venue:`EMNLP 2019`
+
+ICCV
+----
+
+`Deepgcns: Can Gcns Go As Deep As Cnns?
+<https://arxiv.org/pdf/1904.03751.pdf>`_
+    | :authors:`Guohao, Li, Matthias, Muller, Ali, Thabet, Bernard, Ghanem`
+    | :venue:`ICCV 2019`
+
+`Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning
+<https://arxiv.org/pdf/1908.02441.pdf>`_
+    | :authors:`Jiwoong, Park, Minsik, Lee, Hyung, Jin, Chang, Kyuewang, Lee, Jin, Young, Choi`
+    | :venue:`ICCV 2019`
+
+`Pixel2mesh++: Multi-view 3d Mesh Generation via Deformation
+<https://arxiv.org/pdf/1908.01491.pdf>`_
+    | :authors:`Chao, Wen, Yinda, Zhang, Zhuwen, Li, Yanwei, Fu`
+    | :venue:`ICCV 2019`
+
+`Learning Trajectory Dependencies for Human Motion Prediction
+<https://arxiv.org/pdf/1908.05436.pdf>`_
+    | :authors:`Wei, Mao, Miaomiao, Liu, Mathieu, Salzmann, Hongdong, Li`
+    | :venue:`ICCV 2019`
+
+`Graph-based Object Classification for Neuromorphic Vision Sensing
+<https://arxiv.org/pdf/1908.06648.pdf>`_
+    | :authors:`Yin, Bi, Aaron, Chadha, Alhabib, Abbas, Eirina, Bourtsoulatze, Yiannis, Andreopoulos`
+    | :venue:`ICCV 2019`
+
+`Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid
+<https://arxiv.org/pdf/1908.11754.pdf>`_
+    | :authors:`Zhanghui, Kuang, Yiming, Gao, Guanbin, Li, Ping, Luo, Yimin, Chen, Liang, Lin, Wayne, Zhang`
+    | :venue:`ICCV 2019`
+
+`Understanding Human Gaze Communication by Spatio-temporal Graph Reasoning
+<https://arxiv.org/pdf/1909.02144.pdf>`_
+    | :authors:`Lifeng, Fan, Wenguan, Wang, Siyuan, Huang, Xinyu, Tang, Song-Chun, Zhu`
+    | :venue:`ICCV 2019`
+
+`Visual Semantic Reasoning for Image-text Matching
+<https://arxiv.org/pdf/1909.02701.pdf>`_
+    | :authors:`Kunpeng, Li, Yulun, Zhang, Kai, Li, Yuanyuan, Li, Yun, Fu`
+    | :venue:`ICCV 2019`
+
+`Graph Convolutional Networks for Temporal Action Localization
+<https://arxiv.org/pdf/1909.03252.pdf>`_
+    | :authors:`Runhao, Zeng, Wenbing, Huang, Mingkui, Tan, Yu, Rong, Peilin, Zhao, Junzhou, Huang, Chuang, Gan`
+    | :venue:`ICCV 2019`
+
+`Learning Combinatorial Embedding Networks for Deep Graph Matching
+<http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf>`_
+    | :authors:`Runzhong, Wang, Junchi, Yan, Xiaokang, Yang`
+    | :venue:`ICCV 2019`
+
+ICLR
+----
+
+`Deep Graph Infomax
+<https://arxiv.org/pdf/1809.10341>`_
+    | :authors:`Petar, Veličković, William, Fedus, William, L., Hamilton, Pietro, Liò, Yoshua, Bengio, R, Devon, Hjelm`
+    | :venue:`ICLR 2019`
+
+`Dyrep: Learning Representations over Dynamic Graphs
+<https://openreview.net/pdf?id=HyePrhR5KX>`_
+    | :authors:`Rakshit, Trivedi, Mehrdad, Farajtabar, Prasenjeet, Biswal, Hongyuan, Zha`
+    | :venue:`ICLR 2019`
+
+`Rotate: Knowledge Graph Embedding by Relational Rotation in Complex Space
+<https://arxiv.org/abs/1902.10197>`_
+    | :authors:`Zhiqing, Sun, Zhi-Hong, Deng, Jian-Yun, Nie, Jian, Tang`
+    | :venue:`ICLR 2019`
+
+`How Powerful Are Graph Neural Networks?
+<https://arxiv.org/pdf/1810.00826>`_
+    | :authors:`Keyulu, Xu, Weihua, Hu, Jure, Leskovec, Stefanie, Jegelka`
+    | :venue:`ICLR 2019`
+
+`Lanczosnet: Multi-scale Deep Graph Convolutional Networks
+<https://arxiv.org/pdf/1901.01484>`_
+    | :authors:`Renjie, Liao, Zhizhen, Zhao, Raquel, Urtasun, Richard, S., Zemel`
+    | :venue:`ICLR 2019`
+
+`Graph Wavelet Neural Network
+<https://arxiv.org/pdf/1904.07785>`_
+    | :authors:`Bingbing, Xu, Huawei, Shen, Qi, Cao, Yunqi, Qiu, Xueqi, Cheng`
+    | :venue:`ICLR 2019`
+
+`Supervised Community Detection with Line Graph Neural Networks
+<https://openreview.net/pdf?id=H1g0Z3A9Fm>`_
+    | :authors:`Zhengdao, Chen, Xiang, Li, Joan, Bruna`
+    | :venue:`ICLR 2019`
+
+`Predict Then Propagate: Graph Neural Networks Meet Personalized Pagerank
+<https://arxiv.org/pdf/1810.05997>`_
+    | :authors:`Johannes, Klicpera, Aleksandar, Bojchevski, Stephan, Günnemann`
+    | :venue:`ICLR 2019`
+
+`Invariant and Equivariant Graph Networks
+<https://arxiv.org/pdf/1812.09902>`_
+    | :authors:`Haggai, Maron, Heli, Ben-Hamu, Nadav, Shamir, Yaron, Lipman`
+    | :venue:`ICLR 2019`
+
+`Capsule Graph Neural Network
+<https://openreview.net/pdf?id=Byl8BnRcYm>`_
+    | :authors:`Zhang, Xinyi, Lihui, Chen`
+    | :venue:`ICLR 2019`
+
+`Differentiable Perturb-and-parse: Semi-supervised Parsing with a Structured Variational Autoencoder
+<https://openreview.net/pdf?id=BJlgNh0qKQ>`_
+    | :authors:`Caio, Corro, Ivan, Titov`
+    | :venue:`ICLR 2019`
+
+`Structured Neural Summarization
+<https://arxiv.org/pdf/1811.01824.pdf>`_
+    | :authors:`Patrick, Fernandes, Miltiadis, Allamanis, Marc, Brockschmid`
+    | :venue:`ICLR 2019`
+
+`Learning Localized Generative Models for 3d Point Clouds via Graph Convolution
+<https://openreview.net/forum?id=SJeXSo09FQ>`_
+    | :authors:`Diego, Valsesia, Giulia, Fracastoro, Enrico, Magli`
+    | :venue:`ICLR 2019`
+
+`Graph Hypernetworks for Neural Architecture Search
+<https://openreview.net/pdf?id=rkgW0oA9FX>`_
+    | :authors:`Chris, Zhang, Mengye, Ren, Raquel, Urtasun`
+    | :venue:`ICLR 2019`
+
+`Neural Graph Evolution: Towards Efficient Automatic Robot Design
+<https://openreview.net/pdf?id=BkgWHnR5tm>`_
+    | :authors:`Tingwu, Wang, Yuhao, Zhou, Sanja, Fidler, Jimmy, Ba`
+    | :venue:`ICLR 2019`
+
+`Attention, Learn to Solve Routing Problems!
+<https://arxiv.org/abs/1803.08475>`_
+    | :authors:`Wouter, Kool, Herke, van, Hoof, Max, Welling`
+    | :venue:`ICLR 2019`
+
+`Learning a Sat Solver from Single-bit Supervision
+<https://arxiv.org/abs/1802.03685>`_
+    | :authors:`Daniel, Selsam, Matthew, Lamm, Benedikt, Bünz, Percy, Liang, Leonardo, de, Moura, David, L., Dill`
+    | :venue:`ICLR 2019`
+
+`Adversarial Attacks on Graph Neural Networks via Meta Learning
+<https://arxiv.org/abs/1902.08412>`_
+    | :authors:`Daniel, Zügner, Stephan, Günnemann`
+    | :venue:`ICLR 2019`
+
+`Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning
+<https://arxiv.org/abs/1805.10002>`_
+    | :authors:`Yanbin, Liu, Juho, Lee, Minseop, Park, Saehoon, Kim, Eunho, Yang, Sung, Ju, Hwang, Yi, Yang`
+    | :venue:`ICLR 2019`
+
+`Learning Multimodal Graph-to-graph Translation for Molecule Optimization
+<https://arxiv.org/abs/1812.01070>`_
+    | :authors:`Wengong, Jin, Kevin, Yang, Regina, Barzilay, Tommi, Jaakkola`
+    | :venue:`ICLR 2019`
+
+`Generative Code Modeling with Graphs
+<https://openreview.net/forum?id=Bke4KsA5FX>`_
+    | :authors:`Marc, Brockschmidt, Miltiadis, Allamanis, Alexander, L., Gaunt, Oleksandr, Polozov`
+    | :venue:`ICLR 2019`
+
+`Graphtsne: A Visualization Technique for Graph-structured Data
+<https://arxiv.org/pdf/1904.06915.pdf>`_
+    | :authors:`Yao, Yang, Leow, Thomas, Laurent, Xavier, Bresson`
+    | :venue:`ICLR 2019 Workshop`
+
+ICML
+----
+
+`Mixhop: Higher-order Graph Convolutional Architectures via Sparsified Neighborhood Mixing
+<https://arxiv.org/pdf/1905.00067>`_
+    | :authors:`Sami, Abu-El-Haija, Bryan, Perozzi, Amol, Kapoor, Nazanin, Alipourfard, Kristina, Lerman, Hrayr, Harutyunyan, Greg, Ver, Steeg, Aram, Galstyan`
+    | :venue:`ICML 2019`
+
+`Graph U-nets
+<https://arxiv.org/pdf/1905.05178>`_
+    | :authors:`Hongyang, Gao, Shuiwang, Ji`
+    | :venue:`ICML 2019`
+
+`Disentangled Graph Convolutional Networks
+<http://proceedings.mlr.press/v97/ma19a/ma19a.pdf>`_
+    | :authors:`Jianxin, Ma, Peng, Cui, Kun, Kuang, Xin, Wang, Wenwu, Zhu`
+    | :venue:`ICML 2019`
+
+`Gmnn: Graph Markov Neural Networks
+<https://arxiv.org/pdf/1905.06214>`_
+    | :authors:`Meng, Qu, Yoshua, Bengio, Jian, Tang`
+    | :venue:`ICML 2019`
+
+`Simplifying Graph Convolutional Networks
+<https://arxiv.org/pdf/1902.07153>`_
+    | :authors:`Felix, Wu, Tianyi, Zhang, Amauri, Holanda, de, Souza, Jr., Christopher, Fifty, Tao, Yu, Kilian, Q., Weinberger`
+    | :venue:`ICML 2019`
+
+`Position-aware Graph Neural Networks
+<https://arxiv.org/pdf/1906.04817>`_
+    | :authors:`Jiaxuan, You, Rex, Ying, Jure, Leskovec`
+    | :venue:`ICML 2019`
+
+`Self-attention Graph Pooling
+<https://arxiv.org/pdf/1904.08082>`_
+    | :authors:`Junhyun, Lee, Inyeop, Lee, Jaewoo, Kang`
+    | :venue:`ICML 2019`
+
+`Relational Pooling for Graph Representations
+<https://arxiv.org/pdf/1903.02541>`_
+    | :authors:`Ryan, L., Murphy, Balasubramaniam, Srinivasan, Vinayak, Rao, Bruno, Ribeiro`
+    | :venue:`ICML 2019`
+
+`Graph Learning Network: A Structure Learning Algorithm
+<https://arxiv.org/abs/1905.12665>`_
+    | :authors:`Darwin, Saire, Pilco, Adín, Ramírez, Rivera`
+    | :venue:`ICML 2019 Workshop`
+
+`Learning Discrete Structures for Graph Neural Networks
+<https://arxiv.org/abs/1903.11960>`_
+    | :authors:`Luca, Franceschi, Mathias, Niepert, Massimiliano, Pontil, Xiao, He`
+    | :venue:`ICML 2019`
+
+`Graphite: Iterative Generative Modeling of Graphs
+<https://arxiv.org/abs/1803.10459>`_
+    | :authors:`Aditya, Grover, Aaron, Zweig, Stefano, Ermon`
+    | :venue:`ICML 2019`
+
+`Drug-drug Adverse Effect Prediction with Graph Co-attention
+<https://arxiv.org/pdf/1905.00534.pdf>`_
+    | :authors:`Andreea, Deac, Yu-Hsiang, Huang, Petar, Veličković, Pietro, Liò, Jian, Tang`
+    | :venue:`ICML 2019 Workshop`
+
+`Dag-gnn: Dag Structure Learning with Graph Neural Networks
+<https://arxiv.org/abs/1904.10098>`_
+    | :authors:`Yue, Yu, Jie, Chen, Tian, Gao, Mo, Yu`
+    | :venue:`ICML 2019`
+
+ICSC
+----
+
+`Identifying Protein-protein Interaction Using Tree Lstm and Structured Attention
+<https://ieeexplore.ieee.org/abstract/document/8665584>`_
+    | :authors:`Mahtab, Ahmed, Jumayel, Islam, Muhammad, Rifayat, Samee, Robert, E., Mercer`
+    | :venue:`ICSC 2019`
+
+IJCAI
+-----
+
+`Binarized Collaborative Filtering with Distilling Graph Convolutional Networks
+<https://arxiv.org/pdf/1906.01829.pdf>`_
+    | :authors:`Haoyu, Wang, Defu, Lian, Yong, Ge`
+    | :venue:`IJCAI 2019`
+
 KDD
 ---
 
@@ -1618,86 +1561,31 @@ KDD
     | :authors:`Peng, Han, Peng, Yang, Peilin, Zhao, Shuo, Shang, Yong, Liu, Jiayu, Zhou, Xin, Gao, Panos, Kalnis`
     | :venue:`KDD 2019`
 
-ICCV
-----
-
-`Deepgcns: Can Gcns Go As Deep As Cnns?
-<https://arxiv.org/pdf/1904.03751.pdf>`_
-    | :authors:`Guohao, Li, Matthias, Muller, Ali, Thabet, Bernard, Ghanem`
-    | :venue:`ICCV 2019`
-
-`Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning
-<https://arxiv.org/pdf/1908.02441.pdf>`_
-    | :authors:`Jiwoong, Park, Minsik, Lee, Hyung, Jin, Chang, Kyuewang, Lee, Jin, Young, Choi`
-    | :venue:`ICCV 2019`
-
-`Pixel2mesh++: Multi-view 3d Mesh Generation via Deformation
-<https://arxiv.org/pdf/1908.01491.pdf>`_
-    | :authors:`Chao, Wen, Yinda, Zhang, Zhuwen, Li, Yanwei, Fu`
-    | :venue:`ICCV 2019`
-
-`Learning Trajectory Dependencies for Human Motion Prediction
-<https://arxiv.org/pdf/1908.05436.pdf>`_
-    | :authors:`Wei, Mao, Miaomiao, Liu, Mathieu, Salzmann, Hongdong, Li`
-    | :venue:`ICCV 2019`
-
-`Graph-based Object Classification for Neuromorphic Vision Sensing
-<https://arxiv.org/pdf/1908.06648.pdf>`_
-    | :authors:`Yin, Bi, Aaron, Chadha, Alhabib, Abbas, Eirina, Bourtsoulatze, Yiannis, Andreopoulos`
-    | :venue:`ICCV 2019`
-
-`Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid
-<https://arxiv.org/pdf/1908.11754.pdf>`_
-    | :authors:`Zhanghui, Kuang, Yiming, Gao, Guanbin, Li, Ping, Luo, Yimin, Chen, Liang, Lin, Wayne, Zhang`
-    | :venue:`ICCV 2019`
-
-`Understanding Human Gaze Communication by Spatio-temporal Graph Reasoning
-<https://arxiv.org/pdf/1909.02144.pdf>`_
-    | :authors:`Lifeng, Fan, Wenguan, Wang, Siyuan, Huang, Xinyu, Tang, Song-Chun, Zhu`
-    | :venue:`ICCV 2019`
-
-`Visual Semantic Reasoning for Image-text Matching
-<https://arxiv.org/pdf/1909.02701.pdf>`_
-    | :authors:`Kunpeng, Li, Yulun, Zhang, Kai, Li, Yuanyuan, Li, Yun, Fu`
-    | :venue:`ICCV 2019`
-
-`Graph Convolutional Networks for Temporal Action Localization
-<https://arxiv.org/pdf/1909.03252.pdf>`_
-    | :authors:`Runhao, Zeng, Wenbing, Huang, Mingkui, Tan, Yu, Rong, Peilin, Zhao, Junzhou, Huang, Chuang, Gan`
-    | :venue:`ICCV 2019`
-
-EMNLP
+NAACL
 -----
 
-`Learning to Create Sentence Semantic Relation Graphs for Multi-document Summarization
-<https://arxiv.org/pdf/1909.12231.pdf>`_
-    | :authors:`Diego, Antognini, Boi, Faltings`
-    | :venue:`EMNLP 2019`
+`Imposing Label-relational Inductive Bias for Extremely Fine-grained Entity Typing
+<https://arxiv.org/pdf/1903.02591.pdf>`_
+    | :authors:`Wenhan, Xiong, Jiawei, Wu, Deren, Lei, Mo, Yu, Shiyu, Chang, Xiaoxiao, Guo, William, Yang, Wang`
+    | :venue:`NAACL 2019`
 
-`Dependency-guided Lstm-crf for Named Entity Recognition
-<https://arxiv.org/pdf/1909.10148.pdf>`_
-    | :authors:`Zhanming, Jie, Wei, Lu`
-    | :venue:`EMNLP 2019`
+`Single Document Summarization As Tree Induction
+<https://www.aclweb.org/anthology/N19-1173>`_
+    | :authors:`Yang, Liu, Ivan, Titov, Mirella, Lapata`
+    | :venue:`NAACL 2019`
 
-`Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
-<https://arxiv.org/pdf/1909.08211.pdf>`_
-    | :authors:`Penghui, Wei, Nan, Xu, Wenji, Mao`
-    | :venue:`EMNLP 2019`
+`Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks
+<https://arxiv.org/pdf/1903.01306.pdf>`_
+    | :authors:`Ningyu, Zhang, Shumin, Deng, Zhanlin, Sun, Guanying, Wang, Xi, Chen, Wei, Zhang, Huajun, Chen`
+    | :venue:`NAACL 2019`
 
-`Dialoguegcn: A Graph Convolutional Neural Network for Emotion Recognition in Conversation
-<https://arxiv.org/pdf/1908.11540.pdf>`_
-    | :authors:`Deepanway, Ghosal, Navonil, Majumder, Soujanya, Poria, Niyati, Chhaya, Alexander, Gelbukh`
-    | :venue:`EMNLP 2019`
+Nature
+------
 
-`Modeling Graph Structure in Transformer for Better Amr-to-text Generation
-<https://arxiv.org/pdf/1909.00136.pdf>`_
-    | :authors:`Jie, Zhu, Junhui, Li, Muhua, Zhu, Longhua, Qian, Min, Zhang, Guodong, Zhou`
-    | :venue:`EMNLP 2019`
-
-`Kagnet: Knowledge-aware Graph Networks for Commonsense Reasoning
-<https://arxiv.org/pdf/1909.02151.pdf>`_
-    | :authors:`Bill, Yuchen, Lin, Xinyue, Chen, Jamin, Chen, Xiang, Ren`
-    | :venue:`EMNLP 2019`
+`Towards Perturbation Prediction of Biological Networks Using Deep Learning
+<https://www.nature.com/articles/s41598-019-48391-y>`_
+    | :authors:`Diya, Li, Jianxi, Gao`
+    | :venue:`Nature 2019`
 
 NeurIPS
 -------
@@ -1715,6 +1603,11 @@ NeurIPS
 `Social-bigat: Multimodal Trajectory Forecasting Using Bicycle-gan and Graph Attention Networks
 <https://arxiv.org/pdf/1907.03395.pdf>`_
     | :authors:`Vineet, Kosaraju, Amir, Sadeghian, Roberto, Martín-Martín, Ian, Reid, S., Hamid, Rezatofighi, Silvio, Savarese`
+    | :venue:`NeurIPS 2019`
+
+`Probabilistic Logic Neural Networks for Reasoning
+<https://arxiv.org/pdf/1906.08495.pdf>`_
+    | :authors:`Meng, Qu, Jian, Tang`
     | :venue:`NeurIPS 2019`
 
 `Quaternion Knowledge Graph Embeddings
@@ -1787,9 +1680,19 @@ NeurIPS
     | :authors:`Maxime, Gasse, Didier, Chételat, Nicola, Ferroni, Laurent, Charlin, Andrea, Lodi`
     | :venue:`NeurIPS 2019`
 
+`On Learning Paradigms for the Travelling Salesman Problem
+<https://arxiv.org/pdf/1910.07210.pdf>`_
+    | :authors:`Chaitanya, K., Joshi, Thomas, Laurent, Xavier, Bresson`
+    | :venue:`NeurIPS 2019 Workshop`
+
 `Learning to Propagate for Graph Meta-learning
 <https://arxiv.org/pdf/1909.05024.pdf>`_
     | :authors:`Lu, Liu, Tianyi, Zhou, Guodong, Long, Jing, Jiang, Chengqi, Zhang`
+    | :venue:`NeurIPS 2019`
+
+`A Flexible Generative Framework for Graph-based Semi-supervised Learning
+<https://arxiv.org/abs/1905.10769>`_
+    | :authors:`Jiaqi, Ma, Weijing, Tang, Ji, Zhu, Qiaozhu, Mei`
     | :venue:`NeurIPS 2019`
 
 `Graph Normalizing Flows
@@ -1806,6 +1709,212 @@ NeurIPS
 <https://arxiv.org/pdf/1910.00760.pdf>`_
     | :authors:`Renjie, Liao, Yujia, Li, Yang, Song, Shenlong, Wang, Charlie, Nash, William, L., Hamilton, David, Duvenaud, Raquel, Urtasun, Richard, Zemel`
     | :venue:`NeurIPS 2019`
+
+SIGGRAPH
+--------
+
+`Meshcnn: A Network with an Edge
+<https://arxiv.org/pdf/1809.05910.pdf>`_
+    | :authors:`Rana, Hanocka, Amir, Hertz, Noa, Fish, Raja, Giryes, Shachar, Fleishman, Daniel, Cohen-Or`
+    | :venue:`SIGGRAPH 2019`
+    | :keywords:`h, t, t, p, s, :, /, /, r, a, n, a, h, a, n, o, c, k, a, ., g, i, t, h, u, b, ., i, o, /, M, e, s, h, C, N, N, /`
+
+SIGIR
+-----
+
+`A Neural Influence Diffusion Model for Social Recommendation
+<https://arxiv.org/pdf/1904.10322.pdf>`_
+    | :authors:`Le, Wu, Peijie, Sun, Yanjie, Fu, Richang, Hong, Xiting, Wang, Meng, Wang`
+    | :venue:`SIGIR 2019`
+    | :keywords:`Social, Recommendation, diffusion`
+
+`Neural Graph Collaborative Filtering
+<https://arxiv.org/pdf/1905.08108.pdf>`_
+    | :authors:`Xiang, Wang, Xiangnan, He, Meng, Wang, Fuli, Feng, Tat-Seng, Chua`
+    | :venue:`SIGIR 2019`
+    | :keywords:`Collaborative, Filtering, GNN`
+
+SysML
+-----
+
+`Pytorch-biggraph: A Large-scale Graph Embedding System
+<https://arxiv.org/pdf/1903.12287>`_
+    | :authors:`Adam, Lerer, Ledell, Wu, Jiajun, Shen, Timothee, Lacroix, Luca, Wehrstedt, Abhijit, Bose, Alex, Peysakhovich`
+    | :venue:`SysML 2019`
+
+VLDB
+----
+
+`Aligraph: A Comprehensive Graph Neural Network Platform
+<https://arxiv.org/pdf/1902.08730>`_
+    | :authors:`Rong, Zhu, Kun, Zhao, Hongxia, Yang, Wei, Lin, Chang, Zhou, Baole, Ai, Yong, Li, Jingren, Zhou`
+    | :venue:`VLDB 2019`
+
+WSDM
+----
+
+`A General View for Network Embedding As Matrix Factorization
+<https://dl.acm.org/citation.cfm?id=3291029>`_
+    | :authors:`Xin, Liu, Tsuyoshi, Murata, Kyoung-Sook, Kim, Chatchawan, Kotarasu, Chenyi, Zhuang`
+    | :venue:`WSDM 2019`
+
+`Session-based Social Recommendation via Dynamic Graph Attention Networks
+<https://arxiv.org/pdf/1902.09362.pdf>`_
+    | :authors:`Weiping, Song, Zhiping, Xiao, Yifan, Wang, Laurent, Charlin, Ming, Zhang, Jian, Tang`
+    | :venue:`WSDM 2019`
+    | :keywords:`Social, recommendation, session-based, GAT`
+
+WWW
+---
+
+`Netsmf: Large-scale Network Embedding As Sparse Matrix Factorization
+<http://keg.cs.tsinghua.edu.cn/jietang/publications/www19-Qiu-et-al-NetSMF-Large-Scale-Network-Embedding.pdf>`_
+    | :authors:`Jiezhong, Qiu, Yuxiao, Dong, Hao, Ma, Jian, Li, Chi, Wang, Kuansan, Wang, Jie, Tang`
+    | :venue:`WWW 2019`
+
+`Adversarial Training Methods for Network Embedding
+<https://dl.acm.org/citation.cfm?id=3313445>`_
+    | :authors:`Quanyu, Dai, Xiao, Shen, Liang, Zhang, Qiang, Li, Dan, Wang`
+    | :venue:`WWW 2019`
+
+`Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning
+<https://arxiv.org/abs/1903.08948>`_
+    | :authors:`Wen, Zhang, Bibek, Paudel, Liang, Wang, Jiaoyan, Chen, Hai, Zhu, Wei, Zhang, Abraham, Bernstein, Huajun, Chen`
+    | :venue:`WWW 2019`
+
+`Heterogeneous Graph Attention Network
+<https://arxiv.org/pdf/1903.07293>`_
+    | :authors:`Xiao, Wang, Houye, Ji, Chuan, Shi, Bai, Wang, Peng, Cui, P., Yu, Yanfang, Ye`
+    | :venue:`WWW 2019`
+
+`Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations
+<https://arxiv.org/pdf/1901.06965.pdf>`_
+    | :authors:`Hongyang, Gao, Yongjun, Chen, Shuiwang, Ji`
+    | :venue:`WWW 2019`
+
+`Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in
+<https://arxiv.org/pdf/1903.10433.pdf>`_
+    | :authors:`Qitian, Wu, Hengrui, Zhang, Xiaofeng, Gao, Peng, He, Paul, Weng, Han, Gao, Guihai, Chen`
+    | :venue:`WWW 2019`
+    | :keywords:`Social, recommendation, GAT`
+
+`Graph Neural Networks for Social Recommendation
+<https://arxiv.org/pdf/1902.07243.pdf>`_
+    | :authors:`Wenqi, Fan, Yao, Ma, Qing, Li, Yuan, He, Eric, Zhao, Jiliang, Tang, Dawei, Yin`
+    | :venue:`WWW 2019`
+    | :keywords:`Social, recommendation, GNN`
+
+`Graphvite: A High-performance Cpu-gpu Hybrid System for Node Embedding
+<https://arxiv.org/pdf/1903.00757>`_
+    | :authors:`Zhaocheng, Zhu, Shizhen, Xu, Meng, Qu, Jian, Tang`
+    | :venue:`WWW 2019`
+
+arXiv
+-----
+
+`Continuous Graph Neural Networks
+<https://arxiv.org/pdf/1912.00967.pdf>`_
+    | :authors:`Louis-Pascal, A., C., Xhonneux, Meng, Qu, Jian, Tang`
+    | :venue:`arXiv 2019`
+
+`An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem
+<https://arxiv.org/abs/1906.01227>`_
+    | :authors:`Chaitanya, K., Joshi, Thomas, Laurent, Xavier, Bresson`
+    | :venue:`arXiv 2019`
+
+`Brain Signal Classification via Learning Connectivity Structure
+<https://arxiv.org/abs/1905.11678>`_
+    | :authors:`Soobeom, Jang, Seong-Eun, Moon, Jong-Seok, Lee`
+    | :venue:`arXiv 2019`
+
+`Joint Embedding of Structure and Features via Graph Convolutional Networks
+<https://arxiv.org/abs/1905.08636>`_
+    | :authors:`Sébastien, Lerique, Jacob, Levy, Abitbol, Márton, Karsai`
+    | :venue:`arXiv 2019`
+
+`Variational Spectral Graph Convolutional Networks
+<https://arxiv.org/abs/1906.01852>`_
+    | :authors:`Louis, Tiao, Pantelis, Elinas, Harrison, Nguyen, Edwin, V., Bonilla`
+    | :venue:`arXiv 2019`
+
+`Selfies: a Robust Representation of Semantically Constrained Graphs with an Example Application in Chemistry
+<https://arxiv.org/pdf/1905.13741.pdf>`_
+    | :authors:`Mario, Krenn, Florian, Häse, AkshatKumar, Nigam, Pascal, Friederich, Alán, Aspuru-Guzik`
+    | :venue:`arXiv 2019`
+
+`Detecting Drug-drug Interactions Using Artificial Neural Networks and Classic Graph Similarity Measures
+<https://arxiv.org/pdf/1903.04571.pdf>`_
+    | :authors:`Guy, Shtar, Lior, Rokach, Bracha, Shapira`
+    | :venue:`arXiv 2019`
+
+bioRxiv
+-------
+
+`Pgcn: Disease Gene Prioritization by Disease and Gene Embedding through Graph Convolutional Neural Networks
+<https://www.biorxiv.org/content/biorxiv/early/2019/01/28/532226.full.pdf>`_
+    | :authors:`Yu, Li, Hiroyuki, Kuwahara, Peng, Yang, Le, Song, Xin, Gao`
+    | :venue:`bioRxiv 2019`
+
+2020
+====
+
+ICLR
+----
+
+`Graphzoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding
+<https://openreview.net/pdf?id=r1lGO0EKDH>`_
+    | :authors:`Chenhui, Deng, Zhiqiang, Zhao, Yongyu, Wang, Zhiru, Zhang, Zhuo, Feng`
+    | :venue:`ICLR 2020`
+
+`Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning
+<https://openreview.net/forum?id=rkeuAhVKvB>`_
+    | :authors:`Xiaoran, Xu, Wei, Feng, Yunsheng, Jiang, Xiaohui, Xie, Zhiqing, Sun, Zhi-Hong, Deng`
+    | :venue:`ICLR 2020`
+
+`Curvature Graph Network
+<https://openreview.net/pdf?id=BylEqnVFDB>`_
+    | :authors:`Ze, Ye, Kin, Sum, Liu, Tengfei, Ma, Jie, Gao, Chao, Chen`
+    | :venue:`ICLR 2020`
+
+`Memory-based Graph Networks
+<https://openreview.net/pdf?id=r1laNeBYPB>`_
+    | :authors:`Amir, hosein, Khasahmadi, Kaveh, Hassani, Parsa, Moradi, Leo, Lee, Quaid, Morris`
+    | :venue:`ICLR 2020`
+
+`Strategies for Pre-training Graph Neural Networks
+<https://openreview.net/pdf?id=HJlWWJSFDH>`_
+    | :authors:`Weihua, Hu, Bowen, Liu, Joseph, Gomes, Marinka, Zitnik, Percy, Liang, Vijay, Pande, Jure, Leskovec`
+    | :venue:`ICLR 2020`
+
+`Deep Graph Matching Consensus
+<https://openreview.net/pdf?id=HyeJf1HKvS>`_
+    | :authors:`Matthias, Fey, Jan, E., Lenssen, Christopher, Morris, Jonathan, Masci, Nils, M., Kriege`
+    | :venue:`ICLR 2020`
+
+`Few-shot Learning on Graphs via Super-classes Based on Graph Spectral Measures
+<https://openreview.net/forum?id=Bkeeca4Kvr>`_
+    | :authors:`Jatin, Chauhan, Deepak, Nathani, Manohar, Kaul`
+    | :venue:`ICLR 2020`
+
+`Automated Relational Meta-learning
+<https://openreview.net/pdf?id=rklp93EtwH>`_
+    | :authors:`Huaxiu, Yao, Xian, Wu, Zhiqiang, Tao, Yaliang, Li, Bolin, Ding, Ruirui, Li, Zhenhui, Li`
+    | :venue:`ICLR 2020`
+
+`Directional Message Passing for Molecular Graphs
+<https://openreview.net/pdf?id=B1eWbxStPH>`_
+    | :authors:`Johannes, Klicpera, Janek, Groß, Stephan, Günnemann`
+    | :venue:`ICLR 2020`
+
+`Neural Execution of Graph Algorithms
+<https://openreview.net/pdf?id=SkgKO0EtvS>`_
+    | :authors:`Petar, Veličković, Rex, Ying, Matilde, Padovano, Raia, Hadsell, Charles, Blundell`
+    | :venue:`ICLR 2020`
+
+`Graphaf: a Flow-based Autoregressive Model for Molecular Graph Generation
+<https://openreview.net/pdf?id=S1esMkHYPr>`_
+    | :authors:`Chence, Shi, Minkai, Xu, Zhaocheng, Zhu, Weinan, Zhang, Ming, Zhang, Jian, Tang`
+    | :venue:`ICLR 2020`
 
 Others
 ======

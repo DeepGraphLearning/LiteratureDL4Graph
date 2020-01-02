@@ -132,6 +132,11 @@ Unsupervised Node Representation Learning
     | :authors:`Hongchang Gao, Jian Pei, Heng Huang`
     | :venue:`KDD 2019`
 
+`GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding
+<https://openreview.net/pdf?id=r1lGO0EKDH>`_
+	| :authors:`Chenhui Deng, Zhiqiang Zhao, Yongyu Wang, Zhiru Zhang, Zhuo Feng`
+	| :venue:`ICLR 2020`
+
 Node Representation Learning in Heterogeneous Graphs
 ----------------------------------------------------
 
@@ -467,6 +472,11 @@ Knowledge Graph Embedding
     | :authors:`Ivana Balaževic, Carl Allen, Timothy Hospedales`
     | :venue:`NeurIPS 2019`
 
+`Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning
+<https://openreview.net/forum?id=rkeuAhVKvB>`_
+	| :authors:`Xiaoran Xu, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun, Zhi-Hong Deng`
+	| :venue:`ICLR 2020`
+	
 Graph Neural Networks
 =====================
 
@@ -703,10 +713,25 @@ Graph Neural Networks
 `Continuous Graph Neural Networks
 <https://arxiv.org/pdf/1912.00967.pdf>`_
     | :authors:`Louis-Pascal A. C. Xhonneux, Meng Qu, Jian Tang`
-    | :venue:`arXiv 1912`
+    | :venue:`arXiv 2019`
 
-Applications of Graph Neural Networks
-=====================================
+`Curvature Graph Network
+<https://openreview.net/pdf?id=BylEqnVFDB>`_
+	| :authors:`Ze Ye, Kin Sum Liu, Tengfei Ma, Jie Gao, Chao Chen`
+	| :venue:`ICLR 2020`
+
+`Memory-based Graph Networks
+<https://openreview.net/pdf?id=r1laNeBYPB>`_
+	| :authors:`Amir hosein Khasahmadi, Kaveh Hassani, Parsa Moradi, Leo Lee, Quaid Morris`
+	| :venue:`ICLR 2020`
+	
+`Strategies for Pre-training Graph Neural Networks
+<https://openreview.net/pdf?id=HJlWWJSFDH>`_
+	| :authors:`Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec`
+	| :venue:`ICLR 2020`
+
+Applications of Graph Deep Learning
+=================================
 
 Natural Language Processing
 ---------------------------
@@ -1393,8 +1418,36 @@ Adversarial Attack and Robustness
     | :authors:`Daniel Zügner, Stephan Günnemann`
     | :venue:`KDD 2019`
 
-Meta Learning
+Graph Matching
 -------------
+
+`REGAL: Representation Learning-based Graph Alignment
+<https://arxiv.org/pdf/1802.06257.pdf>`_
+	| :authors: `Mark Heimann, Haoming Shen, Tara Safavi, Danai Koutra`
+	| :venue:`CIKM 2018`
+
+`Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
+<https://www.aclweb.org/anthology/D18-1032.pdf>`_
+	| :authors:`Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang`
+	| :venue:`EMNLP 2018`
+
+`Learning Combinatorial Embedding Networks for Deep Graph Matching
+<http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf>`_
+	| :authors:`Runzhong Wang, Junchi Yan, Xiaokang Yang`
+	| :venue:`ICCV 2019`
+
+`Deep Graph Matching Consensus
+<https://openreview.net/pdf?id=HyeJf1HKvS>`_
+	| :authors:`Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege`
+	| :venue:`ICLR 2020`
+	
+Meta Learning and Few-shot Learning
+---------------------------------
+
+`Few-Shot Learning with Graph Neural Networks
+<https://arxiv.org/abs/1711.04043>`_
+    | :authors:`Victor Garcia, Joan Bruna`
+    | :venue:`ICLR 2018`
 
 `Learning Steady-States of Iterative Algorithms over Graphs
 <http://proceedings.mlr.press/v80/dai18a.html>`_
@@ -1406,13 +1459,18 @@ Meta Learning
     | :authors:`Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang`
     | :venue:`NeurIPS 2019`
 
+`Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measures
+<https://openreview.net/forum?id=Bkeeca4Kvr>`_
+	| :authors:`Jatin Chauhan, Deepak Nathani, Manohar Kaul`
+	| :venue:`ICLR 2020`
+
+`Automated Relational Meta-learning
+<https://openreview.net/pdf?id=rklp93EtwH>`_
+	| :authors:`Huaxiu Yao, Xian Wu, Zhiqiang Tao, Yaliang Li, Bolin Ding, Ruirui Li, Zhenhui Li`
+	| :venue:`ICLR 2020`
+
 Structure Learning
 ------------------
-
-`Few-Shot Learning with Graph Neural Networks
-<https://arxiv.org/abs/1711.04043>`_
-    | :authors:`Victor Garcia, Joan Bruna`
-    | :venue:`ICLR 2018`
 
 `Neural Relational Inference for Interacting Systems
 <https://arxiv.org/abs/1802.04687>`_
@@ -1518,6 +1576,19 @@ Drug–target Interactions
     | :authors:`Diya Li, Jianxi Gao`
     | :venue:`Nature 2019`
 
+`Directional Message Passing for Molecular Graphs
+<https://openreview.net/pdf?id=B1eWbxStPH>`_
+	| :authors:`Johannes Klicpera, Janek Groß, Stephan Günnemann`
+	| :venue:`ICLR 2020`
+
+Graph Algorithms
+---------------
+
+`Neural Execution of Graph Algorithms
+<https://openreview.net/pdf?id=SkgKO0EtvS>`_
+	| :authors:`Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell`
+	| :venue:`ICLR 2020`
+
 Theorem Proving
 ---------------
 
@@ -1608,6 +1679,11 @@ Graph Generation
 <https://arxiv.org/pdf/1910.00760.pdf>`_
     | :authors:`Renjie Liao, Yujia Li, Yang Song, Shenlong Wang, Charlie Nash, William L. Hamilton, David Duvenaud, Raquel Urtasun, Richard Zemel`
     | :venue:`NeurIPS 2019`
+
+`GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation
+<https://openreview.net/pdf?id=S1esMkHYPr>`_
+	| :authors:`Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang`
+	| :venue:`ICLR 2020`
 
 Graph Layout and High-dimensional Data Visualization
 ====================================================
